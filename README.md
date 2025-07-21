@@ -24,7 +24,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ## Projects
 
-### UTHealth School of Dentistry — Documentation Compliance Dashboard
+### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard
 **Tools:** Power BI, DAX, EHR data  
 **Skills:** Data mapping, calculated fields, interactive filters  
 **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
