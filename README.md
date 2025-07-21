@@ -41,7 +41,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 - Applied filters, diverging color schemes, and calculated fields for advanced interactivity.
 - Created a visual story on disparities in infection scores among hospitals.
 
-[Read the project summary](./Projects/Multivariate_Infection_Rates/project_description.md)  
+[Project Summary](./Projects/Multivariate_Infection_Rates/project_description.md)  
 [Dashboard Preview](./Projects/Multivariate_Infection_Rates/HW14_Heatmap_ParallelPlot.png)
 
 ---
