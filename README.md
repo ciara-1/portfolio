@@ -18,7 +18,7 @@ As part of my M.S. program, I completed 39 credit hours covering core competenci
 - **Workflow Engineering**: Process mapping, swimlane diagrams
 - **Data Visualization**: Power BI, Tableau, human factors in UI/UX
 
-Detailed descriptions and technical skills used in each course can be found in [Courses](./Courses/course_catalog.md).
+Detailed descriptions and technical skills used in each course can be found in [Courses](./course_catalog.md).
 
 ---
 
