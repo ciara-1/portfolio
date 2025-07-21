@@ -34,6 +34,18 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
+### Multivariate Infection Analysis — Tableau Dashboard  
+*Healthcare-Associated Infections in Harris County*
+
+- Used parallel coordinate plots and heatmaps to analyze infection scores across 6 metrics.
+- Applied filters, diverging color schemes, and calculated fields for advanced interactivity.
+- Created a visual story on disparities in infection scores among hospitals.
+
+[Read the project summary](./Projects/Multivariate_Infection_Rates/project_description.md)  
+[Dashboard Preview](./Projects/Multivariate_Infection_Rates/HW14_Heatmap_ParallelPlot.png)
+
+---
+
 ### Houston Methodist — PT/OT Production Tracker
 **Tools:** SQL, Excel, EHR  
 **Skills:** Data extraction, scheduling optimization, reporting  
