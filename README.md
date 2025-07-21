@@ -52,15 +52,3 @@ Detailed descriptions and technical skills used in each course can be found in [
 **Goal:** Support daily reporting and identify visit gaps to optimize patient throughput.
 
 ---
-
-## Certifications
-
-- Microsoft Data Visualization Professional Certificate (Coursera)
-- CITI Program: Biomedical & Social/Behavioral Research
-- Basic Life Support (AHA)
-- Python, SQL, and Power BI courses on LinkedIn Learning
-
----
-
-## Skills
-- SQL, Python, Tableau, R/R Studio, LucidChart, Swimlane & Yourdon Diagrams, Excel, VLOOKUP, Pivot Tables, Machine Learning (ML), Artificial Intelligence (AI), Large Language Models (LLMs), Pandas, PySpark, Java, MongoDB, Data Science, Data Analysis, Data Mapping, Project Management, Client Support and Consulting, Customer-Focused Problem Solving
