@@ -39,9 +39,6 @@ Detailed descriptions and technical skills used in each course can be found in [
 **Skills:** Data extraction, scheduling optimization, reporting  
 **Goal:** Support daily reporting and identify visit gaps to optimize patient throughput.
 
-[Summary](./Projects/EHR_Tracking_PT_OT/summary.md)  
-🖼[PT/OT Tracker Screenshot](./Projects/EHR_Tracking_PT_OT/ptot_dashboard.png)
-
 ---
 
 ## Certifications
