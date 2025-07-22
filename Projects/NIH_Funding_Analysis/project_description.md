@@ -1,4 +1,4 @@
-# NIH Funding Analysis — “Little” Big Data Project
+# NIH Funding Analysis
 
 ## Summary
 This project simulates tasks assigned to a health data scientist at the National Institutes of Health (NIH). The goal is to apply “little” Big Data techniques to analyze large-scale NIH funding data, transforming raw Excel data into actionable insights and visualizations.
@@ -16,5 +16,5 @@ The NIH governing board needs a detailed report on funding trends for a specific
 ## Files Included
 - `Assignment1.ipynb` : Jupyter Lab notebook containing data cleaning, analysis, and visualization
 - `Assignment1.html` : html version of Juputer Lab notebook
-- `nih-Worldwide2015.xls` & `papers.csv`: Datasets used
+- `nih-Worldwide2015.xls`, `papers.csv`, & `us-states.csv`: Datasets used
 - `project_description.md` : This project overview
