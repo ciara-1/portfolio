@@ -19,6 +19,7 @@
 ## Files Included
 
 - `Project1.py`: Python script with complete class implementation and test scenario
+- `project_description.md` : This project overview
 
 ---
 
