@@ -54,7 +54,10 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 ---
 
 ## Python/Pandas/PySpark Projects
-
+### Quick Sort Pivot Comparison — Python Benchmarking  
+- **Tool:** Python  
+- **Goal:** Compare average runtimes of Quick Sort using fixed vs. randomized pivot strategies  
+- [Project Summary](./Projects/QuickSort_Pivot_Comparison/project_description.md)
 
 ---
 
