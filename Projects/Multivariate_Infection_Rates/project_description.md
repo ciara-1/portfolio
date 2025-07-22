@@ -58,7 +58,7 @@ This project explores multivariate healthcare-associated infection (HAI) metrics
 
 ## Screenshot
 
-[Dashboard Preview](./HW14_Heatmap_ParallelPlot.png)
+![Dashboard Preview](./HW14_Heatmap_ParallelPlot.png)
 
 ---
 
@@ -67,10 +67,3 @@ This project explores multivariate healthcare-associated infection (HAI) metrics
 - `HW14_Heatmap_ParallelPlot.png`: Final dashboard screenshot
 - `Healthcare_Infections_Hospitals.csv`: Filtered dataset used in Tableau
 - `project_description.md`: This project overview
-
----
-
-## 🎓 Course: HI 6340 – Health Information Visualization and Visual Analytics  
-**Institution**: UTHealth School of Biomedical Informatics  
-**Instructor**: [Add name if appropriate]
-
