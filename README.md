@@ -69,6 +69,10 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Goal:** Analyze outpatient data stored in CSV format to compute visit frequency, physician count, and diagnosis patterns per patient.  
 - [Project Summary](./Projects/Outpatient_CSV_Summary/project_description.md)
 
+### Outpatient Data Analysis
+- **Tool:** Python (Pandas, NumPy)  
+- **Goal:** Summarize outpatient clinical data by computing visit frequency, physician count, diagnosis variety, and most common diagnosis per patient.  
+- [Project Summary](./Projects/Outpatient_Analysis_Pandas/project_description.md)
 
 ---
 
