@@ -66,3 +66,9 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Skills:** Daily census reporting, production metric calculations, referral tracking
 - **Goal:** Improve resource scheduling and streamline therapy department reporting  
   *Note: No public files are shared due to HIPAA restrictions on patient-level EHR data.*
+
+### IT Project Management – Telemedicine Implementation  
+- **Tools:** PMBOK, Gantt Chart, Risk Matrix, Cost Estimation  
+- **Goal:** Plan a telemedicine implementation to reduce ED overcrowding and improve throughput
+- [Project Summary](./Projects/IT_Project_Management/project_description.md)
+
