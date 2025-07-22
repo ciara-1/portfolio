@@ -49,6 +49,6 @@ This final project dashboard allows users to compare hospitals using the HCAHPS 
 
 ## Files Included
 
-- `HCAHPS Hospital.csv`: Dataset used
 - `TermProject.png`: Dashboard screenshot
+- `HCAHPS Hospital.csv`: Dataset used
 - `project_description.md`: This project overview
