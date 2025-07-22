@@ -74,10 +74,15 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Goal:** Summarize outpatient clinical data by computing visit frequency, physician count, diagnosis variety, and most common diagnosis per patient.  
 - [Project Summary](./Projects/Outpatient_Analysis_Pandas/project_description.md)
 
-### NIH Funding Analysis — “Little” Big Data Project  
+### NIH Funding Analysis
 - **Tool:** Python  
 - **Goal:** Analyze large-scale NIH funding data from Excel to generate insights and visualizations for NIH leadership  
 - [Project Summary](./Projects/NIH_Funding_Analysis/project_description.md)
+
+### COVID-19 Patient Data Integration
+- **Tool:** Python (Pandas), MongoDB  
+- **Goal:** Integrate and clean patient data from multiple sources to perform COVID-19 data analysis  
+- [Project Summary](./Projects/COVID19_Data_Wrangling/project_description.md)
 
 ---
 
