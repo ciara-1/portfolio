@@ -15,3 +15,4 @@
 *Files Included:*  
 - `Project4.ipynb`: Python script with complete class implementation and test scenario 
 - `outpatient_sample.csv`: Sample dataset used
+- `project_description.md` : This project overview
