@@ -22,7 +22,7 @@ Two tables were created with primary-foreign key relationships:
 
 ---
 
-## 🔍 Query Highlights
+## Query Highlights
 
 The SQL queries answered real-world data questions such as:
 
@@ -39,11 +39,3 @@ Example:
 SELECT COUNT(*) AS Female_BloodType
 FROM Patients
 WHERE Gender = 'F' AND BloodType = 'A-';
-
----
-
-## Files Included
-
-- `SQLProject.sql`: SQL Schema
-- `Patients.csv` & `Diagnoses.csv`: Datasets used
-- `project_description.md`: This project overview
