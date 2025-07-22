@@ -44,6 +44,6 @@ This dashboard visualizes the status of 26 Leading Health Indicators (LHIs) from
 
 ## Files Included
 
-- `Unit9.png` – Dashboard screenshot
+- `Unit9.png`: Dashboard screenshot
 - `LHI-ProgressReport-ExecSum.xls`: Dataset used
 - `project_description.md`: This project overview
