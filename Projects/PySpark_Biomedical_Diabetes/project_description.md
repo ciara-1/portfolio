@@ -27,6 +27,6 @@ This two-part project demonstrates the use of PySpark for big data preprocessing
 
 ## 📁 Files Included
 - `Assignment3.ipynb`: Code and results  
-- `Assignment3.html`: Rendered notebook  
-- `diabetes.csv` & `rel.csv`: Datasets used  
-- `pair-count.txt`: Output from Part I  
+- `Assignment3.html`: Rendered notebook
+
+*Note:Datasets and output files are not included in this repository due to size constraints and UMLS licensing.*
