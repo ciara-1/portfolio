@@ -8,6 +8,6 @@
 - Exported processed summaries to a new CSV with Python's built-in libraries only
 
 **Files Included:**
-- `Project3.py`: Processing and export logic   
+- `Project3.py`: Python script with complete class implementation and test scenario  
 - `Project3.csv`: Final output with computed metrics
 - `outpatient_sample.csv`: Sample dataset used
