@@ -62,7 +62,7 @@ This project explores multivariate healthcare-associated infection (HAI) metrics
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `HW14_Heatmap_ParallelPlot.png`: Final dashboard screenshot
 - `Healthcare_Infections_Hospitals.csv`: Filtered dataset used in Tableau
