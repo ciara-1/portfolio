@@ -84,26 +84,41 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Goal:** Integrate and clean patient data from multiple sources to perform COVID-19 data analysis  
 - [Project Summary](./Projects/COVID19_Data_Wrangling/project_description.md)
 
+### PySpark Biomedical Concept Pairs & Diabetes Prediction  
+- **Tool:** PySpark (RDD, DataFrame, MLlib)  
+- **Goal:** Process UMLS concept pairs and predict diabetes using random forest on clinical data  
+- [Project Summary](./Projects/PySpark_Biomedical_Diabetes/project_description.md)
+
 ---
 
-## Other Projects
+## Microsoft Power BI Projects
 ### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard ###
 - **Tools:** Power BI, DAX, EHR data  
 - **Skills:** Data mapping, calculated fields, interactive filters  
 - **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
 - [Project Summary](./Projects/PowerBI_Dental_Dashboard/project_description.md)  
   *Note: No public files are shared due to HIPAA restrictions on patient-level EHR data.*
-  
+
+---
+## Project Mangement Projects
+### IT Project Management — Telemedicine Implementation  
+- **Tools:** PMBOK, Gantt Chart, Risk Matrix, Cost Estimation  
+- **Goal:** Plan a telemedicine implementation to reduce ED overcrowding and improve throughput
+- [Project Summary](./Projects/IT_Project_Management/project_description.md)
+
+### Future State Workflow Redesign — SBMI Oncology Hospital  
+- **Tools:** Lucidchart, Word, Workflow Modeling  
+- **Goal:** Improve interdepartmental transport coordination and documentation through infrastructure redesign and EHR integration  
+- [Project Summary](./Projects/Workflow_Redesign_Oncology_Transport/project_description.md)
+
+---
+
+## Other Projects
 ### Houston Methodist — PT/OT Production Tracker ###
 - **Tools:** SQL, Excel, EHR  
 - **Skills:** Daily census reporting, production metric calculations, referral tracking
 - **Goal:** Improve resource scheduling and streamline therapy department reporting  
   *Note: No public files are shared due to HIPAA restrictions on patient-level EHR data.*
-
-### IT Project Management — Telemedicine Implementation  
-- **Tools:** PMBOK, Gantt Chart, Risk Matrix, Cost Estimation  
-- **Goal:** Plan a telemedicine implementation to reduce ED overcrowding and improve throughput
-- [Project Summary](./Projects/IT_Project_Management/project_description.md)
 
 ### Transformer-Based Models for Medication Error Detection — Scientific Literature Review 
 - **Goal:** Investigate the use of transformer-based technologies to reduce clinical medication errors  
