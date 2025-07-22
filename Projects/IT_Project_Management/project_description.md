@@ -34,7 +34,7 @@ Implement a telemedicine platform to reduce emergency department overcrowding, i
 
 ## Files Included
 
-- `PMP.docx`: Project Management Plan
+- `PMP.pdf`: Project Management Plan
 - `project_description.md`: This project overview
 
 ---
