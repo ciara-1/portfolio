@@ -38,8 +38,7 @@ Evaluate and compare the average running time of Quick Sort using two pivot stra
 ## Files Included
 
 - `Project2.py`: Python script with complete class implementation and test scenario
-- Test arrays are generated dynamically within the script
-
+- `project_description.md` : This project overview
 ---
 
 *Note: This was a self-contained benchmarking project using standard Python libraries for performance testing.*
