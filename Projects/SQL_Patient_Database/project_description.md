@@ -39,3 +39,14 @@ Example:
 SELECT COUNT(*) AS Female_BloodType
 FROM Patients
 WHERE Gender = 'F' AND BloodType = 'A-';
+```
+
+
+---
+
+
+## Files Included
+
+- `SQLProject.sql`: SQL Schema & Queries
+- `Patients.csv` & `Diagnoses.csv`: Datasets used
+- `project_description.md`: This project overview
