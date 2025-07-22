@@ -31,3 +31,4 @@ Conducted a comprehensive review of peer-reviewed studies (2020–2024) using th
 
 - `FinalPaper.pdf`: Systematized literature review paper  
 - `FinalPoster.pdf`: Summary poster for academic presentation
+- `project_description.md` : This project overview
