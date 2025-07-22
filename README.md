@@ -67,8 +67,12 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Goal:** Improve resource scheduling and streamline therapy department reporting  
   *Note: No public files are shared due to HIPAA restrictions on patient-level EHR data.*
 
-### IT Project Management – Telemedicine Implementation  
+### IT Project Management — Telemedicine Implementation  
 - **Tools:** PMBOK, Gantt Chart, Risk Matrix, Cost Estimation  
 - **Goal:** Plan a telemedicine implementation to reduce ED overcrowding and improve throughput
 - [Project Summary](./Projects/IT_Project_Management/project_description.md)
+
+### Transformer-Based Models for Medication Error Detection — Scientific Literature Review 
+- **Goal:** Investigate the use of transformer-based technologies to reduce clinical medication errors  
+- [Project Summary](./Projects/Transformer_Medication_Errors/project_description.md)
 
