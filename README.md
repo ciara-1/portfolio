@@ -30,7 +30,6 @@ Detailed descriptions and technical skills used in each course can be found in [
 **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
 
 [Project Summary](./Projects/PowerBI_Dental_Dashboard/project_description.md)  
-[Dashboard Screenshot](./Projects/PowerBI_Dental_Dashboard/dashboard_screenshot.png)
 
 ---
 
