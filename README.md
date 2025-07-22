@@ -109,7 +109,7 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 ### Future State Workflow Redesign — SBMI Oncology Hospital  
 - **Tools:** Lucidchart, Word, Workflow Modeling  
 - **Goal:** Improve interdepartmental transport coordination and documentation through infrastructure redesign and EHR integration  
-- [Project Summary](./Projects/Workflow_Rreedesign/project_description.md)
+- [Project Summary](./Projects/Workflow_Redesign/project_description.md)
 
 ---
 
