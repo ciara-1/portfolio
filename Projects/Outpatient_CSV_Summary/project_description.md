@@ -11,3 +11,4 @@
 - `Project3.py`: Python script with complete class implementation and test scenario  
 - `Project3.csv`: Final output with computed metrics
 - `outpatient_sample.csv`: Sample dataset used
+- `project_description.md` : This project overview
