@@ -1,0 +1,791 @@
+MRNO,LastName,FirstName,MiddleInit,DOB,Gender,Address,City,State,Zipcode,EmailAddress,Phone,MothersMaiden,MaritalStatus,Occupation,Employer,BloodType,Weight,Height,AdmitDate
+6,Edwards,Julie,L,1959-07-04,F,171 Blane Street,Comanche,TX,76442,JulieEdwards@dummyemail.com,325-555-7713,Archibald,Married,Skills training coordinator,E-zhe Source,O+,121.2,"5' 4""",2021-05-01
+15,Murphy,Larry,A,1951-11-07,M,1039 Agriculture Lane,Charleston,WV,25301,LarryMurphy@dummyemail.com,304-555-3911,Anderson,Married,Wildlife biologist,Scott Ties,A+,182.4,"5' 6""",2021-05-01
+16,Gamez,Helen,C,1961-04-05,F,465 Cottonwood Lane,Grand Rapids,MI,49503,HelenCGamez@dummyemail.com,616-555-5003,Addison,Common-Law,Loss prevention agent,Magna Wealth,O+,208.8,"5' 0""",2021-05-01
+55,Frank,Pamela,J,1934-07-13,F,3720 Calvin Street,Baltimore,MD,21202,PamelaJFrank@dummyemail.com,443-555-3633,Beck,Single,Vascular sonographer,J. K. Gill Company,B+,188.5,"5' 2""",2021-05-01
+62,Wise,Porfirio,N,1970-07-12,M,2844 Highland Drive,Green Bay,WI,54301,PorfirioNWise@dummyemail.com,920-555-9822,Allis,Common-Law,Fine arts instructor,National Tea,O+,215.2,"6' 2""",2021-05-01
+67,Martinez,Alfonzo,A,1940-03-14,M,1561 Overlook Drive,Indianapolis,IN,46225,AlfonzoAMartinez@dummyemail.com,765-555-3386,Blanchard,Common-Law,Administrative support specialist,Yesterday's Records,O+,162.4,"5' 9""",2021-05-01
+103,Woolsey,Wanda,J,1965-04-08,F,1903 Murry Street,Virginia Beach,VA,22020,WandaJWoolsey@dummyemail.com,757-555-8946,Black,Single,Extruding and forming machine operator,Playworld,B+,222.4,"5' 1""",2021-05-01
+111,Sanders,Timothy,S,1937-09-08,M,3504 Tator Patch Road,Hickory Hills,IL,60457,TimothySSanders@dummyemail.com,312-555-6852,Appel,Married,Reservation agent,Penn Fruit,B+,161.0,"5' 6""",2021-05-01
+128,Warner,Vanita,J,1947-12-28,F,2923 Mount Street,Gagetown,MI,48735,VanitaJWarner@dummyemail.com,989-555-6689,Bess,Married,Customer services manager,Foot Quarters,B+,142.1,"5' 5""",2021-05-01
+130,Jennings,Michelle,G,1943-04-11,F,3316 Stonecoal Road,Mansfield,OH,44992,MichelleGJennings@dummyemail.com,419-555-4019,Aguilar,Common-Law,Textile winding twisting and drawing out machine operator,Fresh Start,O+,155.3,"5' 5""",2021-05-01
+160,Riggs,Craig,V,1963-05-10,M,1091 Summit Park Avenue,White Lake (Oakland),MI,48383,CraigVRiggs@dummyemail.com,248-555-6833,Atkins,Common-Law,Support staff clerk,Manning's Cafeterias,O+,181.5,"5' 8""",2021-05-01
+164,Hollenbeck,Patrina,C,1990-07-13,F,4669 Andell Road,Columbus,OH,43212,PatrinaCHollenbeck@dummyemail.com,614-555-5442,Baker,Common-Law,Taper,Sandy's,A+,141.5,"5' 7""",2021-05-01
+165,Davalos,Tracy,J,1949-03-10,F,2635 Cliffside Drive,Syracuse,NY,13202,TracyJDavalos@dummyemail.com,607-555-0259,Alvarez,Married,Copy editor,National Hardgoods Distributors,O+,117.3,"5' 7""",2021-05-01
+167,Wise,Edwin,C,1957-09-23,M,4556 Webster Street,New Brunswick,NJ,8901,EdwinCWise@dummyemail.com,732-555-1993,Binette,Divorced,Trader,DGS VolMAX,A+,221.5,"6' 0""",2021-05-01
+220,Burton,Nancy,D,1952-09-01,F,2947 Scenic Way,Ferris,IL,62318,NancyDBurton@dummyemail.com,217-555-2108,Adkins,Divorced,Merchandise window trimmer,Budget Power,O+,211.4,"5' 7""",2021-05-01
+221,Johnson,Leo,A,1972-05-30,M,3884 Barfield Lane,Indianapolis,IN,46218,LeoAJohnson@dummyemail.com,317-555-7875,Blount,Common-Law,Posting clerk,Rogersound Labs,B+,224.2,"5' 6""",2021-05-01
+222,Reynoso,Andrew,R,1943-03-03,M,54 Marion Street,Clover,SC,29710,AndrewRReynoso@dummyemail.com,803-555-7077,Barber,Common-Law,Floor finisher,AJ Bayless,B+,220.9,"5' 7""",2021-05-01
+239,Bowers,Denny,A,1962-04-09,M,224 Lakeland Terrace,Monroe,MI,48161,DennyABowers@dummyemail.com,734-555-8937,Bishop,Single,Sawing machine tender,Magna Consulting,A+,246.4,"5' 9""",2021-05-01
+244,Nunez,Charles,N,1961-06-19,M,2540 Benson Street,Eau Claire,WI,54701,CharlesNNunez@dummyemail.com,715-555-9006,Alexander,Single,Food cooking machine operator,Maloley's Finer Foods,O-,350.6,"5' 11""",2021-05-01
+249,McKeon,Norma,B,1982-12-02,F,1126 Emerson Road,Alexandria,LA,71302,NormaBMcKeon@dummyemail.com,318-555-0462,Bland,Divorced,Transportation inspector,The Polka Dot Bear Tavern,B+,118.8,"5' 1""",2021-05-01
+254,Gibson,Austin,L,1952-10-26,M,4166 Simpson Square,Clinton,OK,73601,AustinLGibson@dummyemail.com,580-555-9616,Bond,Divorced,Janitor,K's Merchandise,A+,177.8,"5' 11""",2021-05-01
+255,Watson,Meredith,G,1943-08-03,F,2685 Wood Street,Saginaw,MI,48607,MeredithGWatson@dummyemail.com,989-555-6479,Barron,Single,Blood bank technologist,Grass Roots Yard Services,AB+,218.9,"5' 3""",2021-05-01
+260,Jones,Joseph,R,1932-03-03,M,2598 Pike Street,La Jolla,CA,92037,JosephRJones@dummyemail.com,858-555-4868,Barmore,Married,Private detective,Purity Supreme,B+,172.7,"5' 8""",2021-05-01
+267,Scott,Sherry,C,1935-07-13,F,928 Loving Acres Road,Overlandpk,MO,66210,SherryCScott@dummyemail.com,816-555-0516,Adams,Common-Law,City planner,Just For Feet,B+,150.0,"4' 11""",2021-05-01
+268,Pearson,Catrina,M,1933-12-31,F,4288 Harley Brook Lane,Huntingdon,PA,16652,CatrinaMPearson@dummyemail.com,814-555-3886,Anderson,Married,Medical laboratory technician,Specialty Restaurant Group,AB+,234.5,"5' 0""",2021-05-01
+286,Ruiz,Eliseo,K,1946-11-27,M,3948 Parkway Drive,Willcox,AZ,85643,EliseoKRuiz@dummyemail.com,520-555-8084,Andrews,Divorced,Market research manager,Cloth World,B+,226.8,"5' 5""",2021-05-01
+327,Henson,Elaine,J,1984-12-12,F,374 Overlook Drive,Richmond,IN,47374,ElaineJHenson@dummyemail.com,765-555-3218,Andrews,Married,Repairer,Locost Accessories,O+,156.9,"5' 8""",2021-05-01
+335,Goins,Jeffrey,D,1991-08-17,M,1059 Rinehart Road,Miami Springs,FL,33166,JeffreyDGoins@dummyemail.com,786-555-8781,Bivona,Divorced,Tax assessor,Turtle's Records & Tapes,O+,150.3,"6' 3""",2021-05-01
+343,Curran,Barbara,N,1962-04-19,F,3820 Kovar Road,Quincy,MA,2169,BarbaraNCurran@dummyemail.com,508-555-6935,Amin,Married,Blood bank technologist,Target Source,O+,169.0,"5' 8""",2021-05-01
+345,Ragsdale,Sam,E,1954-05-13,M,3566 Jessie Street,Bremen,OH,43107,SamERagsdale@dummyemail.com,740-555-4577,Blackwell,Common-Law,Local account executive,Mr. AG's,O+,202.2,"5' 7""",2021-05-01
+358,Bryant,Robert,J,1987-03-12,M,4683 Cabell Avenue,Alexandria,VA,22304,RobertJBryant@dummyemail.com,703-555-3976,Aguon,Married,Medical secretary,Chandlers,O+,161.7,"6' 0""",2021-05-01
+364,Martinez,Hayley,P,1982-02-12,F,31 Spring Street,Pearl,IL,62361,HayleyPMartinez@dummyemail.com,217-555-9246,Bogart,Common-Law,Registered nurse,Chief Auto Parts,B+,149.6,"5' 5""",2021-05-01
+383,Shake,Hazel,G,1991-06-07,F,2799 Settlers Lane,New York,NY,10016,HazelGShake@dummyemail.com,917-555-7185,Baisden,Married,Contract administrator,Wells & Wade,A+,200.2,"5' 7""",2021-05-01
+389,Knight,Marc,A,1993-08-27,M,4634 Happy Hollow Road,Pembroke,NC,28372,MarcAKnight@dummyemail.com,910-555-1639,Barnes,Married,Medical transcriptionist,Excella,O+,212.5,6' 1,2021-05-01
+392,Hanna,James,R,1994-09-26,M,2438 Jerome Avenue,Laredo,TX,78040,JamesRHanna@dummyemail.com,956-555-5233,Bernard,Divorced,Radiologic technologist,Smitty's Marketplace,A+,200.4,"5' 11""",2021-05-01
+406,Luong,Roderick,J,1982-04-07,M,1002 Pike Street,San Diego,CA,92109,RoderickJLuong@dummyemail.com,858-555-5029,Behne,Single,Volcanologist,Hughes & Hatcher,AB+,192.3,"5' 9""",2021-05-01
+420,Davis,Courtney,J,1976-03-10,F,1469 Washington Avenue,Jackson,MS,39213,CourtneyJDavis@dummyemail.com,601-555-1063,Angelo,Married,Anesthesiologist,Sound Warehouse,A+,183.7,"5' 5""",2021-05-01
+429,Wells,Lisa,R,1965-10-16,F,485 Poplar Lane,Pompano Beach,FL,33064,LisaRWells@dummyemail.com,305-555-8232,Allan,Common-Law,Keypunch technician,Prahject Planner,B-,180.8,"5' 5""",2021-05-01
+440,Edwards,Garrett,M,1984-05-14,M,407 Westwood Avenue,Levittown,NY,11756,GarrettMEdwards@dummyemail.com,516-555-8265,Baker,Common-Law,Voice writer,Dahlkemper's,O+,183.3,"6 2""",2021-05-01
+449,Infante,Linda,D,1931-04-21,F,282 Hudson Street,Haledon,NJ,7508,LindaDInfante@dummyemail.com,973-555-2487,Avila,Married,Agricultural engineer,Henry's,B+,194.3,"5' 5""",2021-05-01
+464,Sutton,Edward,D,1939-12-02,M,3713 Norman Street,Long Beach,CA,90802,EdwardDSutton@dummyemail.com,323-555-4215,Barnes,Common-Law,Mapping technician,Lionel Playworld,O+,135.1,"5' 8""",2021-05-01
+469,Dawson,Clara,M,1941-11-08,F,1200 Stone Lane,Philadelphia,PA,19103,ClaraMDawson@dummyemail.com,610-555-8660,Benavidez,Divorced,Cleaning washing and metal pickling equipment tender,Kiddie City,A+,110.2,"5' 4""",2021-05-01
+478,Mitchell,Christy,M,1988-11-13,F,332 Kooter Lane,Charlotte,NC,28202,ChristyMMitchell@dummyemail.com,704-555-0665,Anderson,Divorced,Singer,Kessel Food Market,O+,213.0,5' 1,2021-05-01
+490,Morris,Margaret,F,1993-03-18,F,3126 Chandler Hollow Road,Bridgeville,PA,15017,MargaretFMorris@dummyemail.com,412-555-5603,Beck,Common-Law,Social work assistant,Heslop's,O+,148.1,"5' 8""",2021-05-01
+507,Bolanos,David,E,1963-03-30,M,2447 Comfort Court,Madison,WI,53703,DavidEBolanos@dummyemail.com,608-555-2582,Anderson,Single,Neuropsychologist,Value Giant,O-,183.0,"6' 0""",2021-05-01
+529,Dowdy,Joseph,M,1979-10-10,M,2643 Goff Avenue,Climax,MI,49034,JosephMDowdy@dummyemail.com,269-555-1563,Belvin,Common-Law,Polisher,Fireball,A-,192.9,"6' 0""",2021-05-01
+532,McHenry,Sharon,D,1937-05-29,F,1312 Kembery Drive,Chicago,IL,60607,SharonDMcHenry@dummyemail.com,630-555-0564,Barnett,Single,University instructor,Polk Brothers,A+,170.5,"5' 1""",2021-05-01
+556,Paul,Jessie,N,1959-03-15,M,1023 Simpson Square,Glencoe,OK,74032,JessieNPaul@dummyemail.com,580-555-5555,Baker,Common-Law,Industrial economist,Listen Up,O+,218.9,"5' 8""",2021-05-01
+558,Bermudez,Judy,K,1980-03-09,F,4188 Benson Park Drive,Stillwater,OK,74074,JudyKBermudez@dummyemail.com,405-555-6579,Beyer,Married,Job training specialist,Zantigo,A+,167.0,"5' 5""",2021-05-01
+600,Blaha,Joshua,L,1978-02-10,M,3487 Modoc Alley,Atlanta,ID,83601,JoshuaLBlaha@dummyemail.com,208-555-0670,Barfield,Divorced,Steadicam operator,Paul Harris,B+,160.4,"6' 0""",2021-05-01
+624,Wall,Charles,E,1942-11-03,M,4558 Tree Frog Lane,Kansas City,MO,64106,CharlesEWall@dummyemail.com,816-555-0997,Archer,Single,Department manager,Shoe Town,A+,137.1,"5' 7""",2021-05-01
+632,Castillo,Gilbert,V,1992-12-04,M,2399 Woodridge Lane,Memphis,TN,38115,GilbertVCastillo@dummyemail.com,901-555-7495,Bailey,Common-Law,Mail handler,Builders Emporium,A-,129.4,"6' 1""",2021-05-01
+636,Mack,Bennie,J,1934-08-07,F,4780 Meadowbrook Mall Road,Los Angeles,CA,90017,BennieJMack@dummyemail.com,310-555-2397,Ballard,Common-Law,Medical equipment repairer,Highland Appliance,B+,158.4,"5' 3""",2021-05-01
+667,Woods,Laura,W,1992-08-03,F,3580 Fulton Street,Matewan,WV,25678,LauraWWoods@dummyemail.com,304-555-3802,Ashcraft,Divorced,Corporate trainer,Realty Solution,A+,159.7,"5' 4""",2021-05-01
+679,Broadhead,Gary,R,1929-06-23,M,4240 Lamberts Branch Road,Miami,FL,33131,GaryRBroadhead@dummyemail.com,786-555-0650,Armstrong,Common-Law,Registered nurse,Chargepal,B+,177.1,"5' 10""",2021-05-01
+687,Aguilar,Alan,D,1963-11-03,M,4803 James Avenue,Andover,KS,67002,AlanDAguilar@dummyemail.com,316-555-2141,Baxter,Divorced,Delivery service truck driver,Office Warehouse,O+,249.0,"5' 10""",2021-05-01
+695,Allred,Jack,P,1965-08-04,M,98 Baker Avenue,Arlington,TX,76010,JackPAllred@dummyemail.com,817-555-9779,Adams,Married,Speech therapist,Olympic Sports,B+,206.1,"5' 10""",2021-05-01
+710,Trinh,Joy,D,1993-10-20,F,4382 Spring Avenue,Norristown,PA,19403,JoyDTrinh@dummyemail.com,267-555-1472,Basile,Divorced,Video editor,10000 Auto Parts,B+,191.4,"5' 5""",2021-05-01
+720,Mayo,Ernest,P,1930-01-22,M,380 Ashcraft Court,San Diego,CA,92101,ErnestPMayo@dummyemail.com,619-555-0299,Avery,Single,Human service worker,Casa Bonita,B+,220.7,"5' 6""",2021-05-01
+739,Crawley,Pamela,G,1970-08-31,F,2140 Fairmont Avenue,Kansas City,MO,64106,PamelaGCrawley@dummyemail.com,660-555-2922,Blizzard,Divorced,Diesel service technician,Afterthoughts,O-,183.9,"5' 2""",2021-05-01
+741,Harkins,Keli,D,1986-07-03,F,4841 Mount Olive Road,Decatur,GA,30030,KeliDHarkins@dummyemail.com,678-555-3322,Acosta,Common-Law,Prison guard,Britling Cafeterias,O+,199.8,"5' 5""",2021-05-01
+742,Olivo,Julie,H,1965-03-20,F,3627 Prospect Valley Road,Gardena,CA,90248,JulieHOlivo@dummyemail.com,310-555-7405,Benjamin,Divorced,Information clerk,Dubrow's Cafeteria,A-,231.7,"5' 0""",2021-05-01
+757,Jones,John,B,1967-05-31,M,1111 Wiseman Street,Knoxville,TN,37929,JohnBJones@dummyemail.com,865-555-2564,Abel,Divorced,Aerospace engineering and operations technician,Kenny Rogers Roasters,O+,97.2,"5' 9""",2021-05-01
+772,Stevens,Ray,T,1947-08-02,M,4365 Worley Avenue,Charlottesville,VA,22903,RayTStevens@dummyemail.com,434-555-2528,Angel,Common-Law,Direct care worker,Prospa-Pal,O-,225.7,"5' 9""",2021-05-01
+777,Flores,James,H,1968-03-08,M,94 Lewis Street,Chicago,IL,60631,JamesHFlores@dummyemail.com,630-555-0554,Benson,Divorced,Armed Forces,Network Air,B+,154.9,"5' 10""",2021-05-01
+797,Gutierrez,Chester,E,1980-11-10,M,3666 Hillview Street,Columbia,SC,29201,ChesterEGutierrez@dummyemail.com,803-555-1175,Artiaga,Divorced,Transportation ticket agent,Sky High Financial Advice,A+,234.3,"5' 9""",2021-05-01
+801,Posada,Wendy,T,1935-06-09,F,2626 Hog Camp Road,Chicago,IL,60631,WendyTPosada@dummyemail.com,708-555-0250,Balsamo,Single,Employee development specialist,Consumers and Consumers Express,B+,150.7,"5' 2""",2021-05-01
+802,Santos,Brenda,J,1931-10-20,F,419 Lost Creek Road,Phoenixville,PA,19460,BrendaJSantos@dummyemail.com,610-555-4157,Anderson,Divorced,Radiation protection technician,Bumper to Bumper Auto Parts,A-,182.2,"4' 11""",2021-05-01
+806,Hynes,Corrie,B,1991-02-10,F,1217 Timberbrook Lane,Grand Junction,CO,81501,CorrieBHynes@dummyemail.com,970-555-5920,Bomar,Divorced,Stock broker,Ukrop's Super Market,O-,144.5,"5' 2""",2021-05-01
+812,Cole,Gail,J,1965-04-03,F,3690 Mount Street,Farwell,MI,48622,GailJCole@dummyemail.com,989-555-0360,Bair,Common-Law,Correctional officer,Mission You,O+,140.6,"5' 0""",2021-05-01
+853,Thompson,Mary,J,1948-08-22,F,3721 Gnatty Creek Road,Farmingdale,NY,11735,MaryJThompson@dummyemail.com,516-555-4691,Allen,Single,Personnel recruiter,Harmony House,O+,210.1,"5' 3""",2021-05-01
+864,Blaine,Hector,M,1986-03-12,M,2010 Carolyns Circle,Dallas,TX,75225,HectorMBlaine@dummyemail.com,214-555-5751,Beaulieu,Common-Law,Administrative specialist,Pointers,A+,337.4,"6' 3""",2021-05-01
+883,Acosta,Zachary,R,1957-09-02,M,1154 Hartway Street,Viborg,SD,57070,ZacharyRAcosta@dummyemail.com,605-555-1689,Bailey,Divorced,Cadet,Handy Andy Home Improvement Center,A+,172.5,"5' 10""",2021-05-01
+892,Canada,Beverly,M,1943-05-06,F,4396 Norma Lane,Shreveport,LA,71101,BeverlyMCanada@dummyemail.com,318-555-8193,Aderholt,Divorced,Cab driver,Alpha Beta,O+,159.5,"5' 5""",2021-05-01
+905,Ellard,Jason,N,1928-10-05,M,1347 Kenwood Place,Miami,FL,33176,JasonNEllard@dummyemail.com,954-555-5977,Blass,Single,Fisher,Netcore,O+,138.4,"5' 5""",2021-05-01
+928,Kellum,Margarita,J,1992-03-15,F,2104 Berkley Street,Philadelphia,PA,19103,MargaritaJKellum@dummyemail.com,484-555-5348,Alcorn,Single,Job analysis manager,Full Color,O-,138.4,5' 1,2021-05-01
+934,Keefer,Mark,K,1960-02-13,M,2433 Deans Lane,Tuckahoe,NY,10707,MarkKKeefer@dummyemail.com,914-555-4775,Agee,Single,Executive editor,Handy Andy Home Improvement Center,A+,187.7,"5' 5""",2021-05-01
+959,Hargrove,Claude,H,1983-07-15,M,2879 Lang Avenue,Oak City,UT,84649,ClaudeHHargrove@dummyemail.com,435-555-8097,Abrams,Common-Law,Administrative office manager,Purity Supreme,B+,217.4,"5' 11""",2021-05-01
+980,Nelson,Bobbi,K,1951-05-12,F,4803 Virginia Street,Lombard,IL,60148,BobbiKNelson@dummyemail.com,773-555-9839,Begin,Divorced,Videographer,Formula Gray,O+,207.5,5' 1,2021-05-01
+981,Yuen,Daniel,L,1986-01-04,M,2350 Juniper Drive,Saginaw,MI,48607,DanielLYuen@dummyemail.com,989-555-5098,Blalock,Married,Leasing manager,Miller & Rhoads,B+,150.5,"5' 8""",2021-05-01
+995,McClintock,Marjorie,K,1945-12-12,F,502 Pritchard Court,Owatonna,MN,55060,MarjorieKMcClintock@dummyemail.com,507-555-0959,Barns,Common-Law,Playwright,Intelacard,A+,195.6,"5' 2""",2021-05-01
+1019,Tharp,Esther,C,1972-04-13,F,2898 Primrose Lane,Madison,WI,53718,EstherCTharp@dummyemail.com,608-555-5452,Austin,Divorced,Payroll representative,Silverwoods,B+,166.8,"5' 4""",2021-05-02
+1049,Fletcher,Deborah,T,1966-04-24,F,4465 Hurry Street,Fredericksburg,VA,22401,DeborahTFletcher@dummyemail.com,540-555-5800,Beggs,Single,Biomedical engineer,Harvest Foods,B+,187.9,"5' 3""",2021-05-02
+1063,Havard,William,J,1983-01-11,M,1203 Fancher Drive,Dallas,TX,75201,WilliamJHavard@dummyemail.com,214-555-8961,Bennett,Married,Personal appearance worker,Superior Interior Design,B+,175.3,"5' 8""",2021-05-02
+1064,Morris,Paula,E,1935-04-15,F,2449 Perine Street,Herndon,VA,20170,PaulaEMorris@dummyemail.com,703-555-7977,Banister,Single,Bleaching and dyeing machine operator,K&G Distributors,O-,141.5,5' 1,2021-05-02
+1079,Knee,Henry,S,1949-09-20,M,222 Goldcliff Circle,Washington,DC,20032,HenrySKnee@dummyemail.com,202-555-4538,Baldwin,Common-Law,Experimental psychologist,Incredible Universe,AB+,165.4,"5' 10""",2021-05-02
+1089,Squires,Arthur,G,1936-11-15,M,1741 Murphy Court,Anaheim,CA,92801,ArthurGSquires@dummyemail.com,951-555-6638,Ambrose,Common-Law,Manpower development specialist,Isaly's,B+,176.2,"5' 8""",2021-05-02
+1106,Kurtz,Geneva,R,1961-04-21,F,1557 Harvest Lane,Hurdland,MO,63547,GenevaRKurtz@dummyemail.com,660-555-4958,Bautista,Divorced,Mail machine operator,Plan Smart,B+,129.8,"5' 2""",2021-05-02
+1108,Smith,Michael,V,1966-09-30,M,1136 Angie Drive,Long Beach,CA,90808,MichaelVSmith@dummyemail.com,714-555-0777,Blair,Married,Aircraft engineer,Benesome,B+,222.2,"5' 8""",2021-05-02
+1109,Jordan,Dorothy,J,1946-05-16,F,1482 Lake Forest Drive,Fort Worth,KS,76102,DorothyJJordan@dummyemail.com,913-555-1870,Altieri,Common-Law,Computer-controlled machine tool operator,Ejecta,O+,202.6,5' 1,2021-05-02
+1113,Wright,Sandra,K,1952-03-29,F,2882 Mercer Street,Wausau,WI,54401,SandraKWright@dummyemail.com,715-555-6893,Anspach,Married,Fishing vessel operator,Griff's Hamburgers,B+,152.2,"5' 6""",2021-05-02
+1134,Porterfield,George,H,1941-01-19,M,453 Ray Court,Lumberton,NC,28358,GeorgeHPorterfield@dummyemail.com,910-555-4670,Aaron,Divorced,Gerontology aide,Ulbrich's,B+,209.9,"6' 0""",2021-05-02
+1145,Convery,Cory,M,1931-11-21,M,625 Angus Road,New York,NY,10038,CoryMConvery@dummyemail.com,212-555-7351,Beauchamp,Common-Law,Photographic processing machine operator,Kids Mart,B+,211.2,"5' 5""",2021-05-02
+1165,Cameron,Delores,H,1971-05-14,F,2958 Jehovah Drive,Fredericksburg,VA,22401,DeloresHCameron@dummyemail.com,540-555-4858,Baker,Single,Bibliographer,Saturday Matinee,O+,205.9,"5' 3""",2021-05-02
+1177,Mallory,Mary,D,1964-10-30,F,2027 Tail Ends Road,Green Bay,WI,54303,MaryDMallory@dummyemail.com,920-555-2879,Arnold,Single,Appliance repairer,Pomeroy's,B-,184.8,"5' 8""",2021-05-02
+1179,Croteau,Margaret,M,1984-02-09,F,1141 Raoul Wallenberg Place,Norwalk,CT,6851,MargaretMCroteau@dummyemail.com,203-555-7382,Beasley,Divorced,Record clerk,Gas Depot,A+,202.2,5' 1,2021-05-02
+1190,Henry,Janice,I,1935-03-17,F,1904 Parkway Drive,Tucson,AZ,85701,JaniceIHenry@dummyemail.com,520-555-6933,Beavers,Married,Mechanical door repairer,Dave Cooks,A+,126.9,"5' 7""",2021-05-02
+1199,Dunn,Mary,C,1991-05-24,F,4676 Lochmere Lane,Willimantic,CT,6226,MaryCDunn@dummyemail.com,860-555-7191,Arce,Married,Motion picture projectionist,Wise Appraisals,O+,202.4,"5' 6""",2021-05-02
+1200,Bufkin,Daisy,M,1964-08-23,F,4638 Raoul Wallenberg Place,Stamford,CT,6902,DaisyMBufkin@dummyemail.com,203-555-8250,Alaniz,Divorced,U.S. marshal,Balanced Fortune,O+,228.8,"5' 6""",2021-05-02
+1201,Means,Donald,T,1929-04-06,M,257 Shinn Street,New York,NY,10019,DonaldTMeans@dummyemail.com,212-555-5257,Billingsley,Common-Law,Fire prevention specialist,Sounds of Soul Records & Tapes,O+,137.7,"5' 5""",2021-05-02
+1212,Blair,Katie,S,1970-06-02,F,508 Jett Lane,Burbank,CA,91504,KatieSBlair@dummyemail.com,310-555-5050,Belew,Single,Coil winder,Golf Augusta Pro Shops,O+,137.5,"5' 5""",2021-05-02
+1220,Rhodes,Roslyn,A,1979-01-24,F,4047 Worthington Drive,Dallas,TX,75225,RoslynARhodes@dummyemail.com,972-555-6663,Anderson,Married,Mathematical technician,Yesterday's Records,O+,182.4,"5' 7""",2021-05-02
+1254,Campbell,Roy,S,1934-11-17,M,4123 Loving Acres Road,Cleburne,TX,76031,RoySCampbell@dummyemail.com,817-555-9798,Acree,Single,Braille clerk,H.C. Bohack,O+,154.2,"5' 9""",2021-05-02
+1266,Neely,John,S,1934-08-22,M,1148 Rafe Lane,Greenwood,MS,38930,JohnSNeely@dummyemail.com,662-555-0049,Berry,Single,Personnel training officer,Noodle Kidoodle,AB+,201.7,"5' 11""",2021-05-02
+1287,Cooper,Eric,S,1944-04-28,M,3706 Huntz Lane,Billerica,MA,1821,EricSCooper@dummyemail.com,978-555-0210,Ardis,Divorced,Forest fire inspector,Brilliant Home Designs,AB+,224.6,"5' 7""",2021-05-02
+1291,Haywood,Lindsay,B,1952-01-20,F,4853 Cedar Lane,Newton,MA,2160,LindsayBHaywood@dummyemail.com,617-555-1404,Barron,Common-Law,Judiciary interpreter,Netobill,O+,168.5,"5' 0""",2021-05-02
+1341,Miller,Heather,W,1986-10-07,F,4862 Irving Place,Saint Charles,MO,63301,HeatherWMiller@dummyemail.com,636-555-3496,Anderson,Divorced,Job analyst,A+ Electronics,O+,129.8,"5' 3""",2021-05-02
+1352,McDonald,Jessica,L,1993-02-26,F,3781 Locust Court,El Monte,CA,91731,JessicaLMcDonald@dummyemail.com,562-555-8840,Arnold,Single,Clerk,Acuserv,A+,163.7,"5' 2""",2021-05-02
+1388,Bone,Melody,F,1932-04-10,F,298 Neville Street,Evansville,IN,47711,MelodyFBone@dummyemail.com,812-555-2511,Berry,Common-Law,Customs inspector,Super Saver Foods,O+,143.0,"5' 2""",2021-05-02
+1393,Miller,Floyd,R,1976-09-02,M,4162 Twin Willow Lane,Fayetteville,NC,28307,FloydRMiller@dummyemail.com,910-555-6511,Battle,Divorced,Faller,Tradewell,A+,230.6,"5' 6""",2021-05-02
+1399,Fagan,Maryann,R,1940-10-24,F,400 May Street,Lexington,KY,40505,MaryannRFagan@dummyemail.com,606-555-5414,Bernstein,Married,Laboratory animal technologist,KB Toys,O+,161.5,5' 1,2021-05-02
+1404,Carson,John,Y,1972-07-15,M,2705 Brownton Road,Greenwood,MS,38930,JohnYCarson@dummyemail.com,662-555-9560,Boggs,Married,Organizational economist,Good Times,O+,256.3,"5' 7""",2021-05-02
+1433,Nelson,Jonathan,H,1950-02-02,M,2491 Simpson Square,Wakita,OK,73771,JonathanHNelson@dummyemail.com,580-555-8964,Belt,Common-Law,Lease operator,Mission G,O+,168.3,"5' 8""",2021-05-02
+1441,Angelo,Michael,F,1941-02-03,M,4252 Haul Road,Oakland,CA,94607,MichaelFAngelo@dummyemail.com,650-555-2821,Bandy,Common-Law,Transportation engineer,Destiny Planners,B+,220.0,"6' 0""",2021-05-02
+1467,Vera,Kimberley,G,1962-03-11,F,754 Swick Hill Street,Kenner,LA,70062,KimberleyGVera@dummyemail.com,985-555-2601,Andrus,Single,Dental surgery doctor,Value Giant,B+,152.2,"5' 6""",2021-05-02
+1473,Hollowell,Priscilla,J,1946-11-14,F,72 Sweetwood Drive,Westminster,CO,80030,PriscillaJHollowell@dummyemail.com,303-555-8428,Baker,Common-Law,Family services social worker,Tape World,O+,170.3,"5' 6""",2021-05-02
+1495,Rich,Edward,B,1931-10-19,M,4290 Weekley Street,San Antonio,TX,78205,EdwardBRich@dummyemail.com,210-555-7773,Baker,Married,Podiatric doctor,Fedco,B+,176.2,"5' 5""",2021-05-02
+1505,Collins,Queen,R,1990-04-21,F,2484 Frosty Lane,Lockwood,NY,14859,QueenRCollins@dummyemail.com,607-555-3300,Blackmon,Single,Activity specialist,Home Quarters Warehouse,O+,168.5,"5' 7""",2021-05-02
+1513,Rodriguez,Russell,J,1979-10-08,M,4224 Locust View Drive,San Francisco,CA,94115,RussellJRodriguez@dummyemail.com,415-555-1937,Barber,Single,Contract skidder,Buena Vista Realty Service,A+,175.1,"5' 10""",2021-05-02
+1522,Knipp,Steve,T,1979-03-04,M,4898 Stewart Street,Indianapolis,IN,46220,SteveTKnipp@dummyemail.com,317-555-2485,Barrios,Divorced,Quality control technician,Champion Auto,O+,151.6,"5' 8""",2021-05-02
+1533,McDermott,Elaine,W,1984-02-11,F,428 Burke Street,Boston,MA,2199,ElaineWMcDermott@dummyemail.com,781-555-6806,Block,Single,Fire inspector,Schaak Electronics,A+,111.3,"5' 3""",2021-05-02
+1539,Rathbun,Joshua,A,1968-07-12,M,3681 Briercliff Road,Brooklyn,NY,11235,JoshuaARathbun@dummyemail.com,718-555-0727,Arana,Married,Registered nurse,Handyman,O+,178.6,"5' 10""",2021-05-02
+1544,Jenkins,Mindy,A,1945-04-05,F,3644 Shobe Lane,Silverton,CO,81433,MindyAJenkins@dummyemail.com,970-555-3805,Bargas,Common-Law,Media director,Ruehl No. 925,O-,223.1,"5' 2""",2021-05-02
+1545,Gebhard,David,H,1991-11-17,M,4921 Margaret Street,Houston,TX,77007,DavidHGebhard@dummyemail.com,713-555-4277,Beaulieu,Common-Law,Claims examiner,Fresh Start,O+,231.0,"5' 6""",2021-05-02
+1566,Riggs,Versie,L,1934-01-20,F,2973 Old House Drive,Johnstown,OH,43031,VersieLRiggs@dummyemail.com,740-555-7955,Ames,Common-Law,Loan interviewer,Museum Company,O+,207.9,"5' 5""",2021-05-02
+1572,Noel,Alvin,R,1986-07-06,M,4851 Elm Drive,New York,NY,10011,AlvinRNoel@dummyemail.com,646-555-6513,Abney,Married,Stratigrapher,White Tower Hamburgers,O+,235.8,"6' 2""",2021-05-02
+1578,Kwan,Roy,C,1932-11-04,M,4319 Cunningham Court,Southfield,MI,48075,RoyCKwan@dummyemail.com,248-555-4421,Balog,Married,Detention officer,Stratapro,O+,183.7,"5' 10""",2021-05-02
+1580,Chambers,Annette,C,1933-10-04,F,1061 Glenview Drive,Corpus Christi,TX,78476,AnnetteCChambers@dummyemail.com,361-555-0659,Bevins,Divorced,Farmworker,House of Gas,A+,197.1,"5' 4""",2021-05-02
+1603,Riddle,Ramiro,C,1958-09-06,M,2898 Hickman Street,Downers Grove,IL,60515,RamiroCRiddle@dummyemail.com,630-555-0403,Abbott,Married,Floral designer,Unity Stationers,O+,215.8,"6' 0""",2021-05-02
+1611,Jordan,Angela,W,1953-04-20,F,1669 Meadowbrook Mall Road,Gardena,CA,90247,AngelaWJordan@dummyemail.com,310-555-7573,Andrews,Single,Bellhop,Big Wheel,AB+,194.3,"5' 5""",2021-05-02
+1616,Stephens,Jamika,E,1942-08-01,F,3542 Preston Street,Wichita,KS,67202,JamikaEStephens@dummyemail.com,620-555-8619,Amedee,Divorced,Construction job cost estimator,O.K. Fairbanks,O-,154.7,"5' 3""",2021-05-02
+1621,North,Monique,S,1929-05-08,F,2934 Irving Place,Saint Louis,MO,63101,MoniqueSNorth@dummyemail.com,636-555-1188,Alvarez,Common-Law,Agricultural and food science technician,Wellby,AB+,178.4,"4' 11""",2021-05-02
+1625,Newton,Brenda,W,1944-02-28,F,2883 Ella Street,Fremont,CA,94539,BrendaWNewton@dummyemail.com,650-555-1361,Alvarez,Married,Tool sharpener,Weathervane,B+,137.7,"5' 2""",2021-05-02
+1645,Baxter,Leonia,K,1970-01-17,F,1858 Lunetta Street,Throckmorton,TX,76083,LeoniaKBaxter@dummyemail.com,940-555-1491,Aquirre,Divorced,Teacher aide,FamilyMart,O+,136.6,"5' 3""",2021-05-02
+1646,Pettis,Clinton,M,1990-06-03,M,1065 Chardonnay Drive,Renton,WA,98055,ClintonMPettis@dummyemail.com,360-555-7109,Atkins,Married,Bucker,Leonard Krower & Sons,A+,190.1,"6' 1""",2021-05-02
+1649,Thomas,Carl,D,1938-05-23,M,1841 Ray Court,Wilmington,NC,28412,CarlDThomas@dummyemail.com,910-555-7019,Bean,Single,Network administrator,Handy Dan,A+,201.5,"6' 0""",2021-05-02
+1653,Blake,Elizabeth,C,1931-07-09,F,3313 Jones Avenue,Greensboro,NC,27401,ElizabethCBlake@dummyemail.com,336-555-2791,Barnett,Married,Apartment leasing agent,Atlas Architectural Designs,B+,175.1,"5' 3""",2021-05-02
+1672,Lane,Linda,M,1981-06-26,F,2831 Gateway Road,Portland,OR,97214,LindaMLane@dummyemail.com,503-555-0042,Baugh,Common-Law,Construction engineer,Indiewealth,O-,219.8,"5' 6""",2021-05-02
+1673,Gillham,Linda,L,1953-09-02,F,242 Snowbird Lane,Tekamah,NE,68061,LindaLGillham@dummyemail.com,402-555-8085,Arevalo,Divorced,Medical doctor,Ruehl No. 925,B-,173.1,"5' 3""",2021-05-02
+1674,Thomas,Tracy,J,1969-12-13,F,2506 Oakwood Avenue,New York,NY,10022,TracyJThomas@dummyemail.com,212-555-8045,Allen,Married,Shipping clerk,Gemco,A+,185.9,"5' 2""",2021-05-02
+1675,Dewitt,Maria,A,1938-02-17,F,3137 Langtown Road,Toledo,OH,43609,MariaADewitt@dummyemail.com,567-555-1633,Bates,Single,Continuous mining machine operator,Bloom Brothers Furniture,AB+,149.2,"5' 4""",2021-05-02
+1680,McBride,Lee,M,1981-02-20,M,2179 Kidd Avenue,Black Rapids,AK,99737,LeeMMcBride@dummyemail.com,907-555-1361,Berndt,Single,Anchor,Shoe Kicks,O-,143.2,"5' 8""",2021-05-02
+1718,Winland,Alice,G,1990-02-02,F,977 Carriage Court,San Diego,CA,92121,AliceGWinland@dummyemail.com,760-555-0508,Anaya,Married,Job development specialist,STM Auto Parts,O+,152.9,"5' 8""",2021-05-02
+1726,Phelps,Susan,P,1935-09-17,F,4164 Still Pastures Drive,Columbia,SC,29210,SusanPPhelps@dummyemail.com,803-555-9676,Adams,Married,Personnel services specialist,Great American Music,B+,162.1,"5' 3""",2021-05-02
+1740,Bain,Lawrence,M,1973-04-23,M,4653 Rockford Road,Reno,NV,89501,LawrenceMBain@dummyemail.com,775-555-1718,Bieber,Married,Medical records technician,Wherehouse Music,B+,178.9,"5' 10""",2021-05-02
+1760,Joseph,Sebrina,N,1988-04-24,F,1238 Clay Lick Road,Broomfield,CO,80020,SebrinaNJoseph@dummyemail.com,720-555-4697,Berry,Married,Music conductor,Super Shops,A-,123.2,"5' 4""",2021-05-02
+1761,Bennett,Candelaria,R,1991-08-12,F,3929 May Street,Campton,KY,41301,CandelariaRBennett@dummyemail.com,606-555-4867,Adams,Single,Soldering worker,Olympic Sports,AB+,143.4,"5' 3""",2021-05-02
+1765,Hopper,Marta,N,1982-03-24,F,4176 Coburn Hollow Road,Peoria,IL,61602,MartaNHopper@dummyemail.com,309-555-2262,Bemis,Common-Law,Atmospheric scientist,One-Up Realtors,B+,169.8,"5' 3""",2021-05-02
+1778,Bond,Elizabeth,M,1948-05-08,F,2155 Rockwell Lane,Rocky Mount,NC,27801,ElizabethMBond@dummyemail.com,252-555-8415,Beck,Divorced,Perianesthesia nurse,Purity,AB+,131.8,"5' 1""",2021-05-02
+1783,Boden,Herbert,D,1967-11-05,M,841 Boone Crockett Lane,Port Townsend,WA,98368,HerbertDBoden@dummyemail.com,360-555-6980,Anderson,Common-Law,Anchor,Noodle Kidoodle,B+,233.6,"5' 7""",2021-05-02
+1786,Spurlock,Lisa,E,1974-06-02,F,3109 Nelm Street,Manassas,VA,22110,LisaESpurlock@dummyemail.com,571-555-0405,Bigham,Common-Law,Central office installer,Lionel Playworld,B+,223.7,"5' 3""",2021-05-02
+1811,Smith,Brenda,M,1978-07-07,F,3137 Oakdale Avenue,Arcadia,FL,33821,BrendaMSmith@dummyemail.com,863-555-8787,Boelter,Divorced,Junior high school teacher,Bloom Brothers Furniture,B+,176.4,"5' 2""",2021-05-02
+1816,Beckman,Clint,L,1986-10-03,M,1948 Lena Lane,Meridian,MS,39301,ClintLBeckman@dummyemail.com,601-555-5815,Ayers,Common-Law,Occupational social worker,Cellophane Square,A+,242.2,"5' 9""",2021-05-02
+1818,Garner,Dwayne,I,1929-06-20,M,4913 Despard Street,East Point,GA,30344,DwayneIGarner@dummyemail.com,404-555-6597,Anderson,Single,Keypunch operator,Wetson's,O+,185.2,"6' 0""",2021-05-02
+1820,Lay,Megan,H,1932-11-01,F,2933 Emily Renzelli Boulevard,Salinas,CA,93901,MeganHLay@dummyemail.com,831-555-0479,Ballard,Common-Law,Forensic nurse,Pace Membership Warehouse,A+,189.4,"4' 11""",2021-05-02
+1833,Scott,Keith,M,1952-12-05,M,4396 Honeysuckle Lane,Seattle,WA,98106,KeithMScott@dummyemail.com,360-555-8597,Bengtson,Married,Job service consultant,Solid Future,A+,156.4,"5' 10""",2021-05-02
+1835,Trent,Terrence,A,1939-04-23,M,2778 Olen Thomas Drive,Pilot Point,TX,76258,TerrenceATrent@dummyemail.com,940-555-0462,Artz,Married,Able seaman,Polk Brothers,B+,200.4,"5' 6""",2021-05-02
+1855,Joseph,Geraldine,J,1929-06-22,F,1653 Brookside Drive,Thorsby,AL,35171,GeraldineJJoseph@dummyemail.com,205-555-7511,Alston,Single,Closing agent,Incluesiv,O+,199.3,"5' 7""",2021-05-02
+1856,Stewart,Karen,J,1930-08-06,F,3187 Hummingbird Way,Boston,MA,2110,KarenJStewart@dummyemail.com,781-555-3810,Barton,Married,Pharmacy aide,Jewel Mart,O+,130.5,"5' 0""",2021-05-02
+1859,Pittard,Keith,C,1959-12-13,M,3405 Burnside Court,Phoenix,AZ,85040,KeithCPittard@dummyemail.com,602-555-5140,Blanco,Married,Quality assurance inspector,Checker Auto Parts,O+,199.8,"6' 2""",2021-05-02
+1896,Currie,Roberta,J,1959-09-18,F,4773 Maloy Court,Rush Center,KS,67575,RobertaJCurrie@dummyemail.com,785-555-8673,Bond,Married,Reservation agent,Naugles,O+,137.7,"5' 6""",2021-05-02
+1905,Clemons,Alisa,C,1968-12-23,F,4070 Beechwood Avenue,Branchburg,NJ,8817,AlisaCClemons@dummyemail.com,908-555-3482,Blackmer,Married,Fire dispatcher,H. J. Wilson & Company,O+,116.4,"5' 7""",2021-05-02
+1918,Johnson,Alma,M,1973-01-07,F,3569 Grove Avenue,Tulsa,OK,74120,AlmaMJohnson@dummyemail.com,580-555-0832,Acosta,Single,Patternmaker,Del Farm,O+,120.6,"5' 3""",2021-05-02
+1921,Lowe,Lucretia,A,1984-02-27,F,4114 Upland Avenue,Lima,OH,45801,LucretiaALowe@dummyemail.com,419-555-0806,Batista,Single,Programmer,J. K. Gill Company,O+,136.2,"5' 1""",2021-05-02
+1947,Gossett,Rhonda,W,1939-07-25,F,803 Thunder Road,Oakland,CA,94612,RhondaWGossett@dummyemail.com,650-555-2870,Bearden,Common-Law,Industrial photographer,House Works,A+,109.8,"5' 5""",2021-05-02
+1957,Norris,Keith,D,1945-12-15,M,1192 Still Street,Oregon,OH,43616,KeithDNorris@dummyemail.com,419-555-5285,Blair,Divorced,Adult literacy teacher,Gas Zone,O+,146.5,"5' 7""",2021-05-02
+1963,Flury,Arthur,H,1977-12-27,M,290 Waterview Lane,Santa Fe,NM,87501,ArthurHFlury@dummyemail.com,505-555-9191,Bennett,Common-Law,Auxiliary equipment operator,Warehouse Club Inc.,A+,171.6,"6' 2""",2021-05-02
+1998,Welch,Corine,A,1947-10-11,F,2298 Brannon Avenue,Jacksonville,FL,32257,CorineAWelch@dummyemail.com,904-555-1029,Bacchus,Married,Weaving machine operator,Adray,A+,170.7,"5' 5""",2021-05-02
+2000,Smith,Jonathan,M,1950-11-05,M,2336 Luke Lane,Waurika,OK,73573,JonathanMSmith@dummyemail.com,580-555-8321,Aquino,Married,Executive,Great Clothes,O+,139.7,"5' 7""",2021-05-03
+2002,Debellis,Dessie,D,1987-04-21,F,4960 Confederate Drive,Chaumont,NY,13622,DessieDDebellis@dummyemail.com,315-555-8684,Andrade,Divorced,DTP operator,Delchamps,A+,126.3,"5' 1""",2021-05-03
+2025,Wolfe,Roberta,L,1992-06-02,F,2949 Park Avenue,Sacramento,CA,95823,RobertaLWolfe@dummyemail.com,916-555-5759,Benoit,Common-Law,Yoga instructor,The Royal Canadian Pancake Houses,O+,159.3,"5' 1""",2021-05-03
+2092,Tippett,Angela,R,1962-02-05,F,451 Stewart Street,Indianapolis,IN,46241,AngelaRTippett@dummyemail.com,317-555-4091,Allen,Single,Detective,Carl Durfees,B+,119.5,"5' 6""",2021-05-03
+2120,Binkley,Steve,C,1939-05-17,M,65 Liberty Street,Farmers Branch,TX,75244,SteveCBinkley@dummyemail.com,214-555-7782,Beck,Single,Recruitment manager,Murray's Discount Auto Stores,O+,200.2,"5' 6""",2021-05-03
+2129,Hansen,Katrina,R,1969-01-31,F,491 Fairmont Avenue,Warrensburg,MO,64093,KatrinaRHansen@dummyemail.com,660-555-8475,Ballweg,Single,Aircraft electronics technician,Franklin Simon,O+,145.0,"5' 5""",2021-05-03
+2131,Brook,Ruth,J,1933-06-08,F,2198 B Street,Shoreview,MN,55126,RuthJBrook@dummyemail.com,651-555-4193,Ackerman,Married,Facilitator,Media Play,O-,197.1,"5' 6""",2021-05-03
+2134,Smallwood,Christina,J,1976-01-03,F,597 Tea Berry Lane,Eau Claire,WI,54701,ChristinaJSmallwood@dummyemail.com,715-555-3166,Bayne,Divorced,Wildlife biologist,All Wound Up,O+,204.2,"5' 5""",2021-05-03
+2159,Howard,Charles,S,1995-05-30,M,619 Bates Brothers Road,Westerville,OH,43081,CharlesSHoward@dummyemail.com,614-555-1677,Bayless,Divorced,Condominium association manager,Nelson Brothers,A+,204.4,"5' 7""",2021-05-03
+2181,Howard,John,M,1969-05-13,M,1928 Coventry Court,Gulfport,MS,39503,JohnMHoward@dummyemail.com,228-555-1007,Barfield,Divorced,Property manager,Star Bright Investment Group,A+,147.8,"6' 1""",2021-05-03
+2207,Price,Cynthia,J,1932-11-18,F,408 Archwood Avenue,Mountain View,WY,82939,CynthiaJPrice@dummyemail.com,307-555-2013,Bird,Single,Registered nurse,Mode O'Day,A+,181.1,"5' 7""",2021-05-03
+2218,Lowe,Donna,J,1947-01-23,F,2097 Gateway Avenue,Bakersfield,CA,93301,DonnaJLowe@dummyemail.com,661-555-0197,Boggess,Single,Agricultural and food scientist,First Choice Yard Help,AB+,188.8,"5' 3""",2021-05-03
+2226,Coleman,Dale,M,1949-05-31,M,3456 Junior Avenue,Atlanta,GA,30303,DaleMColeman@dummyemail.com,404-555-7408,Batts,Married,Courtesy van driver,Naugles,O+,209.2,"5' 7""",2021-05-03
+2243,Tucker,William,M,1940-03-10,M,336 Spinnaker Lane,Elmhurst,IL,60126,WilliamMTucker@dummyemail.com,815-555-2869,Bond,Divorced,Sports book writer,Gantos,O+,204.4,"5' 6""",2021-05-03
+2248,Hagan,Penny,M,1977-03-16,F,2924 Yorkie Lane,Hilltonia,GA,30467,PennyMHagan@dummyemail.com,912-555-2516,Blair,Common-Law,Food science technician,Envirotecture Design Service,O+,167.0,"5' 4""",2021-05-03
+2265,Ford,Mason,W,1939-04-02,M,1545 Conaway Street,Crandall,IN,47114,MasonWFord@dummyemail.com,812-555-7781,Benton,Single,Civil service clerk,Opticomp,A+,137.5,"5' 6""",2021-05-03
+2270,Russell,Ida,J,1935-08-08,F,399 Drummond Street,Millburn,NJ,7041,IdaJRussell@dummyemail.com,973-555-1828,Bettencourt,Divorced,Buyers' agent,Prestiga-Biz,B+,193.8,"5' 0""",2021-05-03
+2285,Jackson,Lori,G,1947-03-06,F,1691 Ward Road,Port Chester,NY,10573,LoriGJackson@dummyemail.com,914-555-5807,Addy,Divorced,Sign language interpreter,Fayva,B+,194.3,"5' 0""",2021-05-03
+2286,Kelly,Teodora,K,1956-12-23,F,4314 Pringle Drive,Chicago,IL,60605,TeodoraKKelly@dummyemail.com,312-555-7119,Blankenship,Married,Forging machine operator,Indiewealth,A+,229.2,"5' 4""",2021-05-03
+2287,Willis,Christie,C,1931-12-04,F,4380 Spadafore Drive,Warren,PA,16365,ChristieCWillis@dummyemail.com,814-555-3321,Benson,Married,Epidemiologist,Good Times,O+,127.6,"5' 7""",2021-05-03
+2293,Trujillo,Lula,K,1994-02-14,F,3626 Emily Drive,Richmond,VA,23219,LulaKTrujillo@dummyemail.com,804-555-9717,Avent,Single,Material moving occupation,Ole's,B+,145.6,"5' 3""",2021-05-03
+2297,McCall,Elaine,G,1985-03-12,F,215 Poco Mas Drive,Dallas,TX,75227,ElaineGMcCall@dummyemail.com,214-555-8524,Blanton,Single,Cost/investment recovery technician,Price Club,B+,172.7,"5' 1""",2021-05-03
+2306,Sitz,David,G,1949-03-15,M,4219 Romines Mill Road,Dallas,TX,75234,DavidGSitz@dummyemail.com,214-555-9068,Alston,Common-Law,Dishwasher,Vitamax Health Food Center,O+,196.9,"5' 7""",2021-05-03
+2325,Weinberg,Judith,J,1969-02-04,F,802 Martha Ellen Drive,Carson City,NV,89701,JudithJWeinberg@dummyemail.com,775-555-7237,Baley,Common-Law,Animal breeder,Schweggmanns,AB+,137.3,"5' 3""",2021-05-03
+2353,Boyette,Patricia,J,1939-01-03,F,4794 Tecumsah Lane,Mount Pleasant,IA,52641,PatriciaJBoyette@dummyemail.com,319-555-7311,Ballenger,Single,Exercise instructor,Chief Auto Parts,O+,190.7,"5' 3""",2021-05-03
+2375,Chiang,Michael,W,1995-03-25,M,554 Broaddus Avenue,Bowling Green,KY,42101,MichaelWChiang@dummyemail.com,270-555-2776,Becker,Divorced,DTP operator,Knockout Kickboxing,B+,123.4,"6' 2""",2021-05-03
+2383,Stewart,Karen,M,1933-04-11,F,3390 Railroad Street,Felch,MI,49831,KarenMStewart@dummyemail.com,906-555-8787,Barnes,Married,Scanner operator,Cloth World,B+,136.4,"5' 6""",2021-05-03
+2386,Atkins,Fabiola,E,1961-11-24,F,4514 Brownton Road,Jackson,MS,39211,FabiolaEAtkins@dummyemail.com,662-555-4517,Baylor,Divorced,Information specialist,Food Mart,A+,209.2,"5' 6""",2021-05-03
+2396,Morton,Alfredo,J,1971-05-24,M,1704 Ridge Road,Bucklin,KS,67834,AlfredoJMorton@dummyemail.com,620-555-2358,Boivin,Married,Terrazzo worker,Liberty Wealth Planner,O+,224.2,"5' 11""",2021-05-03
+2412,White,Beth,I,1954-12-13,F,41 Coventry Court,Gulfport,MS,39507,BethIWhite@dummyemail.com,228-555-6373,Barnes,Common-Law,Dairy scientist,McDuff,A+,228.1,"5' 3""",2021-05-03
+2413,Super,Robert,A,1971-01-02,M,1191 Prospect Street,Pennsville,NJ,8070,RobertASuper@dummyemail.com,856-555-0775,Bennett,Divorced,Policy analyst,Joshua Doore,B+,144.3,"6' 2""",2021-05-03
+2417,Preston,Aurelio,R,1945-09-09,M,3561 Columbia Boulevard,Towson,MD,21204,AurelioRPreston@dummyemail.com,410-555-8137,Barton,Married,Dentist,Stratapro,O+,273.9,"5' 9""",2021-05-03
+2423,Garcia,Lupe,K,1937-06-03,F,666 Midway Road,Forum,AR,72731,LupeKGarcia@dummyemail.com,479-555-0802,Adams,Married,Oceanographer,Sagebrush,B+,220.7,"5' 5""",2021-05-03
+2446,Joyner,Misty,D,1947-08-07,F,2800 Hamilton Drive,Baltimore,MD,21229,MistyDJoyner@dummyemail.com,410-555-4209,Barnes,Common-Law,Companion,Galaxy Man,A+,126.3,"5' 2""",2021-05-03
+2454,Lunsford,Meggan,B,1937-03-23,F,2921 Geraldine Lane,New York,NY,10007,MegganBLunsford@dummyemail.com,646-555-1291,Bean,Divorced,Petroleum refinery operator,Grossman's,B+,217.4,"5' 3""",2021-05-03
+2477,Allison,Melvin,V,1971-11-09,M,3265 Riverwood Drive,Chico,CA,95926,MelvinVAllison@dummyemail.com,530-555-2174,Barnhart,Divorced,A & P mechanic,DGS HomeSource,A+,150.9,"5' 8""",2021-05-03
+2489,Deans,Diana,T,1940-01-27,F,4677 Shady Pines Drive,Bowling Green,KY,42101,DianaTDeans@dummyemail.com,270-555-0418,Augustine,Single,Social and human service assistant,Thalhimers,B+,108.0,"5' 1""",2021-05-03
+2504,Klein,Malcolm,J,1995-01-24,M,3676 Cody Ridge Road,Forgan,OK,73938,MalcolmJKlein@dummyemail.com,580-555-4736,Baldwin,Divorced,Registrar,MVP Sports,O+,147.6,"6' 1""",2021-05-03
+2535,Goodman,Douglas,V,1978-05-09,M,1827 Melville Street,Arlington,TN,38002,DouglasVGoodman@dummyemail.com,731-555-6917,Arnold,Common-Law,Machine setter,Jay Jacobs,O+,251.0,"5' 7""",2021-05-03
+2538,Beaumont,Caroline,M,1984-08-11,F,2311 Simpson Square,Eldorado,OK,73537,CarolineMBeaumont@dummyemail.com,580-555-8770,Ammon,Married,Sports instructor,Hills Supermarkets,A-,156.2,"5' 8""",2021-05-03
+2539,Leger,Sheldon,H,1989-09-19,M,4198 Locust Street,Mc Rae,GA,31055,SheldonHLeger@dummyemail.com,229-555-3749,Andrews,Single,Publicist,Matrix Interior Design,O+,236.7,"6' 2""",2021-05-03
+2542,Oleary,Donald,B,1933-06-12,M,2028 Murry Street,Norfolk,VA,23510,DonaldBOleary@dummyemail.com,757-555-5182,Baker,Common-Law,Arc cutter,Universal Design Partners,B+,203.1,"5' 10""",2021-05-03
+2545,Sherman,Debra,D,1978-12-04,F,1810 Maloy Court,Topeka,KS,66612,DebraDSherman@dummyemail.com,785-555-4132,Beebe,Common-Law,Photogrammetrist,StopGrey,B+,190.7,"5' 8""",2021-05-03
+2555,Lloyd,Edna,A,1959-05-04,F,4016 Lincoln Street,Camden,NJ,8102,EdnaALloyd@dummyemail.com,609-555-5102,Bloom,Single,Rigger,Baltimore Markets,O+,140.6,"5' 3""",2021-05-03
+2558,Campbell,Golda,M,1933-02-14,F,1810 Rebecca Street,Hickory Hills,IL,60457,GoldaMCampbell@dummyemail.com,847-555-4939,Anderson,Married,Athletic trainer,National Shirt Shop,B+,171.2,"5' 5""",2021-05-03
+2562,Songer,Caleb,J,1961-04-09,M,183 Pike Street,San Diego,CA,92123,CalebJSonger@dummyemail.com,858-555-4046,Benham,Common-Law,Bus dispatcher,Twin Electronics,O+,226.8,"6' 0""",2021-05-03
+2567,Howell,Paul,K,1984-08-28,M,2702 Clover Drive,Colorado Springs,CO,80903,PaulKHowell@dummyemail.com,719-555-2216,Armstrong,Common-Law,Product development manager,Littler's,O+,136.8,"5' 9""",2021-05-03
+2574,Trahan,Juana,J,1929-10-07,F,1118 Badger Pond Lane,Crafton,PA,15205,JuanaJTrahan@dummyemail.com,724-555-0706,Avalos,Divorced,Community support worker,County Seat,A+,144.3,"5' 6""",2021-05-03
+2620,Lawson,Brenda,J,1982-02-12,F,4368 Berkshire Circle,Knoxville,TN,37909,BrendaJLawson@dummyemail.com,865-555-2759,Bond,Married,Library binding worker,ABCO Foods,A+,180.0,"5' 5""",2021-05-03
+2632,Bell,Garrett,M,1972-08-12,M,3955 Clay Street,Indianapolis,IN,46220,GarrettMBell@dummyemail.com,317-555-3798,Best,Common-Law,Crushing grinding and polishing machine operator,MegaSolutions,A+,243.8,"5' 9""",2021-05-03
+2638,McNeese,Andrew,S,1960-02-19,M,2166 Thorn Street,Mountain View,WY,82939,AndrewSMcNeese@dummyemail.com,307-555-4269,Bailey,Single,Chemical plant and system operator,Brand Names,A+,164.6,"5' 8""",2021-05-03
+2641,Valentine,Meri,J,1976-06-09,F,1794 Middleville Road,Los Angeles,CA,90071,MeriJValentine@dummyemail.com,626-555-7381,Bates,Divorced,Drilling and boring machine tool setter,Zephyr Investments,A+,173.8,"5' 7""",2021-05-03
+2649,Marshall,Preston,H,1961-12-04,M,1390 Perine Street,Alexandria,VA,22304,PrestonHMarshall@dummyemail.com,703-555-0138,Austin,Married,Environmental scientist,The White Swan,O+,233.2,"5' 10""",2021-05-03
+2650,Wannamaker,Phillis,L,1935-05-22,F,2749 Clover Drive,Colorado Springs,CO,80903,PhillisLWannamaker@dummyemail.com,719-555-6661,Bee,Married,Door-to-door sales worker,Monk Home Improvements,A-,121.9,"5' 5""",2021-05-03
+2655,Franson,Carl,A,1994-01-31,M,2615 Kennedy Court,Bolton,MA,1740,CarlAFranson@dummyemail.com,774-555-1969,Armstrong,Single,Piano tuner,Just For Feet,A+,126.5,"6' 1""",2021-05-03
+2656,Tinsley,Alice,R,1995-01-17,F,2971 Wyatt Street,Delray Beach,FL,33484,AliceRTinsley@dummyemail.com,561-555-3333,Blair,Married,Management scientist,Maloley's Finer Foods,O+,146.1,"4' 11""",2021-05-03
+2670,McKechnie,Erik,O,1982-09-11,M,2592 Adams Avenue,Chevy Chase,MD,20815,ErikOMcKechnie@dummyemail.com,301-555-7132,Audet,Divorced,Speech therapist,Gamble-Skogmo,O+,219.1,"5' 7""",2021-05-03
+2679,Crews,William,E,1939-06-27,M,3493 Oak Street,East Syracuse,NY,13057,WilliamECrews@dummyemail.com,315-555-8744,Abraham,Married,First mate,Muirhead's,AB+,165.4,"5' 9""",2021-05-03
+2687,Jones,April,A,1955-11-06,F,3400 Timber Oak Drive,Nipomo,CA,93444,AprilAJones@dummyemail.com,805-555-5035,Bahena,Common-Law,FBI agent,Sun Television and Appliances,O+,140.4,"5' 8""",2021-05-03
+2698,Mayer,Ila,A,1958-08-05,F,104 Tully Street,Flint,MI,48548,IlaAMayer@dummyemail.com,313-555-7309,Boettcher,Married,Crop farm manager,Brendle's,A-,114.6,"5' 3""",2021-05-03
+2707,Johnson,Dorothy,L,1938-06-07,F,1229 Marie Street,Laurel,MD,20707,DorothyLJohnson@dummyemail.com,410-555-9315,Atkinson,Married,Janitor,Record Town,O+,157.1,"5' 5""",2021-05-03
+2713,Brown,Ruben,I,1936-12-19,M,117 Drummond Street,Piscataway,NJ,8854,RubenIBrown@dummyemail.com,973-555-1801,Bates,Common-Law,Plant custodian,Netobill,B+,187.9,"6' 0""",2021-05-03
+2720,Kinney,Lou,M,1967-06-25,F,2245 Duff Avenue,South Burlington,VT,5403,LouMKinney@dummyemail.com,802-555-4264,Alexander,Divorced,Massage therapist,Rack N Sack,O+,157.3,"5' 2""",2021-05-03
+2721,Raglin,Robert,M,1933-12-16,M,2162 Saints Alley,Tampa,FL,33614,RobertMRaglin@dummyemail.com,813-555-9966,Baker,Common-Law,Instructional specialist,Gart Sports,O+,164.8,"5' 9""",2021-05-03
+2728,Wallace,Stefan,J,1934-08-26,M,1488 Cliffside Drive,Binghamton,NY,13901,StefanJWallace@dummyemail.com,607-555-9896,Archer,Single,Woodworking machine operator,Rex Audio Video Appliance,B+,201.5,"5' 4""",2021-05-03
+2751,Hawley,John,C,1934-04-18,M,3615 Selah Way,Brattleboro,VT,5301,JohnCHawley@dummyemail.com,802-555-1180,Beer,Common-Law,Molder,Richman Brothers,B+,193.6,"6' 0""",2021-05-03
+2779,Bryan,Katie,R,1990-07-28,F,1870 Clinton Street,Little Rock,AR,72211,KatieRBryan@dummyemail.com,501-555-2440,Ainsworth,Single,Concrete finisher,Food Mart,O+,106.5,"5' 6""",2021-05-03
+2782,Andrews,Michael,B,1965-06-22,M,3968 Lynn Street,Boston,MA,2114,MichaelBAndrews@dummyemail.com,617-555-4597,Bennett,Divorced,Library binding worker,La Petite Boulangerie,O+,227.0,"5' 10""",2021-05-03
+2788,McCrary,Debra,J,1965-06-27,F,4206 Chandler Hollow Road,Pittsburgh,PA,15203,DebraJMcCrary@dummyemail.com,412-555-7010,Blackmon,Married,Textile bleaching and dyeing machine operator,Country Club Markets,A+,127.2,"5' 9""",2021-05-03
+2801,Tso,Essie,M,1967-10-30,F,1751 Hill Street,Toledo,OH,43609,EssieMTso@dummyemail.com,419-555-7429,Bart,Divorced,Tractor-trailer driver,Harvest Foods,B+,179.3,"5' 6""",2021-05-03
+2803,Jones,Moses,R,1974-11-30,M,4917 Briarwood Drive,Camden,NJ,8102,MosesRJones@dummyemail.com,856-555-6171,Barnes,Married,Oxy-gas cutter,Endicott Shoes,O+,150.7,"6' 0""",2021-05-03
+2826,Kirk,Walter,L,1974-10-31,M,4523 Buckhannan Avenue,Syracuse,NY,13202,WalterLKirk@dummyemail.com,315-555-9523,Barks,Divorced,Labor contractor,Colonial Stores,B+,175.1,"5' 7""",2021-05-03
+2870,Jackson,Jared,G,1947-08-26,M,4648 Parrish Avenue,San Antonio,TX,78205,JaredGJackson@dummyemail.com,830-555-3023,Amaya,Single,Midwife,Prahject Planner,O+,202.8,"5' 7""",2021-05-03
+2886,Farris,Margorie,T,1979-08-03,F,2861 Eastland Avenue,Jackson,MS,39212,MargorieTFarris@dummyemail.com,601-555-6720,Andersen,Single,Clinical psychologist,Laura Ashley,B+,152.2,"5' 8""",2021-05-03
+2922,Golden,Julia,T,1981-07-20,F,2239 Clarence Court,Fayetteville,NC,28306,JuliaTGolden@dummyemail.com,910-555-7217,Bond,Single,Fund manager,Gamma Realty,O+,227.9,"5' 6""",2021-05-03
+2927,Fernandez,Teresa,B,1966-08-05,F,2916 River Road,Pueblo,CO,81003,TeresaBFernandez@dummyemail.com,719-555-4168,Berube,Common-Law,Trash collector,KG Menswear,AB-,202.4,"5' 1""",2021-05-03
+2940,Brown,Samuel,M,1935-03-06,K,222 Turkey Pen Road,Manhattan,NY,10016,SamuelMBrown@dummyemail.com,917-555-4665,Agosto,Common-Law,Special education teacher,Vitamax Health Food Center,A+,208.3,"5' 7""",2021-05-03
+2979,Trimble,John,K,1954-03-05,M,2103 Round Table Drive,Cincinnati,OH,45203,JohnKTrimble@dummyemail.com,513-555-3978,Benitez,Divorced,Optometrist,Builders Square,AB+,198.2,"5' 5""",2021-05-03
+2985,Mumford,Jonna,P,1969-01-29,F,3935 Gordon Street,Etiwanda,CA,91739,JonnaPMumford@dummyemail.com,909-555-6020,Anderson,Single,Credit authorizer,Adaptas,AB+,120.3,"5' 1""",2021-05-03
+3000,Johnson,Kristi,M,1970-04-01,F,4720 Marion Drive,Tampa,FL,33602,KristiMJohnson@dummyemail.com,813-555-4995,Bivens,Single,News anchor,Square Circle,O+,156.6,"5' 7""",2021-05-04
+3035,Johnson,Harriet,T,1971-06-26,F,1344 Platinum Drive,Rochester,PA,15074,HarrietTJohnson@dummyemail.com,724-555-5191,Blank,Divorced,Airport terminal controller,Value Giant,O+,213.2,"5' 7""",2021-05-04
+3048,Reiter,Donna,L,1972-04-24,F,4640 Gregory Lane,Louisville,KY,40202,DonnaLReiter@dummyemail.com,502-555-0203,Bennett,Married,Medical laboratory technician,Odyssey Records & Tapes,A+,210.3,"5' 3""",2021-05-04
+3060,Guarino,Deborah,J,1934-03-07,F,1512 American Drive,Port St Joe,FL,32456,DeborahJGuarino@dummyemail.com,850-555-4780,Black,Married,Asphalt paving machine operator,Protean,A+,155.5,"4' 11""",2021-05-04
+3076,Brooks,Mario,C,1994-11-28,M,3529 Ottis Street,Oklahoma City,OK,73102,MarioCBrooks@dummyemail.com,405-555-3914,Allen,Single,Tailor,Yardbirds Home Center,O+,125.0,"5' 11""",2021-05-04
+3141,Shrout,George,K,1972-11-18,M,655 Raoul Wallenberg Place,New London,CT,6320,GeorgeKShrout@dummyemail.com,203-555-0200,Barnes,Single,Religious activities and education director,Cardinal Stores,A+,245.1,"5' 9""",2021-05-04
+3164,Epp,Joel,S,1933-07-06,M,505 Central Avenue,Union City,NJ,7087,JoelSEpp@dummyemail.com,201-555-8283,Barroso,Single,Composing machine tender,K's Merchandise,B+,214.3,"5' 8""",2021-05-04
+3170,Kress,Gary,M,1978-04-16,M,2754 Riverside Drive,Atlanta,GA,30303,GaryMKress@dummyemail.com,706-555-3863,Beauchamp,Common-Law,Scrub,Pro Garden Management,B+,192.3,"6' 2""",2021-05-04
+3256,Nathan,Douglas,R,1956-09-30,M,1479 Millbrook Road,Downers Grove,IL,60515,DouglasRNathan@dummyemail.com,630-555-4810,Alexander,Married,Personal appearance worker,Record & Tape Outlet,A+,194.5,"5' 8""",2021-05-04
+3301,Koller,Margaret,R,1980-05-22,F,3566 Harter Street,Huntsville,OH,43324,MargaretRKoller@dummyemail.com,937-555-2141,Bien,Single,Ophthalmologist,Price Savers,A+,188.3,"5' 7""",2021-05-04
+3317,Thompson,Michael,A,1957-04-22,M,2870 Diamond Street,Asheville,NC,28801,MichaelAThompson@dummyemail.com,828-555-1495,Banks,Single,High school teacher,Bettendorf's,B+,170.3,"5' 10""",2021-05-04
+3318,Schlosser,Kelly,M,1930-08-11,F,2090 Wilson Avenue,Allen,TX,75002,KellyMSchlosser@dummyemail.com,972-555-8061,Biron,Divorced,Hand typesetter,Afforda Merchant Services,O+,207.2,"5' 3""",2021-05-04
+3320,Burnett,Ronald,B,1974-04-24,M,3381 Joseph Street,New Berlin,WI,53151,RonaldBBurnett@dummyemail.com,262-555-6413,Batz,Divorced,Furnace kiln oven drier and kettle operator,Rink's,B+,201.7,"5' 9""",2021-05-04
+3329,Schmidt,Miriam,D,1963-01-13,F,4043 North Avenue,Lincoln,NE,68501,MiriamDSchmidt@dummyemail.com,402-555-7107,Benson,Common-Law,Wastewater treatment plant and system operator,Parklane Hosiery,O+,186.6,"5' 9""",2021-05-04
+3356,Considine,Patricia,L,1994-10-08,F,2470 Fairmont Avenue,Leavenworth,MO,66048,PatriciaLConsidine@dummyemail.com,660-555-1050,Adkins,Common-Law,Correctional treatment specialist,DGS HomeSource,B+,187.9,"5' 4""",2021-05-04
+3370,Simpson,William,J,1938-06-21,M,2330 Foley Street,Miramar,FL,33025,WilliamJSimpson@dummyemail.com,954-555-0939,Bell,Single,Physical therapist assistant,Twin Food Stores,A+,204.4,"5' 8""",2021-05-04
+3391,Mathis,Allison,F,1929-06-05,F,2555 Shobe Lane,Durango,CO,81301,AllisonFMathis@dummyemail.com,970-555-1899,Beyer,Single,Staffing manager,Cloth World,O+,182.4,"5' 3""",2021-05-04
+3407,Crum,Paul,M,1930-05-10,M,979 Arbor Court,Cheyenne,WY,82001,PaulMCrum@dummyemail.com,307-555-4253,Adams,Common-Law,General office clerk,SoundTrack,A+,223.5,"5' 8""",2021-05-04
+3415,Flynn,Kevin,D,1971-11-19,M,618 Blair Court,Higbee,MO,65257,KevinDFlynn@dummyemail.com,660-555-6206,Ayala,Married,GED teacher,Cut Rite,O+,172.3,"5' 10""",2021-05-04
+3418,Terry,Arthur,B,1935-03-01,M,3952 Crowfield Road,Phoenix,AZ,85040,ArthurBTerry@dummyemail.com,602-555-6724,Armstrong,Single,Environmental chemist,Monk Home Funding Services,B+,131.1,"5' 10""",2021-05-04
+3447,Joiner,James,C,1973-04-08,M,4966 Black Oak Hollow Road,San Jose,CA,95113,JamesCJoiner@dummyemail.com,408-555-4700,Beebe,Single,Chief information officer,Thrift Auto Parts,O+,197.6,"6' 1""",2021-05-04
+3451,Pfaff,Dino,M,1986-04-12,M,2430 Goldleaf Lane,Newark,NJ,7102,DinoMPfaff@dummyemail.com,201-555-5206,Berube,Divorced,Nail care technician,Sanitary Grocery Stores,O+,190.7,"5' 9""",2021-05-04
+3455,Powers,Steven,M,1987-11-28,M,1346 Turnpike Drive,Huntsville,AL,35806,StevenMPowers@dummyemail.com,256-555-4209,Benavides,Married,Explosives worker,Madcats Music & Books,O+,155.3,"6' 2""",2021-05-04
+3477,Anderson,Ashley,P,1979-06-07,M,4610 Walt Nuzum Farm Road,Batavia,NY,14020,AshleyPAnderson@dummyemail.com,585-555-8897,Basquez,Common-Law,Job placement specialist,LoRay,O+,233.0,"6' 2""",2021-05-04
+3480,Cooper,William,B,1975-09-19,M,4431 Wiseman Street,Knoxville,TN,37917,WilliamBCooper@dummyemail.com,865-555-2576,Blair,Single,Credit reporter,Zephyr Investments,AB+,209.2,"5' 6""",2021-05-04
+3481,Robinson,James,B,1941-07-03,M,3525 Olen Thomas Drive,Bridgeport,TX,76026,JamesBRobinson@dummyemail.com,940-555-3948,Anderson,Divorced,Biometrician,Four Leaf Clover,AB+,200.2,"5' 11""",2021-05-04
+3482,Dorsey,Charles,C,1981-10-31,M,4076 Station Street,Austin,TX,78701,CharlesCDorsey@dummyemail.com,512-555-4883,Banister,Married,Line erector,Tower Records,B+,218.5,"6' 2""",2021-05-04
+3524,Kopecky,Kathy,M,1995-05-04,F,1209 Brannon Avenue,Jacksonville,FL,32202,KathyMKopecky@dummyemail.com,904-555-0527,Angle,Divorced,Tractor driver,Strategy Consulting,O+,106.0,"5' 9""",2021-05-04
+3576,Carmon,Julie,H,1992-05-11,F,4521 Dark Hollow Road,Camden,NJ,8102,JulieHCarmon@dummyemail.com,609-555-7249,Bagley,Common-Law,Business office assistant,Omni Source,A+,104.1,"5' 8""",2021-05-04
+3578,Whitner,Bruce,R,1945-08-12,M,4795 Rogers Street,Cincinnati,OH,45249,BruceRWhitner@dummyemail.com,513-555-5147,Augustin,Single,Industrial truck and tractor operator,Universo Realtors,A+,238.3,"5' 10""",2021-05-04
+3607,Long,Phillip,H,1984-04-08,M,1399 Rivendell Drive,Akron,OH,44311,PhillipHLong@dummyemail.com,330-555-3933,Anderson,Common-Law,Pediatrician,Murray's Discount Auto Stores,A+,237.4,"6' 3""",2021-05-04
+3628,Scott,Li,D,1943-03-17,F,1107 Boone Crockett Lane,Seattle,WA,98109,LiDScott@dummyemail.com,360-555-2808,Bailey,Divorced,Urology nurse,Laneco,B+,318.8,"5' 5""",2021-05-04
+3634,Wilson,Kathy,B,1980-01-29,F,1904 Kembery Drive,Chicago,IL,60603,KathyBWilson@dummyemail.com,630-555-9179,Anderson,Single,EMT,Red Food,O+,144.3,"5' 7""",2021-05-04
+3644,Bartels,Mark,B,1992-07-11,M,2532 Friendship Lane,Santa Clara,CA,95054,MarkBBartels@dummyemail.com,408-555-4183,Bobby,Common-Law,Payroll and benefits specialist,Pointers,B+,123.4,"6' 2""",2021-05-04
+3649,Jenkins,Kenneth,V,1982-04-02,M,2304 Drainer Avenue,Panama City,FL,32401,KennethVJenkins@dummyemail.com,850-555-2894,Beerman,Married,Plant scientist,Pay'N Takeit,B+,535.0,"5' 8""",2021-05-04
+3698,Hostetter,Shawn,C,1976-08-28,M,4381 Locust Court,Burbank,CA,91505,ShawnCHostetter@dummyemail.com,562-555-0175,Blanchard,Common-Law,Mail carrier,Audio Visions,O+,209.7,"5' 9""",2021-05-04
+3703,Jennings,Robert,R,1952-04-11,M,3781 Barfield Lane,Indianapolis,IN,46204,RobertRJennings@dummyemail.com,317-555-9239,Anderson,Single,Information designer,The Sample,O-,235.0,"5' 8""",2021-05-04
+3715,Frank,Pia,C,1946-04-09,F,225 Sweetwood Drive,Denver,CO,80202,PiaCFrank@dummyemail.com,303-555-8586,Armstrong,Single,Data typist,Formula Gray,O+,211.2,"5' 2""",2021-05-04
+3727,Allen,Clarence,R,1938-05-12,M,2837 College View,Carbondale,IL,62901,ClarenceRAllen@dummyemail.com,618-555-0192,Alston,Common-Law,Avionics technician,Realty Zone,A+,163.0,"5' 7""",2021-05-04
+3730,Lally,Keith,C,1983-08-24,M,548 Mount Tabor,West Nyack,NY,10994,KeithCLally@dummyemail.com,914-555-0923,Bailey,Common-Law,Guidance counselor,Universo Realtors,O+,176.7,"6' 2""",2021-05-04
+3756,Olson,Frank,R,1968-03-04,M,3614 Hardman Road,South Burlington,VT,5403,FrankROlson@dummyemail.com,802-555-3301,Attaway,Divorced,Structural engineer,Tech Hifi,A+,182.6,"5' 7""",2021-05-04
+3758,Green,Margaret,G,1991-03-29,F,3948 Ryder Avenue,Bothell,WA,98011,MargaretGGreen@dummyemail.com,425-555-6691,Battle,Single,Coin vending and amusement machine servicer,HouseWorks!,A+,212.1,"5' 1""",2021-05-04
+3766,Peck,Octavia,G,1995-06-28,F,277 Turkey Pen Lane,Montgomery,AL,36104,OctaviaGPeck@dummyemail.com,334-555-7353,Anthony,Divorced,Computer database administrator,Sure Save,A+,112.2,"5' 8""",2021-05-04
+3789,Davis,Cinda,D,1976-07-31,F,2696 Dale Avenue,Seattle,WA,98101,CindaDDavis@dummyemail.com,253-555-4530,Bailey,Single,LAN administrator,Stratapro,O+,167.4,"5' 1""",2021-05-04
+3805,Stevenson,James,T,1950-09-18,M,3307 Wood Duck Drive,Iron Mountain,MI,49801,JamesTStevenson@dummyemail.com,906-555-4403,Anderson,Common-Law,Prosthetist,Monlinks,B+,211.0,"5' 6""",2021-05-04
+3814,Davis,Harold,K,1931-03-21,M,2975 Arbor Court,Casper,WY,82601,HaroldKDavis@dummyemail.com,307-555-2683,Ayala,Divorced,Gaming manager,Lone Wolf Wealth Planning,A+,165.7,"5' 4""",2021-05-04
+3816,Welch,Queenie,B,1990-11-11,F,2699 Pickens Way,Winnsboro,TX,75494,QueenieBWelch@dummyemail.com,903-555-0207,Alvarez,Common-Law,Multiple machine tool setter,EnviroSource Design,O+,347.2,"5' 7""",2021-05-04
+3821,Stuckey,Douglas,L,1956-07-04,M,1573 Lightning Point Drive,Memphis,TN,38118,DouglasLStuckey@dummyemail.com,901-555-9892,Beatty,Single,Paper goods tender,Gold Leaf Garden Management,A+,166.5,"6' 0""",2021-05-04
+3822,Alexander,Dorothy,P,1981-11-22,F,4707 Bagwell Avenue,Ocala,FL,34471,DorothyPAlexander@dummyemail.com,352-555-2700,Benner,Common-Law,Health care translator,Gas Zone,A+,175.3,"5' 6""",2021-05-04
+3824,Langton,Curtis,M,1979-06-03,M,212 Chandler Drive,Springfield,MO,65806,CurtisMLangton@dummyemail.com,417-555-9490,Bombardier,Married,Licensed vocational nurse,Griff's Hamburgers,B+,235.0,"6' 2""",2021-05-04
+3884,Rawlins,Kenneth,C,1953-01-18,M,3909 Warner Street,Fort Lauderdale,FL,33311,KennethCRawlins@dummyemail.com,305-555-6633,Bishop,Married,Gas pumping station operator,Johnson's General Stores,O+,181.7,"5' 7""",2021-05-04
+3889,Harrison,Jackie,M,1933-03-05,F,191 Bastin Drive,Philadelphia,PA,19108,JackieMHarrison@dummyemail.com,484-555-5181,Alarcon,Common-Law,Water resources engineer,Pro Property Maintenance,O+,126.9,"5' 4""",2021-05-04
+3899,Duckworth,Barbara,A,1981-01-17,F,2030 Benedum Drive,Spring Valley,NY,10977,BarbaraADuckworth@dummyemail.com,845-555-2224,Anderson,Married,Marine,Food Barn,B+,218.5,"5' 7""",2021-05-04
+3906,Filson,James,E,1975-08-13,M,3577 Calico Drive,Wenatchee,WA,98801,JamesEFilson@dummyemail.com,509-555-5186,Bell,Single,Estimator project manager,Shoe Pavilion,A+,198.4,"5' 8""",2021-05-04
+3926,Perez,Sam,P,1969-05-23,M,1164 Worthington Drive,Frisco,TX,75034,SamPPerez@dummyemail.com,972-555-6788,Barber,Married,Counselor,Herman's World of Sporting Goods,AB+,213.2,"6' 0""",2021-05-04
+3931,Bushnell,Ronald,S,1950-05-07,M,4483 Illinois Avenue,Aumsville,OR,97325,RonaldSBushnell@dummyemail.com,503-555-0536,Bender,Married,Biological-physical anthropologist,Best Products,AB+,208.8,"5' 6""",2021-05-04
+3935,Dixon,Jody,N,1937-07-22,F,556 Hickman Street,Elmhurst,IL,60126,JodyNDixon@dummyemail.com,630-555-8162,Barker,Common-Law,Advisor investigator,Desmonds Formal Wear,B+,230.6,"5' 6""",2021-05-04
+3947,Jones,Brian,L,1970-07-22,M,1965 Hershell Hollow Road,Everett,WA,98201,BrianLJones@dummyemail.com,425-555-0321,Barstow,Married,Preschool teacher,Sounds Great Inc,O-,245.7,"5' 11""",2021-05-04
+3954,Bechtol,Alfred,J,1946-07-19,M,4248 Center Avenue,Avenal,CA,93204,AlfredJBechtol@dummyemail.com,559-555-1787,Bauer,Single,Developmental disabilities nurse,Paper Cutter,O+,171.2,"5' 11""",2021-05-04
+3955,Robertson,Cheryl,M,1988-09-03,F,1689 McDonald Avenue,Orlando,FL,32801,CherylMRobertson@dummyemail.com,407-555-8958,Batiste,Single,Forging machine operator,Leonard Krower & Sons,A+,114.8,"5' 2""",2021-05-04
+3959,Harper,Michele,E,1938-04-18,F,3032 Providence Lane,Irvine,CA,92614,MicheleEHarper@dummyemail.com,626-555-2864,Bailey,Divorced,Surveillance agent,Kelly and Cohen,B-,125.4,"5' 3""",2021-05-04
+3964,Richards,Russell,D,1973-05-27,M,508 Petunia Way,Birmingham,AL,35215,RussellDRichards@dummyemail.com,205-555-9116,Baker,Married,Education planner,Colonial Stores,B+,227.0,"5' 7""",2021-05-04
+3978,Coe,Matthew,V,1970-12-29,M,1524 Southside Lane,Santa Fe Springs,CA,90670,MatthewVCoe@dummyemail.com,323-555-3698,Basaldua,Married,Carpet floor and tile installer,Handy City,O+,208.3,"6' 1""",2021-05-04
+3987,Rodriquez,Craig,V,1948-02-10,M,1753 Trainer Avenue,Pekin,IL,61554,CraigVRodriquez@dummyemail.com,309-555-2707,Bishop,Divorced,Aircraft electrician,Webcom Business Services,O-,210.1,"5' 10""",2021-05-04
+3998,Morris,Gregory,D,1934-06-06,M,4486 Hickman Street,Oak Brook,IL,60523,GregoryDMorris@dummyemail.com,630-555-3406,Benton,Common-Law,Engraver,Audio Visions,A+,145.4,"6' 0""",2021-05-04
+4012,Smith,Claudia,J,1995-02-15,F,1628 Owen Lane,Naples,FL,33940,ClaudiaJSmith@dummyemail.com,239-555-7508,Bennett,Married,Signal and track switch repairer,Town and Country Convenience Stores,O+,118.8,"5' 2""",2021-05-05
+4018,Lauver,Sheila,J,1990-10-15,F,4570 Twin House Lane,Springfield,MO,65804,SheilaJLauver@dummyemail.com,417-555-3890,Baxter,Single,Tile installer,Deco Refreshments Inc.,A-,184.4,"5' 2""",2021-05-05
+4035,Cole,Elda,T,1929-10-19,F,3707 Kelley Road,Biloxi,MS,39532,EldaTCole@dummyemail.com,228-555-2712,Barker,Single,Heating air-conditioning and refrigeration mechanic,Desmonds Formal Wear,A+,177.3,"4' 11""",2021-05-05
+4043,Hillman,Nancy,A,1960-06-12,F,2887 Lodgeville Road,Minneapolis,MN,55415,NancyAHillman@dummyemail.com,612-555-9040,Allen,Common-Law,Transmitter operator,Simply Save,B+,192.3,"5' 4""",2021-05-05
+4045,Martinez,Robert,M,1940-10-04,M,1969 Emeral Dreams Drive,Arlington Heights,IL,60005,RobertMMartinez@dummyemail.com,815-555-6154,Bedford,Common-Law,Middle school teacher,Edge Garden Services,A+,205.9,"6' 0""",2021-05-05
+4061,Westbrooks,Sonia,J,1980-05-21,F,1574 Grove Avenue,Lawton,OK,73501,SoniaJWestbrooks@dummyemail.com,580-555-0797,Allen,Common-Law,Color printer operator,Gamble-Skogmo,A+,218.5,"5' 8""",2021-05-05
+4076,Esters,Regina,S,1955-10-10,F,733 Freedom Lane,Atwater,CA,95301,ReginaSEsters@dummyemail.com,209-555-5418,Bass,Common-Law,Employee development specialist,Quality Event Planner,O+,168.5,"5' 4""",2021-05-05
+4095,Voris,Andrew,E,1950-06-14,M,2938 Doctors Drive,Gardena,CA,90247,AndrewEVoris@dummyemail.com,310-555-3707,Black,Common-Law,Managing editor,Pro Property Maintenance,AB+,209.2,"5' 10""",2021-05-05
+4097,McManus,Christopher,B,1965-05-28,M,4832 Biddie Lane,Bethia,VA,23113,ChristopherBMcManus@dummyemail.com,804-555-3692,Anguiano,Common-Law,Correspondent,Parts and Pieces,O+,198.0,"5' 6""",2021-05-05
+4106,Arledge,Betty,T,1942-05-23,F,906 Dovetail Drive,Waukegan,IL,60085,BettyTArledge@dummyemail.com,847-555-2776,Armstead,Single,Employee development specialist,Licorice Pizza,O+,192.9,"5' 6""",2021-05-05
+4123,Binkley,David,M,1962-12-06,M,2655 Bernardo Street,Tampa,FL,33602,DavidMBinkley@dummyemail.com,813-555-7856,Bertrand,Divorced,Loan interviewer,Team Uno,A+,208.8,"5' 11""",2021-05-05
+4127,Morris,Lance,C,1984-04-30,M,3105 Bagwell Avenue,Gainesville,FL,32601,LanceCMorris@dummyemail.com,352-555-7684,Anderson,Divorced,Land acquisition manager,Sports Unlimited,B+,212.5,"5' 7""",2021-05-05
+4129,Mason,Kristy,A,1954-06-04,F,4195 Sardis Station,Minneapolis,MN,55401,KristyAMason@dummyemail.com,612-555-8203,Bellows,Divorced,Environmental scientist,Idea Infinity,B+,162.8,"5' 1""",2021-05-05
+4140,Doucette,Christina,L,1937-08-18,F,4744 Twin Oaks Drive,Petoskey,MI,49770,ChristinaLDoucette@dummyemail.com,231-555-0204,Avila,Divorced,Software quality assurance analyst,Vitagee,O+,129.4,"4' 11""",2021-05-05
+4152,Small,Madge,S,1950-09-06,F,3203 Heritage Road,Ivanhoe,CA,93235,MadgeSSmall@dummyemail.com,559-555-1780,Arrowood,Divorced,Transmission engineer,Brendle's,A+,144.5,"5' 1""",2021-05-05
+4156,Alexander,Robert,E,1935-12-08,M,1570 Richison Drive,Billings,MT,59101,RobertEAlexander@dummyemail.com,406-555-8493,Barlow,Common-Law,Media specialist,The Independent Planners,B+,163.0,"5' 8""",2021-05-05
+4159,Bacon,Michael,M,1942-09-11,M,2961 Neville Street,Terre Haute,IN,47802,MichaelMBacon@dummyemail.com,812-555-5802,Barrow,Common-Law,Farmhand,World of Fun,O+,223.3,"5' 6""",2021-05-05
+4177,Blevins,Robert,M,1983-07-16,M,3581 Freshour Circle,San Antonio,TX,78212,RobertMBlevins@dummyemail.com,210-555-3684,Bentley,Divorced,Inhalation therapist,H.C. Bohack,O+,174.5,"5' 7""",2021-05-05
+4210,Collins,Colleen,V,1931-02-05,F,4260 Graystone Lakes,Macon,GA,31204,ColleenVCollins@dummyemail.com,478-555-8683,Albert,Married,Dry-cleaning worker,Sportmart,O+,173.8,"5' 3""",2021-05-05
+4217,McCloud,Gloria,S,1932-12-15,F,1952 Cherry Tree Drive,Mandarin,FL,32223,GloriaSMcCloud@dummyemail.com,904-555-2807,Batchelor,Married,Reporter,Coon Chicken Inn,A+,109.1,"5' 4""",2021-05-05
+4227,Shelton,James,D,1950-10-25,M,2343 Forest Avenue,New York,NY,10013,JamesDShelton@dummyemail.com,646-555-2196,Alban,Married,Management assistant,Tweeter,B+,227.7,"6' 1""",2021-05-05
+4228,Musselman,Precious,L,1953-11-22,F,3053 Romines Mill Road,Dallas,TX,75207,PreciousLMusselman@dummyemail.com,214-555-7775,Beck,Common-Law,Attendance clerk,A.J. August Fashion Wear,A+,166.3,"5' 0""",2021-05-05
+4242,Mayer,John,F,1991-03-03,M,3227 Chardonnay Drive,Seattle,WA,98161,JohnFMayer@dummyemail.com,360-555-3406,Benham,Common-Law,Microbiology technologist,Cavages,B+,215.8,"5' 7""",2021-05-05
+4249,McKinney,Tim,L,1964-11-21,M,4904 Still Pastures Drive,Augusta,SC,30901,TimLMcKinney@dummyemail.com,803-555-0587,Becerra,Common-Law,Fine arts instructor,One-Up Realty,B+,214.5,"5' 10""",2021-05-05
+4291,Griffin,Paul,M,1992-09-13,M,4556 Washington Avenue,Jackson,MS,39208,PaulMGriffin@dummyemail.com,601-555-7784,Bailey,Divorced,Nuclear technician,Target Realty,B+,214.9,"5' 11""",2021-05-05
+4295,Parry,Alberto,C,1975-01-09,M,2522 Eagles Nest Drive,Orleans,CA,95556,AlbertoCParry@dummyemail.com,530-555-5874,Allman,Married,Foot specialist,Stratapro,O+,297.5,"5' 9""",2021-05-05
+4312,Vann,Janette,B,1948-01-28,F,1049 Perry Street,Southfield,MI,48034,JanetteBVann@dummyemail.com,810-555-9560,Blue,Married,Travel consultant,Orion,AB+,192.3,"5' 7""",2021-05-05
+4325,Campbell,Gilberto,E,1942-08-10,M,2896 Ingram Street,Xenia,OH,45385,GilbertoECampbell@dummyemail.com,937-555-7685,Barrett,Common-Law,Dean,House of Gas,A+,150.3,"5' 5""",2021-05-05
+4339,Smith,David,F,1955-05-05,M,3146 Petunia Way,Birmingham,AL,35203,DavidFSmith@dummyemail.com,205-555-1822,Amos,Common-Law,Environmental technician,Happy Family,A+,146.1,"5' 7""",2021-05-05
+4358,Crites,Wilma,D,1977-08-24,F,4059 Traction Street,Spartanburg,SC,29302,WilmaDCrites@dummyemail.com,864-555-3011,Benton,Divorced,Agricultural product sorter,Good Guys,A-,116.2,"5' 8""",2021-05-05
+4363,Black,Maggie,J,1937-01-06,F,4654 Evergreen Lane,Los Angeles,CA,90017,MaggieJBlack@dummyemail.com,323-555-5787,Blaha,Married,Gas pumping station operator,Infinite Wealth,B+,208.3,"5' 3""",2021-05-05
+4387,Jones,Katina,H,1947-04-11,F,3678 Skips Lane,Phoenix,AZ,85034,KatinaHJones@dummyemail.com,928-555-3786,Alexander,Divorced,Urban planner,Compact Disc Center,A+,175.1,"5' 2""",2021-05-05
+4398,McCutcheon,Savannah,J,1990-12-31,F,561 Morningview Lane,New York,NY,10011,SavannahJMcCutcheon@dummyemail.com,646-555-3728,Blackwell,Common-Law,Director,Music Boutique,A+,104.9,"5' 8""",2021-05-05
+4413,Cornelius,Connie,J,1987-07-31,F,4554 Adams Avenue,Silver Spring,MD,20904,ConnieJCornelius@dummyemail.com,301-555-2520,Bergin,Divorced,Licensed clinical social worker,Levitz Furniture,O+,175.6,"5' 9""",2021-05-05
+4417,Solares,James,E,1977-03-04,M,4270 Pickens Way,Dallas,TX,75207,JamesESolares@dummyemail.com,903-555-9231,Arellano,Single,Customs agent,Big Star Markets,B+,179.7,"6' 0""",2021-05-05
+4421,Collier,Robert,R,1994-04-14,M,1749 Jewell Road,Saint Paul,MN,55104,RobertRCollier@dummyemail.com,612-555-7151,Barry,Single,Commercial and industrial designer,Bombay Company,AB+,133.5,"6' 0""",2021-05-05
+4427,Howard,Judith,G,1962-04-18,F,4207 Golf Course Drive,Chantilly,VA,22021,JudithGHoward@dummyemail.com,703-555-2135,Bennett,Single,Water transportation mate,Zantigo,O+,136.4,"5' 6""",2021-05-05
+4441,Card,Carol,J,1991-01-06,F,1447 Rose Street,Burr Ridge,IL,61257,CarolJCard@dummyemail.com,708-555-2002,Allen,Married,Airport service agent,Warehouse Club Inc.,O+,169.6,"5' 3""",2021-05-05
+4453,Railsback,Kathy,J,1938-04-22,F,4846 Pheasant Ridge Road,Philadelphia,PA,19104,KathyJRailsback@dummyemail.com,215-555-3535,Baker,Single,Paper goods operator,Kenny Rogers Roasters,B+,152.0,"5' 5""",2021-05-05
+4463,Alexander,Crystal,W,1984-12-19,F,273 McDowell Street,Cornersville,TN,37047,CrystalWAlexander@dummyemail.com,931-555-9391,Bender,Common-Law,Copy marker,Highland Appliance,O+,119.5,"5' 4""",2021-05-05
+4473,Polk,Lauren,B,1975-08-20,F,2801 Joseph Street,Brookfield,WI,53005,LaurenBPolk@dummyemail.com,262-555-3926,Atherton,Common-Law,Publicity agent,Purity Supreme,B+,153.3,"5' 3""",2021-05-05
+4494,Carroll,Elida,H,1933-11-13,F,41 Hudson Street,Newark,NJ,7112,ElidaHCarroll@dummyemail.com,973-555-6293,Anderson,Common-Law,Freight agent,Food Barn,B+,199.8,"5' 3""",2021-05-05
+4506,Noel,Darlene,G,1934-04-25,F,2985 Linda Street,Philadelphia,PA,19108,DarleneGNoel@dummyemail.com,267-555-9782,Arsenault,Married,Freight stock and material mover,Great American Music,O+,224.0,"5' 2""",2021-05-05
+4511,Behr,Eleanor,B,1977-11-22,F,4311 Evergreen Lane,Los Angeles,CA,90017,EleanorBBehr@dummyemail.com,323-555-0757,Alvarado,Common-Law,Information designer,Intelli Wealth Group,B+,433.5,"5' 8""",2021-05-05
+4512,Troy,Kenneth,M,1942-02-01,M,4571 Courtright Street,Lidgerwood,ND,58053,KennethMTroy@dummyemail.com,701-555-6111,Barajas,Divorced,Talking-books clerk,One-Up Realtors,O+,195.6,"5' 11""",2021-05-05
+4515,Dolan,Bill,J,1985-06-19,M,33 West Fork Drive,Fort Lauderdale,FL,33301,BillJDolan@dummyemail.com,954-555-9088,Baldwin,Single,Photographic spotter,Formula Grey,B+,154.9,"5' 7""",2021-05-05
+4524,Molina,William,M,1942-01-11,M,623 John Calvin Drive,Burr Ridge,IL,61257,WilliamMMolina@dummyemail.com,708-555-6441,Ackley,Divorced,Human resources associate,Present Company,A+,181.9,"5' 10""",2021-05-05
+4529,Patterson,Deborah,G,1953-03-17,F,1197 Davis Place,Springfield,MO,65804,DeborahGPatterson@dummyemail.com,417-555-8026,Anaya,Single,Systems architect,Alexander's,A+,131.8,"5' 4""",2021-05-05
+4531,Swartz,Martha,J,1948-05-29,F,2868 Hardman Road,Rutland,VT,5701,MarthaJSwartz@dummyemail.com,802-555-3903,Bell,Divorced,Safety specialist,Price's Electronics,O+,110.4,"5' 4""",2021-05-05
+4532,Kong,Patrick,V,1988-06-12,M,2467 Francis Mine,Adin,CA,96006,PatrickVKong@dummyemail.com,530-555-2838,Adams,Married,Film and video editor,KB Toys,AB+,336.7,"6' 2""",2021-05-05
+4547,Cho,Susie,T,1992-08-19,F,3775 Glendale Avenue,Los Angeles,CA,90013,SusieTCho@dummyemail.com,818-555-2112,Baxter,Married,Tax assessor,Bumper to Bumper Auto Parts,A-,125.4,"5' 9""",2021-05-05
+4551,Wurst,Robert,W,1992-09-08,M,4537 Frank Avenue,Springfield,MA,1103,RobertWWurst@dummyemail.com,413-555-9150,Badgett,Divorced,Credit analyst,Maurice The Pants Man,O+,138.8,"5' 11""",2021-05-05
+4557,Graham,John,K,1989-06-02,M,4254 Stoneybrook Road,Titusville,FL,32796,JohnKGraham@dummyemail.com,321-555-5673,Avery,Single,Administrative technician,American Wholesale Club,A+,147.6,"5' 6""",2021-05-05
+4561,Wall,Deborah,S,1960-02-16,F,311 Nutter Street,Kansas City,MO,64105,DeborahSWall@dummyemail.com,816-555-2456,Arias,Divorced,Radiologic technician,Wild Oats Markets,O+,220.9,"5' 1""",2021-05-05
+4584,Jacobs,Kathryn,A,1962-06-07,F,2626 Libby Street,Santa Monica,CA,90405,KathrynAJacobs@dummyemail.com,310-555-0257,Beebe,Married,Floor sander,Pointers,O+,231.0,"5' 2""",2021-05-05
+4606,Tetrault,Fred,M,1977-05-20,M,4137 Angus Road,New York,NY,10014,FredMTetrault@dummyemail.com,212-555-1325,Board,Common-Law,Computer-controlled machine tool operator,Linens 'n Things,B+,154.2,"5' 10""",2021-05-05
+4631,Walden,Donna,C,1985-11-24,F,4442 Point Street,Buffalo Grove,IL,60089,DonnaCWalden@dummyemail.com,773-555-9306,Alex,Married,Telephone station installer,Vitagee,A+,129.1,"5' 7""",2021-05-05
+4652,McAlister,Jesus,W,1943-01-05,M,1413 Oak Street,Vernon,NY,13476,JesusWMcAlister@dummyemail.com,315-555-6623,Blake,Married,Nurse aide,System Star,O+,211.2,"5' 7""",2021-05-05
+4672,Leon,Alejandro,J,1987-10-05,M,2091 Broadway Avenue,Dayton,TN,37321,AlejandroJLeon@dummyemail.com,423-555-3581,Barnett,Common-Law,Screen printing machine operator,The Serendipity Dip,B+,177.3,"5' 9""",2021-05-05
+4677,Santillan,Miriam,K,1952-08-12,F,2609 Pointe Lane,Hollywood,FL,33023,MiriamKSantillan@dummyemail.com,954-555-3920,Bishop,Married,Edition binding worker,Crandall's Fine Furniture,A+,170.7,"5' 7""",2021-05-05
+4685,Hudson,Richard,C,1941-12-09,M,3360 Kincheloe Road,Portland,OR,97212,RichardCHudson@dummyemail.com,503-555-9877,Abrams,Divorced,Silversmith,Yesterday's Records,O+,185.7,"5' 10""",2021-05-05
+4688,Camp,Michael,L,1994-01-27,M,1825 Foley Street,Fort Lauderdale,FL,33301,MichaelLCamp@dummyemail.com,954-555-5008,Barraza,Married,Computer-controlled machine tool operator,Garden Master,O+,137.5,"5' 7""",2021-05-05
+4694,Jenkins,Jesus,L,1952-09-12,M,808 Coffman Alley,Park City,KY,42160,JesusLJenkins@dummyemail.com,270-555-4206,Bailey,Single,Network and computer systems administrator,Great Western,O-,197.8,"5' 7""",2021-05-05
+4707,McDonald,Julio,M,1962-05-06,M,4637 Paradise Lane,Santa Ana,CA,92705,JulioMMcDonald@dummyemail.com,909-555-2270,Bernier,Divorced,Legal assistant,Simple Solutions,A-,147.6,"5' 8""",2021-05-05
+4711,Cosey,Corey,J,1961-04-10,F,681 Parrill Court,Hammond,IN,46323,CoreyJCosey@dummyemail.com,219-555-7864,Baker,Married,Flight attendant,Herman's World of Sporting Goods,O+,223.5,"5' 2""",2021-05-05
+4722,Schwandt,Lorraine,B,1990-12-10,F,3396 Ripple Street,Saginaw,MI,48607,LorraineBSchwandt@dummyemail.com,989-555-4491,Bailey,Common-Law,Process metallurgical engineer,Casa Bonita,AB+,172.5,"5' 2""",2021-05-05
+4734,Randall,Colleen,K,1991-01-04,F,2740 Davis Avenue,Oakland,CA,94612,ColleenKRandall@dummyemail.com,707-555-6466,Barefield,Single,Broker,Franklin Simon,O+,213.6,"5' 7""",2021-05-05
+4746,Smith,Sandra,C,1983-11-18,F,4982 Doctors Drive,Los Angeles,CA,90045,SandraCSmith@dummyemail.com,310-555-9640,Barger,Divorced,Vocational counselor,Gamma Realty,O+,147.6,"5' 3""",2021-05-05
+4747,Groce,Bonnie,J,1974-03-16,F,1509 Pride Avenue,Brooklyn,NY,11227,BonnieJGroce@dummyemail.com,718-555-6677,Angell,Married,Commentator,MegaSolutions,O+,130.9,"5' 7""",2021-05-05
+4752,Totten,Dick,C,1953-09-04,M,389 Big Indian,New Orleans,LA,70112,DickCTotten@dummyemail.com,504-555-6180,Boggs,Divorced,Chief executive officer,Morville,O+,148.7,"5' 7""",2021-05-05
+4762,Miller,Nicolas,W,1961-01-05,M,2861 Upland Avenue,Woodville,OH,43469,NicolasWMiller@dummyemail.com,419-555-6643,Ayala,Married,Registered representative,Unity Frankford Stores,O+,150.0,"5' 9""",2021-05-05
+4770,Bowser,Jeffery,J,1957-06-17,M,2744 Richland Avenue,Houston,TX,77092,JefferyJBowser@dummyemail.com,281-555-6501,Becker,Divorced,Dentist,Maxiserve,AB+,161.5,"6' 2""",2021-05-05
+4775,Falconer,Robert,L,1928-11-27,M,580 Quarry Drive,Selma,AL,36703,RobertLFalconer@dummyemail.com,334-555-5875,Andrews,Common-Law,Pesticide applicator,Nedick's,O-,204.6,"5' 9""",2021-05-05
+4791,Cooper,Raymond,C,1945-06-02,M,1703 Fincham Road,La Mesa,CA,91941,RaymondCCooper@dummyemail.com,760-555-1904,Bennett,Common-Law,Asbestos abatement worker,MegaSolutions,O-,137.9,"5' 7""",2021-05-05
+4831,Denson,Thomas,V,1966-04-07,M,4305 Bedford Street,Birmingham,AL,35203,ThomasVDenson@dummyemail.com,205-555-4012,Baldwin,Divorced,Judiciary interpreter,Bombay Company,O+,166.8,"5' 9""",2021-05-05
+4843,Marsh,Gerald,R,1987-08-08,M,4183 American Drive,Camden,NJ,8104,GeraldRMarsh@dummyemail.com,856-555-5440,Big,Divorced,Pipelayer,StopGrey,O-,139.9,"5' 9""",2021-05-05
+4849,Whitehorn,Jason,K,1945-02-18,M,2327 Jett Lane,Irvine,CA,92618,JasonKWhitehorn@dummyemail.com,310-555-5199,Barnes,Divorced,Executive administrator,Consumers Food and Drug,A+,218.2,"6' 1""",2021-05-05
+4856,Barnes,Yuri,M,1960-02-26,F,3168 Poplar Lane,Ft Lauderdale,FL,33311,YuriMBarnes@dummyemail.com,305-555-9294,Ball,Common-Law,Stock clerk,Garden Master,O+,225.5,"5' 0""",2021-05-05
+4876,Peterson,Dorothy,B,1994-06-18,F,2041 Lawman Avenue,Washington,VA,20004,DorothyBPeterson@dummyemail.com,703-555-7089,Bain,Single,Automotive painter,Cal Stereo,O+,127.4,"5' 7""",2021-05-05
+4880,Barry,Sandra,C,1960-08-07,F,416 Cooks Mine Road,Albuquerque,NM,87109,SandraCBarry@dummyemail.com,505-555-3447,Bates,Single,Remote sensing specialist,University Stereo,O+,219.8,"5' 6""",2021-05-05
+4900,Simms,Tyrell,M,1954-12-30,M,1330 Poling Farm Road,Bellevue,NE,68005,TyrellMSimms@dummyemail.com,402-555-7694,Barr,Divorced,DEA agent,Stop and Shop,B+,227.3,"5' 6""",2021-05-05
+4901,Cate,Ronald,D,1937-10-07,M,4163 Skips Lane,Winslow,AZ,86047,RonaldDCate@dummyemail.com,928-555-8270,Battle,Common-Law,Computer chip processor,Tee Town,O+,193.6,"5' 7""",2021-05-05
+4926,Knox,Wesley,B,1990-10-28,M,3651 Powder House Road,Fort Lauderdale,FL,33301,WesleyBKnox@dummyemail.com,561-555-2725,Anderson,Divorced,Airbrush artist,Sunny's Surplus,A+,135.3,"5' 11""",2021-05-05
+4931,Porter,Donald,H,1945-04-08,M,2940 Pride Avenue,Brooklyn,NY,11223,DonaldHPorter@dummyemail.com,718-555-8272,Blankenship,Divorced,Manufacturers,Fisher Foods,A+,220.7,"6' 0""",2021-05-05
+4934,Williamson,Humberto,R,1932-12-31,M,417 Willow Oaks Lane,Lafayette,LA,70506,HumbertoRWilliamson@dummyemail.com,337-555-2151,Barrera,Common-Law,Radiographer,Wellby,O+,170.1,"5' 10""",2021-05-05
+4938,Stevenson,Ignacio,H,1946-05-05,M,685 Hickory Ridge Drive,Las Vegas,NV,89109,IgnacioHStevenson@dummyemail.com,702-555-2216,Bell,Married,Creative writer,Realty Zone,O+,162.4,"6' 0""",2021-05-05
+4950,Gannon,Jerry,J,1933-08-30,M,2939 Chicago Avenue,Visalia,CA,93291,JerryJGannon@dummyemail.com,559-555-9105,Bartley,Single,Aircraft cargo handling supervisor,Steve's Ice Cream,A+,140.6,"5' 10""",2021-05-05
+4951,Williams,Edward,E,1945-03-13,M,4094 Franklin Avenue,Port O Connor,TX,77982,EdwardEWilliams@dummyemail.com,361-555-5280,Andrews,Common-Law,Clerical specialist,Dick Fischers,O+,195.1,"5' 8""",2021-05-05
+4966,Havens,Maggie,N,1963-03-19,F,3805 Beech Street,Antioch,CA,94509,MaggieNHavens@dummyemail.com,925-555-0393,Berthiaume,Single,Hand packer,Jewel Mart,O+,225.5,"5' 1""",2021-05-05
+4977,Perry,Cynthia,M,1933-06-06,F,196 Small Street,New York,NY,10017,CynthiaMPerry@dummyemail.com,212-555-5728,Austria,Single,Deputy sheriff,Wag's,B+,130.9,"5' 2""",2021-05-05
+4978,Tucci,Rose,G,1932-12-05,F,1005 Brannon Avenue,Jacksonville,FL,32218,RoseGTucci@dummyemail.com,904-555-5504,Blaine,Married,Earth driller,Quality Event Planner,B+,207.7,"5' 7""",2021-05-05
+4988,Handy,Teresa,C,1959-01-17,F,4446 Florence Street,Dallas,TX,75247,TeresaCHandy@dummyemail.com,903-555-5205,Birge,Divorced,Local account executive,Zany Brainy,B+,191.4,"5' 4""",2021-05-05
+4996,Christiansen,Frances,G,1936-03-15,F,382 Stark Hollow Road,Allison,CO,81121,FrancesGChristiansen@dummyemail.com,970-555-0916,Blanch,Common-Law,Custodial worker,The Flying Bear,O+,181.7,"5' 7""",2021-05-05
+4999,Bell,Linda,G,1961-09-15,F,3926 Callison Lane,Bensalem,DE,19020,LindaGBell@dummyemail.com,302-555-7018,Ayotte,Divorced,Business support assistant,De Pinna,A+,218.9,"5' 3""",2021-05-06
+5006,Moore,Samuel,A,1985-11-21,M,1548 Jerome Avenue,Mcallen,TX,78501,SamuelAMoore@dummyemail.com,956-555-5827,Benson,Divorced,Office machine and cash register technician,House of Gas,B+,222.6,"5' 10""",2021-05-06
+5011,Gendreau,Marina,M,1957-02-11,F,2419 Center Street,Stockton,CA,95202,MarinaMGendreau@dummyemail.com,559-555-6645,Allen,Single,Petroleum engineer,Roberd's,B+,120.6,"5' 3""",2021-05-06
+5014,Stone,Crystal,H,1966-11-18,F,1614 Tator Patch Road,Elmhurst,IL,60126,CrystalHStone@dummyemail.com,312-555-6666,Bell,Single,Economist,Plan Future,B+,165.9,"5' 5""",2021-05-06
+5023,Hang,Cheryl,D,1982-08-11,F,2892 Barfield Lane,Indianapolis,IN,46202,CherylDHang@dummyemail.com,317-555-0347,Armijo,Married,Registrar,Larry's Markets,B+,195.4,"5' 2""",2021-05-06
+5036,Griffin,Richard,C,1948-09-14,M,1542 Seth Street,Comanche,TX,76442,RichardCGriffin@dummyemail.com,325-555-5289,Averill,Divorced,Job analyst,Network Air,B+,225.1,"5' 5""",2021-05-06
+5064,Hopson,Herman,A,1962-06-29,M,4173 Kemper Lane,Spanish Fork,UT,84660,HermanAHopson@dummyemail.com,801-555-7198,Anderson,Divorced,Optometrist,Yardbirds Home Center,B+,224.6,"6' 2""",2021-05-06
+5066,Morris,Jared,R,1939-12-12,M,653 Deer Ridge Drive,Wayne,NJ,7477,JaredRMorris@dummyemail.com,973-555-2364,Arellano,Divorced,Bookkeeping clerk,Chi-Chi's,B+,167.6,"6' 0""",2021-05-06
+5078,Kelly,John,P,1940-06-03,M,3354 Mulberry Lane,Miami,FL,33169,JohnPKelly@dummyemail.com,561-555-4150,Bishop,Common-Law,Masseuse,Little Folk Shops,A+,189.2,"5' 10""",2021-05-06
+5080,Dunston,Theresa,R,1959-12-03,F,1670 Counts Lane,Florence,KY,41042,TheresaRDunston@dummyemail.com,859-555-3503,Adams,Divorced,Metal caster,Odyssey Records & Tapes,O+,129.4,"5' 7""",2021-05-06
+5093,Marlow,Rick,C,1994-01-10,M,133 Pearl Street,West Sacramento,CA,95691,RickCMarlow@dummyemail.com,916-555-5258,Asay,Divorced,Power plant dispatcher,Childs Restaurants,B+,185.7,"6' 0""",2021-05-06
+5120,Flack,Wade,D,1942-03-09,M,2543 Oakdale Avenue,Clearwater,FL,34620,WadeDFlack@dummyemail.com,863-555-6523,Amy,Common-Law,Multiple machine tool tender,Eagle Food Centers,A+,148.3,"5' 10""",2021-05-06
+5134,Hampton,David,R,1984-09-20,M,3422 Robinson Court,Saginaw,MI,48607,DavidRHampton@dummyemail.com,989-555-1043,Alcaraz,Common-Law,Laboratory animal technician,Lee Wards,B+,171.6,"6' 2""",2021-05-06
+5154,Sims,Ricardo,B,1987-08-11,M,3619 Hinkle Lake Road,Newton,MA,2160,RicardoBSims@dummyemail.com,617-555-1530,Berner,Married,Fitness worker,Spaceage Stereo,A+,132.9,"6' 3""",2021-05-06
+5165,Herrin,Jason,L,1931-02-17,M,3372 Lake Forest Drive,Elmsford,NY,10523,JasonLHerrin@dummyemail.com,914-555-2534,Berry,Common-Law,Dental laboratory technician,Signa Air,A-,166.5,"5' 8""",2021-05-06
+5169,Land,Teodora,R,1935-04-26,F,4015 Mount Olive Road,Atlanta,GA,30328,TeodoraRLand@dummyemail.com,678-555-5558,Askew,Married,Dispatcher,K's Merchandise,A+,122.1,"5' 7""",2021-05-06
+5188,Patterson,Kim,S,1960-10-30,F,1436 West Street,Grand Rapids,MI,49503,KimSPatterson@dummyemail.com,616-555-3345,Blue,Single,Leasing manager,Suadela Investment,O+,152.2,"5' 5""",2021-05-06
+5214,Morris,Melanie,J,1952-08-06,F,478 Radford Street,Louisville,KY,40202,MelanieJMorris@dummyemail.com,502-555-3407,Blodgett,Single,Switchboard operator,Blue Boar Cafeterias,O+,222.0,"5' 3""",2021-05-06
+5228,Fontenot,Chester,C,1969-07-20,M,4805 Harry Place,Charlotte,NC,28202,ChesterCFontenot@dummyemail.com,704-555-9493,Benson,Single,Central office operator,Waccamaw's Homeplace,O+,230.1,"5' 9""",2021-05-06
+5240,Cunningham,Bobby,C,1956-02-20,M,236 Elmwood Avenue,Philadelphia,PA,19108,BobbyCCunningham@dummyemail.com,484-555-2314,Bennet,Divorced,Explosives worker,Piece Goods Fabric,O+,194.5,"5' 10""",2021-05-06
+5243,Riley,Nestor,M,1985-06-27,M,2695 Sumner Street,Los Angeles,CA,90017,NestorMRiley@dummyemail.com,310-555-9806,Basil,Single,Leasing manager,Cal Stereo,O+,233.9,"5' 9""",2021-05-06
+5269,Spence,Kendra,J,1979-06-11,F,4494 Hoffman Avenue,Manhattan,NY,10016,KendraJSpence@dummyemail.com,917-555-0117,Barraza,Married,Mortician,Madcats Music & Books,B+,154.0,"5' 4""",2021-05-06
+5291,Barnes,Alexander,R,1971-08-16,M,609 Wakefield Street,Philadelphia,PA,19107,AlexanderRBarnes@dummyemail.com,215-555-2157,Bilger,Married,Powerhouse electrician,Omni Architectural Designs,A+,174.0,"6' 2""",2021-05-06
+5299,Bowen,Anthony,R,1969-03-16,M,629 New Creek Road,Spencerville,IN,46788,AnthonyRBowen@dummyemail.com,260-555-5488,Bachus,Married,Manufactured building and mobile home installer,Rack N Sack,O+,178.6,"5' 7""",2021-05-06
+5316,Westendorf,Elizabeth,C,1953-03-02,F,3066 Zappia Drive,Lexington,KY,40507,ElizabethCWestendorf@dummyemail.com,859-555-6537,Blay,Single,Detention officer,National Auto Parts,AB+,225.7,"5' 0""",2021-05-06
+5318,Mitchell,Kurt,S,1965-04-14,M,1062 Illinois Avenue,Tigard,OR,97223,KurtSMitchell@dummyemail.com,503-555-1228,Albrecht,Common-Law,Gaming and sports runner,York Steak House,O+,241.8,"5' 10""",2021-05-06
+5336,Mitchell,Billie,K,1992-01-31,F,129 Buck Drive,Bradford,VT,5033,BillieKMitchell@dummyemail.com,802-555-6597,Beaulieu,Married,High school counselor,Soul Sounds Unlimited,B+,201.1,"5' 8""",2021-05-06
+5339,Russell,Darla,H,1982-12-13,F,1395 Armbrester Drive,Culver City,CA,90232,DarlaHRussell@dummyemail.com,310-555-0845,Baker,Common-Law,Closing agent,Edge Yard Service,B+,228.4,"5' 1""",2021-05-06
+5361,Bergman,Danny,B,1933-08-07,M,3377 Denver Avenue,Ontario,CA,91761,DannyBBergman@dummyemail.com,951-555-2788,Blake,Common-Law,Purchase-and-sales clerk,Laura Ashley,O+,133.1,"5' 10""",2021-05-06
+5368,Sander,Nancy,E,1963-03-02,F,3525 Daffodil Lane,Woodbridge,VA,22191,NancyESander@dummyemail.com,703-555-9471,Beauford,Married,Social and human service assistant,Pro-Care Garden Maintenance,O+,220.0,"5' 1""",2021-05-06
+5374,Chou,Kevin,M,1975-11-23,M,4789 Carolyns Circle,Dallas,TX,75218,KevinMChou@dummyemail.com,214-555-7508,Bell,Married,Long-term care facility nurse,Planetbiz,O+,222.4,"6' 0""",2021-05-06
+5387,Leff,Patricia,J,1993-10-28,F,1343 Lewis Street,Wood Dale,IL,60191,PatriciaJLeff@dummyemail.com,630-555-0456,Baker,Common-Law,Vending machine technician,Standard Brands Paint Company,B+,311.3,"5' 1""",2021-05-06
+5392,Martin,Christine,C,1989-03-15,F,4895 Hurry Street,Fredericksburg,VA,22401,ChristineCMartin@dummyemail.com,540-555-7329,Beauchamp,Divorced,Recreation worker,Club Wholesale,O+,215.4,"5' 1""",2021-05-06
+5409,Jordan,Percy,C,1950-12-24,M,3491 Buck Drive,North Salt Lake,UT,84054,PercyCJordan@dummyemail.com,801-555-0734,Blake,Divorced,Weaving machine operator,Hoyden,B+,243.5,"5' 7""",2021-05-06
+5436,Charles,Hilde,W,1967-12-05,F,1706 Woodrow Way,Liberty,TX,77575,HildeWCharles@dummyemail.com,936-555-3604,Biehl,Common-Law,Instrumentation technician,Foot Quarters,B+,159.7,"5' 3""",2021-05-06
+5439,McDaniel,Farrah,M,1975-12-15,F,1601 Massachusetts Avenue,Washington,DC,20036,FarrahMMcDaniel@dummyemail.com,202-555-6489,Allen,Common-Law,Workforce development specialist,Anderson-Little,B+,115.7,"5' 2""",2021-05-06
+5441,Lynn,Maureen,K,1955-07-03,F,133 Drainer Avenue,Greenwood,FL,32443,MaureenKLynn@dummyemail.com,850-555-2295,Barnes,Single,Job analysis manager,Advansed Teksyztems,B+,182.8,"5' 3""",2021-05-06
+5448,Tregre,James,J,1948-11-27,M,2169 Bottom Lane,Buffalo,NY,14202,JamesJTregre@dummyemail.com,716-555-6244,Billings,Single,Workforce development officer,Kessel Food Market,B+,233.6,"5' 9""",2021-05-06
+5449,Wynn,Jose,M,1938-08-24,M,1395 O Conner Street,Pascagoula,MS,39567,JoseMWynn@dummyemail.com,228-555-3957,Antonio,Married,Geoscientist,Mr. Good Buys,O+,205.0,"6' 0""",2021-05-06
+5450,Heil,Rodney,K,1968-11-26,M,1505 Loving Acres Road,Fort Worth,TX,76135,RodneyKHeil@dummyemail.com,817-555-6359,Almond,Common-Law,Railroad conductor,Federated Group,O-,451.5,"5' 10""",2021-05-06
+5466,Ellison,Donald,L,1956-03-06,M,3689 Patton Lane,Fayetteville,NC,28306,DonaldLEllison@dummyemail.com,919-555-9278,Arter,Common-Law,Examiner,Greenwich IGA,O+,203.9,"5' 10""",2021-05-06
+5469,Smith,Christine,J,1954-12-21,F,1001 Jarvis Street,Buffalo,NY,14211,ChristineJSmith@dummyemail.com,716-555-9008,Anthony,Single,Agricultural and food scientist,Back To Basics Chiropractic Clinic,O+,183.9,"5' 5""",2021-05-06
+5475,Lopez,Josefa,J,1965-12-30,F,3439 Cherry Tree Drive,Jacksonville,FL,32202,JosefaJLopez@dummyemail.com,904-555-7474,Black,Single,Administrative support specialist,Brendle's,A+,196.5,"5' 1""",2021-05-06
+5477,Burgin,Cecil,J,1951-06-20,M,4705 Fieldcrest Road,Babylon,NY,11702,CecilJBurgin@dummyemail.com,631-555-3846,Baker,Divorced,Traffic clerk,Infinite Wealth,O+,147.0,"5' 10""",2021-05-06
+5482,Exum,Bessie,M,1931-07-24,F,1139 Clement Street,Norcross,GA,30071,BessieMExum@dummyemail.com,404-555-9446,Barksdale,Single,Truck driver,Herman's World of Sporting Goods,O+,177.8,"5' 1""",2021-05-06
+5489,Alvey,Zaida,P,1972-03-22,F,4264 Harley Vincent Drive,Cleveland,OH,44113,ZaidaPAlvey@dummyemail.com,440-555-5218,Baughman,Common-Law,Electrical and electronics engineering technician,Back To Basics Chiropractic Clinic,B+,182.8,"5' 1""",2021-05-06
+5498,Hart,Mike,F,1957-02-06,M,860 Bruce Street,Saint Louis,MO,63120,MikeFHart@dummyemail.com,314-555-2407,Anderson,Divorced,Horse breeder,Planet Profit,O+,209.9,"5' 9""",2021-05-06
+5504,Seto,Daniel,A,1972-01-11,M,1995 Hood Avenue,San Diego,CA,92123,DanielASeto@dummyemail.com,858-555-0888,Bennett,Single,Fork lift operator,Briazz,A+,433.0,"6' 2""",2021-05-06
+5536,Williamson,Raymond,D,1946-10-27,M,990 Gambler Lane,Houston,TX,77002,RaymondDWilliamson@dummyemail.com,281-555-8342,Adams,Common-Law,Health care interpreter,Morville,AB+,199.8,"6' 0""",2021-05-06
+5543,Fox,Frances,C,1985-06-02,F,2750 Jennifer Lane,Durham,NC,27701,FrancesCFox@dummyemail.com,919-555-2056,Bellanger,Married,Pilot,Best Biz Survis,A-,112.6,"5' 2""",2021-05-06
+5549,Macaulay,Dorothy,J,1975-06-17,F,3283 Carolyns Circle,Grand Prairie,TX,75051,DorothyJMacaulay@dummyemail.com,214-555-4229,Beasley,Single,Climatologist,Eisner Food Stores,A+,158.2,"5' 9""",2021-05-06
+5561,Randell,John,P,1946-08-05,M,4656 Radio Park Drive,Atlanta,GA,30303,JohnPRandell@dummyemail.com,706-555-6907,Allen,Common-Law,Railroad signal operator,Golden's Distributors,A+,153.1,"5' 7""",2021-05-06
+5564,Costin,Jennifer,R,1974-08-26,F,1979 Melody Lane,Richmond,VA,23233,JenniferRCostin@dummyemail.com,804-555-9786,Anguiano,Divorced,Ambulance driver,Hills Supermarkets,O+,220.2,"5' 1""",2021-05-06
+5588,Gill,Angelique,J,1973-12-16,F,250 Barnes Street,Sanford,FL,32771,AngeliqueJGill@dummyemail.com,407-555-7962,Baltimore,Common-Law,Judge,Terra,B+,200.6,"5' 5""",2021-05-06
+5607,Daniels,Dennis,M,1985-03-31,M,4320 Fulton Street,Weirton,WV,26062,DennisMDaniels@dummyemail.com,304-555-8656,Barnes,Common-Law,Specification inspector,Checker Auto Parts,A-,166.3,"6' 2""",2021-05-06
+5615,Fincher,Raymond,B,1989-06-03,M,181 Mount Olive Road,Atlanta,GA,30303,RaymondBFincher@dummyemail.com,678-555-7839,Ball,Divorced,Automotive painter,Harvest Foods,B+,230.6,"5' 10""",2021-05-06
+5618,McDaniel,Eric,G,1941-06-08,M,1399 Milford Street,Nashua,NH,3060,EricGMcDaniel@dummyemail.com,603-555-9576,Arriaga,Single,Rigging slinger,Consumers Food and Drug,B+,165.7,"5' 10""",2021-05-06
+5619,Manzer,Suzanne,L,1949-09-01,F,3185 Rhode Island Avenue,Washington,DC,20002,SuzanneLManzer@dummyemail.com,202-555-0550,Amos,Divorced,Railroad engineer,Mikro Designs,O+,205.7,"5' 0""",2021-05-06
+5622,Dowdell,Amy,A,1941-04-01,F,2662 Pennsylvania Avenue,Rahway,NJ,7065,AmyADowdell@dummyemail.com,732-555-3605,Bennett,Single,Gerontologist,Schucks Auto Supply,O+,159.3,"5' 3""",2021-05-06
+5629,McClean,Gussie,A,1972-12-18,F,3870 Platinum Drive,Pittsburgh,PA,15212,GussieAMcClean@dummyemail.com,724-555-1462,Bailey,Single,Ticket taker,Afterthoughts,A+,126.5,"5' 3""",2021-05-06
+5665,Duquette,Eden,J,1971-12-28,F,1412 Sugarfoot Lane,Indianapolis,IN,46225,EdenJDuquette@dummyemail.com,765-555-5515,Auzenne,Married,Bus driver,Buttrey Food & Drug,B+,161.0,"5' 4""",2021-05-06
+5680,Smith,Mary,S,1980-09-16,F,2279 Pride Avenue,Brooklyn,NY,11223,MarySSmith@dummyemail.com,718-555-4289,Bond,Married,Financial planner,Oranges Records & Tapes,B+,130.9,"5' 9""",2021-05-06
+5682,Burton,Rozella,D,1974-09-28,F,1923 Radford Street,Louisville,KY,40203,RozellaDBurton@dummyemail.com,502-555-0532,Bailey,Single,County court judge,Asiatic Solutions,O+,195.1,"5' 1""",2021-05-06
+5692,Ryerson,Timothy,T,1939-07-04,M,400 Park Boulevard,Panora,IA,50216,TimothyTRyerson@dummyemail.com,641-555-4254,Billings,Married,Golf course architect,Builderama,B+,220.0,"5' 11""",2021-05-06
+5696,Ortega,Ben,N,1971-02-19,M,2569 Fairfax Drive,Secaucus,NJ,7094,BenNOrtega@dummyemail.com,908-555-0278,Berry,Common-Law,Cargo and freight agent,Super Shops,O+,227.0,"5' 8""",2021-05-06
+5708,Burges,Frank,A,1942-06-27,M,4350 Rocket Drive,Columbus,OH,43085,FrankABurges@dummyemail.com,614-555-5686,Aguirre,Single,Job estimator,Simply Save,O+,163.0,"5' 11""",2021-05-06
+5727,Wicks,James,J,1958-02-04,M,2854 Snowbird Lane,Seward,NE,68434,JamesJWicks@dummyemail.com,402-555-3858,Bailey,Divorced,Echocardiographer,Source Club,AB+,158.4,"5' 9""",2021-05-06
+5728,Cevallos,Katie,R,1975-11-27,F,3322 Spring Avenue,Lansdale,PA,19446,KatieRCevallos@dummyemail.com,267-555-9704,Adcock,Common-Law,Medical records and health information technician,Action Auto,A-,178.9,"5' 5""",2021-05-06
+5732,Kelley,Doris,J,1967-04-22,F,3640 Cessna Drive,Fort Wayne,IN,46802,DorisJKelley@dummyemail.com,260-555-0797,Arbuckle,Single,Soil conservationist,Chess King,A+,217.4,"5' 1""",2021-05-06
+5734,Haywood,Sheila,M,1960-08-25,F,3342 Braxton Street,Dekalb,IL,60115,SheilaMHaywood@dummyemail.com,815-555-4615,Black,Common-Law,Audiologist,Great Clothes,A+,202.8,"5' 3""",2021-05-06
+5761,Olesen,Louise,T,1974-10-05,F,597 Quiet Valley Lane,Baldwin Park,CA,91706,LouiseTOlesen@dummyemail.com,818-555-9829,Blanton,Single,Tumbling barrel painter,Sure Save,A+,177.3,"5' 1""",2021-05-06
+5781,Hedges,Karl,S,1978-08-29,M,2009 Hilltop Haven Drive,Teterboro,NJ,7608,KarlSHedges@dummyemail.com,973-555-3621,Benton,Common-Law,Personnel analyst,Colonial Stores,O+,205.9,"5' 10""",2021-05-06
+5810,Dickens,James,E,1975-04-30,M,650 Bubby Drive,Austin,TX,78756,JamesEDickens@dummyemail.com,512-555-0168,Bisbee,Married,Bookmobile driver,County Market,O+,290.6,"5' 10""",2021-05-06
+5812,Macarthur,Rachel,R,1983-08-24,F,1844 Rinehart Road,Miami,FL,33169,RachelRMacarthur@dummyemail.com,786-555-3088,Blue,Common-Law,Mortgage banker,Edge Yard Service,O+,172.5,"5' 8""",2021-05-06
+5815,Peace,Donald,M,1934-09-23,M,3777 Olive Street,Shelby,OH,44875,DonaldMPeace@dummyemail.com,419-555-1598,Bolden,Common-Law,Counter attendant,Hills Supermarkets,B+,198.0,"5' 8""",2021-05-06
+5839,Richardson,Janice,P,1939-12-20,F,4529 Wiseman Street,Knoxville,TN,37902,JanicePRichardson@dummyemail.com,865-555-1023,Arias,Single,Cosmetologist,Paul Harris,A-,216.9,"5' 1""",2021-05-06
+5844,Greer,Jacqueline,M,1959-03-05,F,272 Dale Avenue,Seattle,WA,98109,JacquelineMGreer@dummyemail.com,253-555-3942,Bollinger,Single,Blankbook binding worker,The Spotted Cougar,O+,227.9,"5' 1""",2021-05-06
+5894,McCoy,Angela,L,1969-07-07,F,4694 Berkshire Circle,Knoxville,TN,37917,AngelaLMcCoy@dummyemail.com,865-555-2835,Bernard,Married,Metal pourer,The Serendipity Dip,AB+,219.6,"5' 3""",2021-05-06
+5900,Drew,Emily,J,1983-08-11,F,4635 Isaacs Creek Road,Champaign,IL,61820,EmilyJDrew@dummyemail.com,217-555-2772,Allsup,Common-Law,Machine offbearer,Galyan's,O+,122.8,"5' 8""",2021-05-06
+5905,Varner,William,J,1977-03-28,M,2869 Jacobs Street,Pittsburgh,PA,15222,WilliamJVarner@dummyemail.com,412-555-2888,Banda,Common-Law,Enrichment education instructor,John Plain,B+,200.0,"5' 11""",2021-05-06
+5914,Valle,Richard,B,1962-03-25,M,1497 White River Way,Salt Lake City,UT,84106,RichardBValle@dummyemail.com,801-555-4228,Baker,Common-Law,Tool sharpener,Perisolution,O+,233.4,"5' 10""",2021-05-06
+5967,Acuna,Bobbie,J,1950-08-01,F,350 Franklee Lane,Newark,PA,19714,BobbieJAcuna@dummyemail.com,484-555-2008,Blevins,Married,Audiologist,Simple Solutions,A-,159.9,"5' 5""",2021-05-06
+5973,Deardorff,Cynthia,M,1989-06-10,F,1313 Bombardier Way,Plymouth,MI,48170,CynthiaMDeardorff@dummyemail.com,734-555-2282,Allen,Single,Cartoonist,Vibrant Man,O+,105.4,"5' 9""",2021-05-06
+6000,Baca,Miguel,S,1931-06-01,M,1125 Mandan Road,Manchester,MO,63011,MiguelSBaca@dummyemail.com,573-555-6023,Bliss,Common-Law,Caulker,Jafco,A+,202.8,"5' 5""",2021-05-07
+6038,Reed,Denice,A,1985-02-17,F,1457 Tennessee Avenue,Flint,MI,48548,DeniceAReed@dummyemail.com,248-555-3967,Bernard,Divorced,Statistician,Stratacard,O+,208.8,"5' 9""",2021-05-07
+6039,Dematteo,Carolyn,B,1953-09-23,F,3993 Late Avenue,Clinton,OK,73601,CarolynBDematteo@dummyemail.com,580-555-9513,Banks,Single,Human resources administrative assistant,Exact Solutions,A+,169.8,"5' 5""",2021-05-07
+6044,Byrd,Greta,A,1973-04-20,F,106 Maple Court,Cape Girardeau,MO,63701,GretaAByrd@dummyemail.com,573-555-5772,Alverez,Married,Information technology trainer,Canal Villere,A+,222.2,"5' 1""",2021-05-07
+6057,Waggoner,Melba,J,1985-05-07,F,1440 Sampson Street,Denver,CO,80221,MelbaJWaggoner@dummyemail.com,303-555-1222,Allen,Divorced,Personnel director,Team Uno,A+,192.7,"5' 3""",2021-05-07
+6066,Lewis,Douglas,M,1948-02-20,M,1280 Patton Lane,Raleigh,NC,27603,DouglasMLewis@dummyemail.com,919-555-0631,Belle,Common-Law,Arborist,,A+,210.1,"5' 9""",2021-05-07
+6089,Imai,Teresa,J,1947-02-13,F,3147 Tree Frog Lane,Kansas City,MO,64127,TeresaJImai@dummyemail.com,816-555-3286,Baskerville,Single,Electrophysiologist,Big Wheel,O+,143.4,"5' 7""",2021-05-07
+6119,Felton,Pamela,M,1956-02-13,F,4003 Ashcraft Court,San Diego,CA,92103,PamelaMFelton@dummyemail.com,619-555-7020,Bailey,Divorced,Library binding worker,Sportmart,B+,128.0,"5' 1""",2021-05-07
+6123,Robinson,Terrence,C,1929-01-04,X,136 Cardinal Lane,Mattoon,IL,61938,TerrenceCRobinson@dummyemail.com,217-555-6356,Blalock,Single,Holistic nurse,Nedick's,A+,151.8,"5' 5""",2021-05-07
+6140,Martinez,Nicholas,B,1945-10-04,M,352 Big Elm,Kansas City,MO,64106,NicholasBMartinez@dummyemail.com,816-555-3103,Blasingame,Divorced,Technician,Compact Disc Center,AB-,225.7,"5' 6""",2021-05-07
+6164,Thomas,Michael,T,1955-02-12,M,3873 Mahlon Street,Neptune,NJ,7753,MichaelTThomas@dummyemail.com,732-555-3835,Barrera,Married,Material moving occupation,Sherman's,A+,184.8,"5' 7""",2021-05-07
+6180,Pyron,Gary,C,1952-09-05,M,2559 Clinton Street,Little Rock,AR,72201,GaryCPyron@dummyemail.com,501-555-2310,Angus,Single,Health educator,Brown Derby,B+,225.1,"5' 9""",2021-05-07
+6211,Mitchell,Louise,J,1962-05-27,F,4207 Gregory Lane,Louisville,KY,40299,LouiseJMitchell@dummyemail.com,502-555-4976,Blue,Married,Model,Rainbow Records,A+,120.1,"5' 7""",2021-05-07
+6220,Yoho,Claribel,J,1988-03-30,F,1511 Monroe Avenue,Tampa,FL,33602,ClaribelJYoho@dummyemail.com,941-555-9716,Blake,Common-Law,Oral radiologist,McDuff,A+,155.3,"5' 5""",2021-05-07
+6223,Guidry,Debra,M,1937-07-20,F,4786 Elk Creek Road,Atlanta,GA,30339,DebraMGuidry@dummyemail.com,770-555-9685,Alves,Divorced,Insurance investigator,Clemens Markets,O+,158.6,"5' 3""",2021-05-07
+6225,Brazier,Marilyn,T,1984-05-26,F,4394 Radio Park Drive,Augusta,GA,30901,MarilynTBrazier@dummyemail.com,706-555-7290,Amos,Divorced,Combined food preparation and serving worker,G.I. Joe's,O-,218.5,"5' 9""",2021-05-07
+6231,Darling,Jason,S,1974-01-02,M,2852 Hampton Meadows,Bolton,MA,1740,JasonSDarling@dummyemail.com,978-555-5657,Barlow,Married,Vegetable cook,Crazy Eddie,B-,212.1,"5' 10""",2021-05-07
+6247,Walden,Patsy,M,1936-05-06,F,537 Liberty Street,Dallas,TX,75212,PatsyMWalden@dummyemail.com,214-555-7347,Berg,Common-Law,Electrical power line repairer,Krauses Sofa Factory,O+,165.2,"5' 7""",2021-05-07
+6248,Gottfried,Betty,A,1948-03-03,F,3050 Big Indian,New Orleans,LA,70112,BettyAGottfried@dummyemail.com,504-555-2524,Bjork,Single,Employee development manager,Price Savers,A+,162.8,"5' 2""",2021-05-07
+6272,Jones,Patti,W,1942-10-16,F,542 Tuna Street,Chandler,IN,47610,PattiWJones@dummyemail.com,812-555-8776,Adams,Divorced,Personal banker,Brendle's,O+,329.8,"5' 2""",2021-05-07
+6295,Ramsey,Deborah,P,1944-07-05,F,3738 Wetzel Lane,Grand Rapids,MI,49503,DeborahPRamsey@dummyemail.com,231-555-0826,Anaya,Common-Law,Switchboard operator,Monit,B+,143.9,"5' 5""",2021-05-07
+6310,Hurley,Kendra,D,1975-09-13,F,2907 Mapleview Drive,Jackson,TN,38301,KendraDHurley@dummyemail.com,731-555-3339,Adair,Divorced,Newscaster,Food Giant,AB+,224.4,"5' 9""",2021-05-07
+6319,Cook,Linda,J,1955-11-29,F,914 Wildwood Street,Boardman,OH,44512,LindaJCook@dummyemail.com,330-555-9831,Bates,Common-Law,Advisor investigator,Magik Gray,A+,195.4,"5' 4""",2021-05-07
+6328,Weiss,John,J,1933-08-26,M,1821 Palmer Road,Westerville,OH,43081,JohnJWeiss@dummyemail.com,614-555-7380,Arnold,Divorced,Purchasing clerk,Farrell's Ice Cream Parlour,A+,161.9,"5' 7""",2021-05-07
+6333,Bowen,Jose,M,1986-09-16,M,4117 Abia Martin Drive,Patchogue,NY,11772,JoseMBowen@dummyemail.com,631-555-4827,Barner,Single,Handymen,Unity Frankford Stores,AB+,239.1,"6' 1""",2021-05-07
+6343,Stevens,Jason,L,1942-10-27,M,1747 Jerome Avenue,Raymondville,TX,78580,JasonLStevens@dummyemail.com,956-555-9366,Arnold,Divorced,Echocardiographer,Hughes & Hatcher,B+,152.9,"5' 6""",2021-05-07
+6346,Turner,Alan,L,1938-11-07,M,3056 Tenmile,Rancho Mirage,CA,92270,AlanLTurner@dummyemail.com,760-555-5565,Black,Divorced,Undertaker,Burstein-Applebee,B+,192.5,"6' 0""",2021-05-07
+6362,Pease,James,D,1944-02-01,M,4648 Grand Avenue,Orlando,FL,32810,JamesDPease@dummyemail.com,407-555-3549,Bannon,Common-Law,Payroll specialist,Gas Depot,A+,139.5,"6' 1""",2021-05-07
+6363,Merriman,Michael,A,1943-01-01,M,4859 Collins Avenue,Worthington,OH,43085,MichaelAMerriman@dummyemail.com,614-555-5596,Arviso,Single,Judge,Total Sources,B+,204.4,"5' 6""",2021-05-07
+6364,Welch,Cynthia,L,1991-01-16,F,2702 Terry Lane,Longwood,FL,32750,CynthiaLWelch@dummyemail.com,321-555-5469,Berry,Divorced,Milling and planing machine setter,Parts America,A+,134.9,"5' 6""",2021-05-07
+6389,Sebastian,Florence,A,1942-12-02,F,3376 Cambridge Court,West Fork,AR,72774,FlorenceASebastian@dummyemail.com,479-555-5757,Adkins,Divorced,Telephone line installer,World Radio,O+,212.3,"5' 5""",2021-05-07
+6393,Murray,Larry,E,1966-06-09,M,4454 Cherry Ridge Drive,Bloomfield Township,MI,48302,LarryEMurray@dummyemail.com,586-555-3353,Barnes,Married,Dredge operator,Rossi Auto Parts,B+,235.4,"5' 7""",2021-05-07
+6432,Bryan,Richard,H,1963-11-05,M,1862 Lee Avenue,Camden,NJ,8102,RichardHBryan@dummyemail.com,856-555-3484,Bates,Single,Tool grinder,David Weis,B+,146.3,"5' 9""",2021-05-07
+6445,Hurley,Charles,C,1971-03-06,M,3356 Hamill Avenue,San Diego,CA,92111,CharlesCHurley@dummyemail.com,858-555-4082,Ahmed,Married,Bus mechanic,Expo Superstore,O+,211.6,"5' 7""",2021-05-07
+6450,Roth,Kylie,B,1942-08-14,F,4239 Clinton Street,Philadelphia,PA,19103,KylieBRoth@dummyemail.com,484-555-5606,Barrera,Single,Window clerk,Woolf Brothers,AB+,180.8,"5' 5""",2021-05-07
+6457,Desir,Eric,R,1960-08-19,M,2218 Vineyard Drive,Rocky River,OH,44116,EricRDesir@dummyemail.com,440-555-2369,Allen,Single,Economic geographer,Mr Fables,O-,232.5,"5' 10""",2021-05-07
+6476,Baker,Agnes,S,1988-12-01,F,1043 Roguski Road,Bastrop,LA,71220,AgnesSBaker@dummyemail.com,318-555-5421,Becker,Divorced,Wait staff,Jay Jacobs,A+,189.2,"5' 7""",2021-05-07
+6487,Porter,Thomas,S,1971-03-10,M,4580 Dola Mine Road,Raleigh,NC,27609,ThomasSPorter@dummyemail.com,919-555-1366,Ashley,Divorced,Heavy-duty truck mechanic,Franklin Music,B+,157.5,"5' 10""",2021-05-07
+6511,Vang,Edna,J,1983-09-24,F,4001 John Daniel Drive,Jefferson City,MO,65101,EdnaJVang@dummyemail.com,573-555-7422,Bailey,Married,Line installer,Environ Architectural Design,A+,170.5,"5' 8""",2021-05-07
+6517,Keenan,Robert,R,1986-09-15,M,4712 Eagle Street,Brighton,IL,62012,RobertRKeenan@dummyemail.com,618-555-9742,Benard,Single,Management assistant,Source Club,B+,163.0,"5' 10""",2021-05-07
+6524,Saunders,Russell,T,1983-03-22,M,1511 Collins Street,Altoona,PA,16601,RussellTSaunders@dummyemail.com,814-555-3667,Ambler,Single,Executive editor,AJ Bayless,O+,180.4,"5' 10""",2021-05-07
+6555,Chase,Timothy,M,1978-11-19,M,4649 Blackwell Street,Anchorage,AK,99504,TimothyMChase@dummyemail.com,907-555-6408,Andrew,Married,Pharmacy technician,Maxi-Tech,B-,246.8,"5' 10""",2021-05-07
+6556,Beaty,Carlene,J,1958-12-24,F,2490 Rardin Drive,San Francisco,CA,94107,CarleneJBeaty@dummyemail.com,650-555-5972,Bohr,Single,Welding machine setter,H.C. Bohack,A+,221.5,"5' 4""",2021-05-07
+6596,Bice,Esther,D,1968-03-03,G,4872 Feathers Hooves Drive,New York,NY,10005,EstherDBice@dummyemail.com,631-555-3958,Blais,Married,Loan service clerk,Orion,O+,153.8,"5' 3""",2021-05-07
+6638,Brown,Trisha,J,1953-02-11,F,4517 Cliffside Drive,Campbell,NY,14821,TrishaJBrown@dummyemail.com,607-555-7724,Bixler,Common-Law,Employee placement specialist,The Network Chef,A+,129.4,"5' 4""",2021-05-07
+6664,Bennett,Kenneth,P,1933-03-05,M,3059 Griffin Street,Phoenix,AZ,85003,KennethPBennett@dummyemail.com,602-555-7874,Bennett,Divorced,High school teacher,Honest Air Group,B+,190.7,"5' 10""",2021-05-07
+6742,Sartin,Robert,A,1953-04-30,M,4539 Meadowview Drive,Fredericksburg,VA,22408,RobertASartin@dummyemail.com,540-555-3668,Benson,Single,Oral and maxillofacial surgeon,Hollywood Video,A+,224.0,"5' 8""",2021-05-07
+6750,Backman,Michael,L,1972-02-09,M,1117 Black Stallion Road,Cincinnati,KY,45214,MichaelLBackman@dummyemail.com,859-555-7875,Bentley,Divorced,Automotive painter,Jafco,B+,178.0,"6' 2""",2021-05-07
+6755,Keller,Paul,C,1961-10-26,M,4867 Ripple Street,Hope,MI,48628,PaulCKeller@dummyemail.com,989-555-4023,Baxter,Common-Law,Cement mason,Handy Andy Home Improvement Center,AB+,173.8,"5' 10""",2021-05-07
+6760,Gasper,Richard,V,1970-09-16,M,2770 Crestview Terrace,San Antonio,TX,78205,RichardVGasper@dummyemail.com,830-555-9447,Bergstrom,Single,Employment service specialist,Awthentikz,A+,200.6,"5' 11""",2021-05-07
+6774,Hanson,Carol,E,1994-01-10,F,4718 Hamill Avenue,San Diego,CA,92110,CarolEHanson@dummyemail.com,858-555-2743,Allen,Married,Vice president,Disc Jockey,O+,136.2,"5' 3""",2021-05-07
+6777,Parker,William,L,1968-04-04,M,2613 Bubby Drive,Austin,TX,78759,WilliamLParker@dummyemail.com,512-555-7558,Bettis,Common-Law,Airline flight engineer,Karl's Shoes,A+,176.0,"5' 7""",2021-05-07
+6796,Walker,Dorinda,J,1944-09-02,F,3929 Old Dear Lane,Elizaville,NY,12523,DorindaJWalker@dummyemail.com,845-555-5563,Antonio,Common-Law,Structural and reinforcing iron and metal worker,Datacorp,O+,147.2,"4' 11""",2021-05-07
+6802,Boatwright,Edward,K,1990-12-04,M,2805 Friendship Lane,Santa Clara,CA,95054,EdwardKBoatwright@dummyemail.com,408-555-3099,Alvarado,Married,Biomedical engineer,Orion,A+,240.9,"5' 6""",2021-05-07
+6804,Swan,Charles,D,1939-12-17,M,4692 Holly Street,Rome,GA,30161,CharlesDSwan@dummyemail.com,706-555-1628,Baxter,Single,Construction and building inspector,McMahan's Furniture,O+,190.1,"5' 11""",2021-05-07
+6807,Layton,Carolina,P,1980-01-19,F,3836 Filbert Street,Bath,PA,18014,CarolinaPLayton@dummyemail.com,610-555-4377,Berry,Common-Law,Airfield operations specialist,Blockbuster Music,A+,146.5,"5' 1""",2021-05-07
+6840,Forrester,Charles,R,1931-03-11,M,2565 Winding Way,Providence,RI,2903,CharlesRForrester@dummyemail.com,401-555-9949,Avans,Single,Caregiver,Harold's,B+,197.3,"5' 5""",2021-05-07
+6844,Bravo,John,B,1983-10-02,M,3335 Lynn Avenue,Eau Claire,WI,54701,JohnBBravo@dummyemail.com,715-555-3297,Bauman,Married,Inside order clerk,Source Club,B+,237.2,"5' 10""",2021-05-07
+6855,Garza,Deborah,K,1977-09-20,F,3177 Confederate Drive,Sackets Harbor,NY,13685,DeborahKGarza@dummyemail.com,315-555-7592,Austin,Single,Gas pumping station operator,Delchamps,A+,222.6,"5' 9""",2021-05-07
+6858,Valente,Velma,D,1942-09-18,F,1703 Apple Lane,Bloomington,IL,61701,VelmaDValente@dummyemail.com,309-555-8388,Bagley,Divorced,Real estate sales agent,Delchamps,B+,213.8,"5' 3""",2021-05-07
+6859,Corbett,Michael,T,1990-12-07,M,4914 Hamilton Drive,Baltimore,MD,21218,MichaelTCorbett@dummyemail.com,410-555-5565,Anderson,Common-Law,Mechanical engineer,Sunburst Garden Management,B+,146.7,"5' 9""",2021-05-07
+6886,Bruno,Peggy,A,1974-05-25,F,3384 Kelley Road,Biloxi,MS,39531,PeggyABruno@dummyemail.com,228-555-8722,Boman,Married,Limousine driver,Two Pesos,O-,128.7,"5' 2""",2021-05-07
+6905,Burr,Casandra,K,1995-07-14,F,3775 Kincheloe Road,Portland,OR,97204,CasandraKBurr@dummyemail.com,503-555-0177,Bennett,Married,Tree pruner,Aaronson Furniture,B+,123.4,"5' 5""",2021-05-07
+6923,Grabowski,Michael,L,1945-04-04,M,3273 Murry Street,Virginia Beach,VA,23464,MichaelLGrabowski@dummyemail.com,757-555-2265,Bode,Single,Time checker,Jackpot Consultant,O+,172.5,"5' 7""",2021-05-07
+6927,Nivens,Bobby,J,1945-07-12,M,3644 Moonlight Drive,Camden,NJ,8102,BobbyJNivens@dummyemail.com,609-555-5539,Banks,Divorced,Dental surgeon,The Polka Dot Bear Tavern,B+,185.7,"5' 9""",2021-05-07
+6928,Gonzalez,Coleen,A,1978-05-31,F,2495 Hartway Street,Rosebud,SD,57570,ColeenAGonzalez@dummyemail.com,605-555-8275,Bish,Married,Statistical assistant,Terra,O+,207.9,"5' 1""",2021-05-07
+6940,Murphy,Tamara,R,1959-03-21,F,991 Dark Hollow Road,Camden,NJ,8102,TamaraRMurphy@dummyemail.com,609-555-0323,Anderson,Divorced,Licensed practical nurse,Mission You,AB+,158.2,"5' 6""",2021-05-07
+6961,Plummer,Anita,B,1952-02-02,F,851 Reppert Coal Road,Warren,MI,48093,AnitaBPlummer@dummyemail.com,586-555-7430,Abrego,Single,Mortician,The Goose and Duck,A+,207.7,"5' 7""",2021-05-07
+6973,Velez,Mark,S,1935-08-27,M,3653 Fulton Street,Kermit,WV,25674,MarkSVelez@dummyemail.com,304-555-9663,Anderson,Married,Instructional coach,Netaid,O+,192.1,"5' 11""",2021-05-07
+6990,Baker,Anna,J,1973-06-01,F,1761 Eagle Drive,Farmington Hills,MI,48335,AnnaJBaker@dummyemail.com,734-555-5378,Allen,Married,Staff development director,Reliable Guidance,O+,170.5,"5' 4""",2021-05-07
+7021,Messer,Hayley,T,1989-05-20,F,4765 Poplar Lane,Miramar,FL,33025,HayleyTMesser@dummyemail.com,305-555-9433,Bailey,Common-Law,Mold and model maker,Afterthoughts,B+,167.2,"5' 9""",2021-05-08
+7026,Allen,Timothy,G,1985-05-03,M,137 Gambler Lane,Channelview,TX,77530,TimothyGAllen@dummyemail.com,281-555-3539,Allen,Divorced,Plating and coating machine setter,Choices,A+,174.9,"6' 2""",2021-05-08
+7042,Key,Marjorie,C,1949-10-23,F,644 Davis Lane,Denver,CO,80203,MarjorieCKey@dummyemail.com,720-555-2133,Banks,Divorced,Medical appliance technician,Fayva,B+,184.1,"5' 1""",2021-05-08
+7078,Benitez,Anna,J,1971-11-01,F,2278 Candlelight Drive,Houston,TX,77038,AnnaJBenitez@dummyemail.com,281-555-2477,Alexander,Divorced,Pipefitter,Netobill,O+,200.9,"5' 8""",2021-05-08
+7081,Webber,Stephen,D,1974-03-10,M,172 Cliffside Drive,Norwich,NY,13815,StephenDWebber@dummyemail.com,607-555-8603,Bevins,Married,Language pathologist,Superior Interactive,O+,170.1,"5' 6""",2021-05-08
+7091,Juhl,Lenora,J,1962-12-26,F,3215 Diane Street,City Of Commerce,CA,90040,LenoraJJuhl@dummyemail.com,805-555-7236,Anderson,Married,Administrative office specialist,Carl Durfees,O+,209.9,"5' 4""",2021-05-08
+7106,Pritchard,Mark,E,1931-04-08,M,4363 Kembery Drive,Chicago,IL,60605,MarkEPritchard@dummyemail.com,630-555-5448,Barber,Common-Law,Telephone service representative,Maxaprofit,O+,197.8,"5' 6""",2021-05-08
+7107,Godbey,Denice,P,1990-11-03,F,2180 Byrd Lane,Kenner,LA,70062,DenicePGodbey@dummyemail.com,504-555-4535,Blackburn,Single,Broker associate,Ernst Home Centers,O+,163.0,"5' 3""",2021-05-08
+7125,Hall,Cristina,B,1961-01-29,F,2009 Cedar Lane,Cambridge,MA,2141,CristinaBHall@dummyemail.com,617-555-6948,Benedetto,Single,Psychiatric nurse,Castro Convertibles,O-,128.9,"5' 3""",2021-05-08
+7136,Hewitt,Barbara,D,1972-04-22,F,969 Finwood Road,Freehold,NJ,7728,BarbaraDHewitt@dummyemail.com,732-555-2140,Bearden,Divorced,Electrical and electronics engineering technician,L.L. Berger,O+,228.4,"5' 1""",2021-05-08
+7146,Mitchell,Deborah,D,1935-06-15,F,329 Haul Road,Eagan,MN,55121,DeborahDMitchell@dummyemail.com,651-555-6301,Baker,Common-Law,Loss prevention agent,Prospa-Pal,B+,180.0,"5' 1""",2021-05-08
+7181,Mullen,Frank,S,1928-08-12,M,4458 Courtright Street,Galesburg,ND,58035,FrankSMullen@dummyemail.com,701-555-0028,Askew,Single,Truck dispatcher,StopGrey,O+,158.2,"5' 5""",2021-05-08
+7201,Leach,Betty,J,1971-11-02,F,622 Sycamore Road,Prineville,OR,97754,BettyJLeach@dummyemail.com,541-555-1021,Ammons,Common-Law,Financial analyst,Matrix Design,A+,200.2,"5' 5""",2021-05-08
+7204,Clark,Flora,R,1984-02-27,F,4021 Drainer Avenue,Santa Rosa,FL,32459,FloraRClark@dummyemail.com,850-555-2426,Bennett,Married,Employment recruitment and placement specialist,Coffey's Market,O+,164.3,"5' 5""",2021-05-08
+7210,Thomas,Andrew,L,1933-02-05,M,3259 Shady Pines Drive,Bowling Green,KY,42101,AndrewLThomas@dummyemail.com,270-555-3871,Barker,Married,Geriatric aide,Asian Fusion,B+,190.3,"5' 5""",2021-05-08
+7235,Sabo,James,S,1977-06-04,M,1971 Mattson Street,Tigard,OR,97223,JamesSSabo@dummyemail.com,503-555-6237,Best,Common-Law,Home inspector,Morrison's Cafeteria,O+,208.6,"6' 1""",2021-05-08
+7284,Jaime,Alicia,R,1952-01-02,F,1919 Marigold Lane,Coral Gables,FL,33134,AliciaRJaime@dummyemail.com,305-555-3770,Avila,Single,Pest control worker,Dynatronics Accessories,O-,200.0,"5' 2""",2021-05-08
+7296,White,Danny,J,1979-07-13,M,3366 Tavern Place,Wheeling,WV,26003,DannyJWhite@dummyemail.com,304-555-4206,Alex,Married,Reporter,Old America Stores,O+,232.8,"6' 0""",2021-05-08
+7302,Hicks,Angelina,W,1967-11-22,F,4288 Green Acres Road,Henderson,NC,27536,AngelinaWHicks@dummyemail.com,252-555-9560,Abron,Married,Computer applications software engineer,Specific Appraisals,A-,207.5,"5' 3""",2021-05-08
+7311,Petty,Barbara,P,1988-10-22,F,3158 Viking Drive,Frazeysburg,OH,43822,BarbaraPPetty@dummyemail.com,740-555-2026,Barnes,Common-Law,Social science research assistant,Saturday Matinee,B+,116.6,"5' 1""",2021-05-08
+7326,Libby,Jenna,R,1995-06-09,F,4180 Palmer Road,Columbus,OH,43085,JennaRLibby@dummyemail.com,614-555-8079,Anderson,Married,Regional planner,Honest Air Group,A+,180.4,"5' 6""",2021-05-08
+7345,Bailey,Ruth,B,1966-12-01,F,4887 Custer Street,Allegheny,PA,16635,RuthBBailey@dummyemail.com,814-555-2155,Alexander,Married,Freight stock and material mover,Gene Walter's Marketplace,B+,200.4,"5' 1""",2021-05-08
+7359,Twitchell,Hector,L,1987-10-21,M,4240 Randolph Street,Natick,MA,1760,HectorLTwitchell@dummyemail.com,508-555-8284,Bailey,Common-Law,Physical chemist,Burstein-Applebee,A+,229.7,"5' 11""",2021-05-08
+7364,Green,Joyce,J,1945-05-14,F,4863 Winding Way,West Warwick,RI,2893,JoyceJGreen@dummyemail.com,401-555-4499,Billings,Divorced,Diesel service mechanic,Buena Vista Garden Maintenance,O+,208.8,"5' 5""",2021-05-08
+7369,McClary,Michelle,G,1940-08-05,F,4299 Irish Lane,Madison,WI,53703,MichelleGMcClary@dummyemail.com,608-555-2212,Baker,Common-Law,Ticket clerk,Funtown toys,A+,216.3,"4' 11""",2021-05-08
+7392,Bourgeois,Shamika,J,1946-06-19,F,1427 Melody Lane,Richmond,VA,23222,ShamikaJBourgeois@dummyemail.com,804-555-0924,Baker,Common-Law,Addictions nurse,Earthworks Yard Maintenance,O-,170.9,"4' 11""",2021-05-08
+7408,Lombardo,Kathy,S,1965-06-13,F,1223 Bluff Street,Gaithersburg,MD,20877,KathySLombardo@dummyemail.com,301-555-2844,Addison,Divorced,Tree pruner,Jacob Reed and Sons,A+,142.8,"5' 5""",2021-05-08
+7423,Wicklund,Barbara,E,1971-12-31,F,2037 Mercer Street,Green Bay,WI,54301,BarbaraEWicklund@dummyemail.com,715-555-2311,Adams,Common-Law,Conference interpreter,K&G Distributors,A+,213.4,"5' 3""",2021-05-08
+7443,Hill,Rick,M,1964-01-19,M,4509 Hall Street,Las Vegas,NV,89101,RickMHill@dummyemail.com,702-555-7586,Bloom,Divorced,Electronics repairer,Romp,O+,247.9,"5' 8""",2021-05-08
+7449,Howell,Amber,B,1985-10-05,F,4816 Brown Avenue,Knoxville,TN,37902,AmberBHowell@dummyemail.com,865-555-8050,Baker,Divorced,Rigging chaser,Intelacard,O+,197.3,"5' 1""",2021-05-08
+7454,Hollis,Crystal,C,1965-12-18,F,4879 Stroop Hill Road,East Point,GA,30344,CrystalCHollis@dummyemail.com,404-555-8847,Acevedo,Divorced,Finance manager,House of Gas,B+,139.3,"5' 0""",2021-05-08
+7498,Camacho,Jude,J,1986-01-31,F,26 Isaacs Creek Road,New Holland,IL,62671,JudeJCamacho@dummyemail.com,217-555-4952,Bender,Common-Law,Brake repairer,Allied City Stores,O-,180.0,"5' 6""",2021-05-08
+7499,Blackshear,Donna,H,1959-03-02,F,1836 Richland Avenue,Spring,TX,77388,DonnaHBlackshear@dummyemail.com,281-555-7771,Blom,Married,Business support assistant,Olympic Sports,A+,166.8,"5' 6""",2021-05-08
+7507,Holder,Mozelle,M,1978-11-22,F,3792 Trainer Avenue,Chillicothe,IL,61523,MozelleMHolder@dummyemail.com,309-555-1090,Bolduc,Single,Escort interpreter,Garden Guru,B+,138.8,"5' 7""",2021-05-08
+7530,Bains,James,L,1987-03-30,M,3390 Platinum Drive,Pittsburgh,PA,15213,JamesLBains@dummyemail.com,724-555-1358,Benton,Married,Erector,Mervyn's,A+,133.3,"6' 0""",2021-05-08
+7562,McDill,William,C,1964-06-05,M,618 Margaret Street,Houston,TX,77011,WilliamCMcDill@dummyemail.com,713-555-8381,Beatty,Common-Law,Engineer,Cut Rite Lawn Care,O+,201.5,"5' 7""",2021-05-08
+7570,Johnson,James,J,1938-01-06,M,2718 Massachusetts Avenue,Washington,DC,20005,JamesJJohnson@dummyemail.com,202-555-2454,Barnes,Single,Sous chef,Exact Realty,B+,141.2,"6' 0""",2021-05-08
+7572,Sims,Lois,A,1966-12-18,F,1464 Trymore Road,Sleepy Eye,MN,56085,LoisASims@dummyemail.com,507-555-0000,Billingsley,Single,Administrative assistant for human resource,Handy City,O+,200.4,"5' 0""",2021-05-08
+7581,Wilson,Kathryn,B,1977-09-17,F,630 Godfrey Street,Portland,OR,97205,KathrynBWilson@dummyemail.com,503-555-4851,Bentley,Common-Law,Personnel services specialist,Independent Investors,B+,189.2,"5' 3""",2021-05-08
+7583,Allen,Jenny,D,1991-03-02,F,2584 Armory Road,Clinton,NC,28328,JennyDAllen@dummyemail.com,910-555-5884,Azure,Single,Title searcher,Newmark & Lewis,B+,186.8,"5' 5""",2021-05-08
+7584,Green,Lillian,J,1954-08-14,F,755 Terra Street,Anacortes,WA,98221,LillianJGreen@dummyemail.com,360-555-2873,Barton,Divorced,EEO officer,Brooks Fashions,O+,131.6,"5' 7""",2021-05-08
+7596,Wallace,Dorothy,J,1969-06-14,F,4790 Overlook Drive,Bellmore,IN,47830,DorothyJWallace@dummyemail.com,765-555-8868,Bice,Married,Court reporter,CompuAdd,A+,168.3,"5' 3""",2021-05-08
+7598,Ward,Grady,J,1946-03-23,M,4045 John Avenue,Jackson,MI,49201,GradyJWard@dummyemail.com,517-555-0690,Allbritton,Common-Law,Model,Wealthy Ideas,O+,183.0,"5' 4""",2021-05-08
+7622,Turner,Paul,J,1985-11-28,M,1862 Fannie Street,Acton,MA,1720,PaulJTurner@dummyemail.com,978-555-2638,Ayotte,Common-Law,Speech-language pathologist,Mikro Designs,O+,199.8,"5' 8""",2021-05-08
+7625,Bridges,William,J,1953-11-06,M,3261 Holt Street,Delray Beach,FL,33483,WilliamJBridges@dummyemail.com,561-555-9609,Anderson,Common-Law,Farm equipment mechanic,Carter's Foods,O+,170.7,"5' 11""",2021-05-08
+7641,Adams,Rickey,E,1932-06-28,M,1226 Lords Way,Memphis,TN,38110,RickeyEAdams@dummyemail.com,731-555-0683,Bellows,Divorced,Order processor,Rose Records,O+,213.8,"5' 4""",2021-05-08
+7649,Silva,Linda,B,1943-06-09,F,2590 Coleman Avenue,Palm Springs,CA,92262,LindaBSilva@dummyemail.com,760-555-8197,Auger,Divorced,Training and development specialist,Griff's Hamburgers,A+,167.9,"5' 7""",2021-05-08
+7651,Walls,Edward,K,1946-06-24,M,4822 Bruce Street,Stlouis,MO,63101,EdwardKWalls@dummyemail.com,314-555-6952,Babin,Divorced,Bicycle repairer,S&W Cafeteria,O+,230.3,"5' 11""",2021-05-08
+7697,Hilliard,Lisa,D,1959-10-06,F,4643 White Lane,Haddock,GA,31033,LisaDHilliard@dummyemail.com,478-555-1262,Anderson,Single,Employment counselor,Adaptaz,O+,198.0,"5' 1""",2021-05-08
+7700,Brooks,Jennie,C,1963-11-05,F,2938 Weekley Street,San Antonio,TX,78205,JennieCBrooks@dummyemail.com,210-555-4162,Alejo,Common-Law,Health engineer,Planet Profit,B+,150.9,"5' 7""",2021-05-08
+7703,Pou,Ana,J,1994-08-20,F,873 Stanton Hollow Road,Randolph,MA,2368,AnaJPou@dummyemail.com,781-555-0056,Aaron,Married,Motorboat operator,Buena Vista Realty Service,O+,119.9,"5' 6""",2021-05-08
+7715,Jones,James,J,1978-11-21,M,310 Capitol Avenue,Mccordsville,IN,46055,JamesJJones@dummyemail.com,765-555-0959,Barlow,Divorced,Arbitrator,Independent Investors,B+,193.6,"5' 11""",2021-05-08
+7724,Cobble,Gerardo,N,1972-02-17,M,2465 Crummit Lane,Mahaska,NE,66955,GerardoNCobble@dummyemail.com,402-555-4347,Black,Common-Law,Electrical drafter,Copeland Sports,B+,217.8,"5' 9""",2021-05-08
+7725,Hahn,Nicole,G,1990-05-04,F,1748 Douglas Dairy Road,Abingdon,VA,24210,NicoleGHahn@dummyemail.com,276-555-8629,Barker,Divorced,Marine,Planetbiz,O-,195.1,"5' 6""",2021-05-08
+7736,Kramer,Henry,E,1989-06-23,M,3975 Sycamore Circle,Dallas,TX,75202,HenryEKramer@dummyemail.com,682-555-4716,Barnett,Divorced,Film processing technician,Strong Life,O-,139.3,"5' 9""",2021-05-08
+7753,Gray,Ruby,C,1980-09-06,F,510 Cedar Street,Texarkana,AR,75501,RubyCGray@dummyemail.com,870-555-0499,Andersen,Common-Law,Industrial accountant,Lazysize,O+,144.1,"5' 5""",2021-05-08
+7775,Snell,Dovie,R,1941-04-23,F,2690 Jerome Avenue,Edinburg,TX,78539,DovieRSnell@dummyemail.com,956-555-0465,Bishop,Single,Art director,Royal Gas,O+,143.4,"5' 3""",2021-05-08
+7797,Harris,Leo,M,1991-05-14,M,74 Scenic Way,Quincy,IL,62301,LeoMHarris@dummyemail.com,217-555-6579,Baxter,Common-Law,Mental health assistant,Levitz Furniture,A+,193.4,"5' 9""",2021-05-08
+7805,Thomas,Deloris,D,1949-07-20,F,3235 Hedge Street,Piscataway,NJ,8854,DelorisDThomas@dummyemail.com,908-555-9303,Baker,Single,Brickmason,Choices,B+,213.8,"5' 5""",2021-05-08
+7806,Cannella,Kimberly,H,1985-07-18,F,2395 Little Acres Lane,Fergus Falls,MN,56537,KimberlyHCannella@dummyemail.com,218-555-9044,Blakes,Single,Airport service agent,Vitagee,O+,175.8,"5' 9""",2021-05-08
+7807,Gilstrap,Melissa,O,1987-02-04,F,3352 Bottom Lane,Tonawanda,NY,14150,MelissaOGilstrap@dummyemail.com,716-555-8964,Beckman,Married,Sailor,Opti-Tek,A-,211.6,"5' 2""",2021-05-08
+7848,Douglas,Jasmine,R,1949-12-24,F,3413 Grey Fox Farm Road,Alvin,TX,77511,JasmineRDouglas@dummyemail.com,281-555-4339,Anderson,Divorced,Dairy scientist,Soul Sounds Unlimited,B+,132.0,"5' 4""",2021-05-08
+7857,McKenzie,Amber,F,1972-03-13,F,4526 Poplar Street,Chicago,IL,60606,AmberFMcKenzie@dummyemail.com,708-555-1946,Battle,Married,Longshoremen,Funtown toys,O+,201.5,"5' 7""",2021-05-08
+7863,Sizemore,James,L,1961-07-18,M,3257 Brown Street,San Francisco,CA,94143,JamesLSizemore@dummyemail.com,925-555-6853,Ball,Married,Archaeologist,Romp,B+,215.8,"6' 2""",2021-05-08
+7868,Hutton,Mitchell,L,1971-09-20,M,4411 Vineyard Drive,Cleveland,OH,44115,MitchellLHutton@dummyemail.com,440-555-7719,Blackwell,Divorced,Fast-food cook,LoRay,AB+,182.2,"6' 2""",2021-05-08
+7869,Alexander,David,R,1965-09-13,M,4620 Pinnickinick Street,Eatonville,WA,98328,DavidRAlexander@dummyemail.com,360-555-2233,Blaylock,Common-Law,Mail handler,Luskin's,A+,227.3,"6' 2""",2021-05-08
+7885,McAnally,Maria,F,1943-01-28,F,3335 Cooks Mine Road,Canjilon,NM,87515,MariaFMcAnally@dummyemail.com,505-555-1728,Besaw,Married,Job service consultant,Ernst Home Centers,O+,183.7,"5' 4""",2021-05-08
+7897,Escobar,Winnifred,M,1988-08-27,F,4726 Oak Drive,Keene Valley,NY,12943,WinnifredMEscobar@dummyemail.com,518-555-5501,Bohnsack,Common-Law,Periodontist,K's Merchandise,O+,139.7,"5' 2""",2021-05-08
+7909,Boyle,Maureen,R,1985-08-23,F,1968 Railroad Street,Marquette,MI,49855,MaureenRBoyle@dummyemail.com,906-555-6671,Batts,Divorced,Casino cage worker,Chase Pitkin,A+,189.9,"5' 3""",2021-05-08
+7919,Johnson,John,T,1964-01-13,M,2227 Allison Avenue,Fredericksburg,VA,22401,JohnTJohnson@dummyemail.com,757-555-2173,Bodie,Common-Law,Employee relations manager,Atlas Realty,B+,217.8,"5' 9""",2021-05-08
+7945,Campbell,Ronald,R,1960-09-24,M,3082 Blackwell Street,Fairbanks,AK,99701,RonaldRCampbell@dummyemail.com,907-555-9468,Bennett,Single,Termite control technician,Zany Brainy,A+,217.1,"5' 6""",2021-05-08
+7949,Sexton,Juanita,D,1937-11-17,F,3111 Smith Road,Atlanta,GA,30303,JuanitaDSexton@dummyemail.com,770-555-8035,Bever,Common-Law,Sampler,Enrich Garden Services,A+,145.4,"5' 2""",2021-05-08
+7951,Bailey,Stan,R,1950-02-02,M,1039 Woodstock Drive,Pasadena,CA,91101,StanRBailey@dummyemail.com,626-555-3374,Barrios,Divorced,Distribution clerk,Almacs,A+,201.3,"5' 7""",2021-05-08
+7961,Mecham,Juana,R,1937-04-07,F,2192 Rockwell Lane,Elizabeth City,NC,27909,JuanaRMecham@dummyemail.com,252-555-9392,Blevins,Common-Law,Mechanical door repairer,Jeans Unlimited,B+,175.3,"5' 3""",2021-05-08
+7963,Edwards,Jamila,P,1986-09-15,F,4602 Shobe Lane,Fort Collins,CO,80524,JamilaPEdwards@dummyemail.com,970-555-1233,Avalos,Divorced,Highway maintenance worker,Buena Vista Garden Maintenance,B+,160.2,"5' 7""",2021-05-08
+7967,Jackson,Lina,M,1995-03-16,F,109 Braxton Street,Prophetstown,IL,61277,LinaMJackson@dummyemail.com,815-555-0125,Andersen,Common-Law,Division secretary,Ernst Home Centers,A+,136.6,"5' 6""",2021-05-08
+7968,Skaggs,Carol,H,1929-10-08,F,4765 Ocala Street,Orlando,FL,32801,CarolHSkaggs@dummyemail.com,407-555-3693,Blackburn,Common-Law,Asbestos abatement worker,Carter's Foods,A+,181.1,"5' 0""",2021-05-08
+7973,Ferrill,James,J,1975-01-26,M,4234 Tennessee Avenue,Southfield,MI,48034,JamesJFerrill@dummyemail.com,248-555-5871,Adkins,Common-Law,Computer clerk,The White Swan,B+,181.5,"5' 11""",2021-05-08
+7976,Hallowell,Barbara,W,1933-09-30,F,310 Radio Park Drive,Columbus,GA,31901,BarbaraWHallowell@dummyemail.com,706-555-9469,Bennett,Married,Biometrician,Standard Sales,B-,218.2,"5' 3""",2021-05-08
+7980,Brown,Traci,E,1940-04-03,F,121 Olen Thomas Drive,Jacksboro,TX,76056,TraciEBrown@dummyemail.com,940-555-3363,Amerson,Single,Plate finisher,Blockbuster Music,O+,174.0,"5' 7""",2021-05-08
+7991,McCollum,Denise,R,1947-06-15,F,4440 Arbutus Drive,Miami Springs,FL,33166,DeniseRMcCollum@dummyemail.com,305-555-7922,Anderson,Single,Blood bank technologist,Rex Audio Video Appliance,O+,194.3,"5' 0""",2021-05-08
+7993,House,Robert,J,1963-09-18,M,2927 White Lane,Butler,GA,31009,RobertJHouse@dummyemail.com,478-555-2574,Blomberg,Single,Personal chef,Gold Leaf Garden Management,A+,183.5,"5' 10""",2021-05-08
+7994,Patterson,Michele,M,1937-01-03,F,3144 Elk Rd Little,Tucson,AZ,85705,MicheleMPatterson@dummyemail.com,520-555-0566,Ballew,Married,Shaper,Seamans Furniture,O+,141.7,"4' 11""",2021-05-08
+8010,Scott,Ashley,R,1975-11-14,F,4005 University Street,Seattle,WA,98106,AshleyRScott@dummyemail.com,206-555-7880,Bernard,Single,Mechanical engineering technician,American Wholesale Club,A+,138.8,"5' 4""",2021-05-09
+8032,Beaton,Angela,J,1993-04-02,F,1578 Sycamore Circle,Bismarck,ND,58501,AngelaJBeaton@dummyemail.com,701-555-0202,Blanco,Single,Manufactured building and mobile home installer,Infinite Wealth,O+,113.1,"5' 6""",2021-05-09
+8039,Metcalf,Steve,A,1987-10-24,M,4257 Gerald L. Bates Drive,Cambridge,MA,2141,SteveAMetcalf@dummyemail.com,617-555-0544,Berry,Single,Cellular technician,Brilliant Home Designs,O+,191.6,"6' 2""",2021-05-09
+8067,Sargent,Renee,W,1942-08-10,F,4970 Stuart Street,Pittsburgh,PA,15205,ReneeWSargent@dummyemail.com,724-555-2464,Asbury,Common-Law,Dietetic technician,A+ Investments,O+,128.5,"5' 6""",2021-05-09
+8080,Weldy,Naomi,J,1956-03-22,F,4024 Dye Street,Tempe,AZ,85283,NaomiJWeldy@dummyemail.com,480-555-6902,Bohannon,Common-Law,Oral surgeon,Sunflower Market,O+,206.4,"5' 1""",2021-05-09
+8089,McClintock,Benito,J,1934-06-16,M,3620 University Street,Seattle,WA,98155,BenitoJMcClintock@dummyemail.com,206-555-8371,Adams,Divorced,Hotel detective,Rainbow Bay Crafts,A+,150.5,"6' 0""",2021-05-09
+8091,White,Tracy,R,1981-03-03,M,2626 Pinnickinnick Street,Woodbridge,NJ,7095,TracyRWhite@dummyemail.com,732-555-3675,Anderson,Single,Commercial diver,Olson's Market,A+,244.6,"6' 1""",2021-05-09
+8109,Davenport,Christopher,T,1947-10-28,M,3656 Walnut Hill Drive,Cincinnati,OH,45214,ChristopherTDavenport@dummyemail.com,513-555-1647,Aviles,Common-Law,Jeweler,Aaronson Furniture,B+,166.8,"6' 0""",2021-05-09
+8123,Washington,Jeremy,E,1931-12-11,M,4650 Simons Hollow Road,Moscow,PA,18444,JeremyEWashington@dummyemail.com,570-555-8552,Aaron,Divorced,Handymen,Value Giant,A+,136.8,"5' 9""",2021-05-09
+8147,Carpenter,Barbara,J,1991-10-17,F,2849 Glendale Avenue,Woodland Hills,CA,91303,BarbaraJCarpenter@dummyemail.com,818-555-8515,Adkins,Common-Law,Shoe machine tender,Tam's Stationers,O+,139.7,"5' 1""",2021-05-09
+8150,Smyth,Pamela,C,1929-12-31,F,1469 Sussex Court,Killeen,TX,76541,PamelaCSmyth@dummyemail.com,254-555-0286,Blank,Divorced,Market and survey researcher,Tradewell,O+,110.4,"5' 7""",2021-05-09
+8164,Vaughn,Juan,S,1956-07-25,M,1683 Patterson Street,Houston,TX,77002,JuanSVaughn@dummyemail.com,713-555-8180,Andersen,Divorced,Ophthalmic nurse,Metro,O+,153.3,"5' 10""",2021-05-09
+8170,Doss,Sandra,B,1957-04-01,F,630 Freshour Circle,Sonora,CA,95370,SandraBDoss@dummyemail.com,209-555-4748,Albert,Single,Industrial production manager,Susie's Casuals,O+,152.2,"5' 3""",2021-05-09
+8173,Darlington,Brittany,W,1939-07-22,F,2539 Preston Street,Phoenix,AZ,85003,BrittanyWDarlington@dummyemail.com,623-555-0925,Bagwell,Married,Recreation worker,Sunflower Market,O-,197.8,"5' 0""",2021-05-09
+8186,Ceaser,Mary,W,1985-06-05,F,2482 Tully Street,Southfield,MI,48076,MaryWCeaser@dummyemail.com,313-555-8855,Alexander,Married,Asbestos abatement worker,Builders Emporium,O+,168.7,"5' 1""",2021-05-09
+8190,Briganti,William,K,1947-03-19,M,4845 Edgewood Road,Memphis,TN,38110,WilliamKBriganti@dummyemail.com,901-555-2854,Atkinson,Single,Legislator,Nobil,A+,198.9,"5' 6""",2021-05-09
+8200,Boaz,James,K,1966-11-29,M,2528 Poe Lane,Overland Park,KS,66210,JamesKBoaz@dummyemail.com,913-555-5728,Alvarez,Married,Organic chemist,Forest City,O+,170.5,"6' 0""",2021-05-09
+8206,Flatt,Joseph,B,1976-10-10,M,4684 Vernon Street,La Mesa,CA,91941,JosephBFlatt@dummyemail.com,760-555-5540,Angeles,Married,Ceiling tile installer,Benesome,O+,281.5,"5' 9""",2021-05-09
+8208,Bishop,Jerry,T,1929-11-27,M,1269 Stark Hollow Road,Steamboat Springs,CO,80487,JerryTBishop@dummyemail.com,970-555-8154,Azure,Divorced,Bodyguard,Woolf Brothers,B+,219.1,"5' 5""",2021-05-09
+8255,Bethea,James,T,1971-02-26,M,3110 Sherwood Circle,Lafayette,LA,70501,JamesTBethea@dummyemail.com,337-555-5078,Annis,Divorced,Automotive air-conditioning repairer,Pacific Stereo,A+,206.1,"6' 0""",2021-05-09
+8303,Davis,Patricia,M,1985-11-25,F,1487 Marigold Lane,Opa Locka,FL,33056,PatriciaMDavis@dummyemail.com,305-555-7970,Barron,Common-Law,Podiatric medical assistant,Ardan's,O+,129.1,"5' 8""",2021-05-09
+8309,Leon,Jeffery,D,1983-01-04,M,1761 Ripple Street,Saginaw,MI,48607,JefferyDLeon@dummyemail.com,989-555-9162,Barnhart,Common-Law,Apartment leasing agent,Sherman's,A-,184.8,"5' 10""",2021-05-09
+8310,Leon,Damon,K,1950-09-26,M,300 Crestview Terrace,Stonewall,TX,78671,DamonKLeon@dummyemail.com,830-555-8478,Blocher,Married,Periodontist,Sav-A-Center,O+,141.5,"6' 1""",2021-05-09
+8334,Carlton,Francis,D,1947-01-21,F,737 Red Dog Road,Charlotte,NC,28202,FrancisDCarlton@dummyemail.com,704-555-1743,Blessing,Single,Oceanographer,Exact Realty,O+,195.8,"5' 2""",2021-05-09
+8345,Rogers,Merle,J,1950-05-31,M,3965 Golden Street,Opa Locka,FL,33056,MerleJRogers@dummyemail.com,305-555-9202,Asbury,Single,Agricultural product grader,Integra Wealth Planners,O+,535.6,"5' 5""",2021-05-09
+8352,Greenstein,Walter,D,1936-01-29,M,1338 Willow Oaks Lane,Lake Charles,LA,70601,WalterDGreenstein@dummyemail.com,337-555-7788,Apodaca,Divorced,Anesthesiologist,MVP Sports,A+,162.4,"5' 8""",2021-05-09
+8357,Lacasse,Robert,R,1932-01-19,M,3529 Karen Lane,Louisville,KY,40219,RobertRLacasse@dummyemail.com,502-555-5270,Allen,Single,Human resources consultant,Sambo's,B+,178.0,"5' 8""",2021-05-09
+8358,Loveday,Maurice,E,1989-09-09,M,3238 Brentwood Drive,Austin,TX,78758,MauriceELoveday@dummyemail.com,512-555-5360,Bigler,Married,Broadcast field supervisor,Big Star Markets,B+,154.2,"6' 2""",2021-05-09
+8366,Ward,Leonor,W,1975-08-12,F,4602 Woodstock Drive,Riverside,CA,92507,LeonorWWard@dummyemail.com,626-555-9120,Allen,Single,Scientific photographer,Enviro Architectural Designs,O+,199.8,"5' 1""",2021-05-09
+8369,Gilmartin,Maria,L,1943-05-17,F,1463 Goldleaf Lane,Jersey City,NJ,7304,MariaLGilmartin@dummyemail.com,201-555-8094,Amaral,Common-Law,Workforce development officer,Gov Mart,A+,147.8,"5' 5""",2021-05-09
+8375,Moore,Gretchen,T,1948-05-27,F,4186 John Daniel Drive,Boss,MO,65440,GretchenTMoore@dummyemail.com,573-555-0885,Barron,Married,Welding machine operator,Isaly's,O+,169.0,"5' 7""",2021-05-09
+8390,Wright,Jeffrey,A,1944-07-02,M,674 Owagner Lane,Tukwila,WA,98168,JeffreyAWright@dummyemail.com,206-555-8570,Blood,Married,Chemical plant and system operator,Gallenkamp,A+,219.8,"5' 9""",2021-05-09
+8391,Borges,John,S,1970-09-13,M,2127 Friendship Lane,Salinas,CA,93901,JohnSBorges@dummyemail.com,408-555-6356,Alcaraz,Single,Textile knitting and weaving machine operator,Ideal Garden Management,AB+,544.6,"5' 8""",2021-05-09
+8449,Speciale,Dora,P,1954-01-22,F,4304 Hartland Avenue,Berlin,WI,54923,DoraPSpeciale@dummyemail.com,920-555-6147,Arnold,Single,Wastewater treatment plant and system operator,The Fox and Hound,A-,134.4,"5' 2""",2021-05-09
+8506,English,Nestor,M,1994-02-19,M,275 Williams Lane,Wichita,KS,67202,NestorMEnglish@dummyemail.com,316-555-5164,Austin,Single,Digital image processor,Madcats Music & Books,A+,138.6,"5' 9""",2021-05-09
+8540,Baldwin,Kum,A,1944-02-25,F,1694 Heather Sees Way,Okmulgee,OK,74447,KumABaldwin@dummyemail.com,918-555-5890,Beer,Single,Political analyst,Romp,O+,134.6,"5' 5""",2021-05-09
+8552,Irvin,Patty,R,1934-11-04,F,526 McDonald Avenue,Orlando,FL,32809,PattyRIrvin@dummyemail.com,407-555-8393,Alvarado,Single,Graphic artist,Heilig-Meyers,A+,122.5,"5' 1""",2021-05-09
+8576,Patterson,Ashley,R,1980-04-04,F,431 Post Avenue,Nisswa,MN,56468,AshleyRPatterson@dummyemail.com,218-555-8480,Behrens,Divorced,Asset property manager,Envirotecture Design,O+,215.8,"5' 8""",2021-05-09
+8585,Kain,Daniel,Z,1929-02-28,M,4743 Cambridge Place,Laurel,MD,20707,DanielZKain@dummyemail.com,410-555-8579,Badillo,Divorced,Gaming machine servicer,Ellman's Catalog Showrooms,A+,157.3,"5' 4""",2021-05-09
+8588,Sluss,Louis,A,1933-04-29,M,192 Pinnickinick Street,Enumclaw,WA,98022,LouisASluss@dummyemail.com,360-555-5199,Bernard,Single,Administrative support specialist,Suncoast Video,B+,199.8,"5' 5""",2021-05-09
+8598,Schofield,Neil,G,1993-11-13,M,2556 Cardinal Lane,Jacksonville,IL,62650,NeilGSchofield@dummyemail.com,217-555-9021,Anderson,Common-Law,Safety inspector,Carl Durfees,O+,135.1,"6' 1""",2021-05-09
+8623,Reagan,Kurtis,S,1986-07-11,M,2732 Mattson Street,St Helens,OR,97951,KurtisSReagan@dummyemail.com,503-555-9509,Adams,Married,Railroad conductor,Handyman,O+,202.2,"6' 2""",2021-05-09
+8636,Coates,Rita,K,1991-12-17,F,1600 Willison Street,Minneapolis,MN,55402,RitaKCoates@dummyemail.com,763-555-0001,Bailey,Common-Law,Museum technician,ManCharm,A+,147.2,"5' 3""",2021-05-09
+8644,Gray,Joan,T,1942-07-14,M,2089 Angie Drive,Burbank,CA,91505,JoanTGray@dummyemail.com,714-555-5269,Agnew,Married,Farm equipment mechanic,Ellman's Catalog Showrooms,O+,167.4,"5' 11""",2021-05-09
+8649,Carpenter,William,S,1994-02-18,M,298 Mercer Street,Dorchester,WI,54425,WilliamSCarpenter@dummyemail.com,715-555-4271,Bell,Divorced,Computer security specialist,BASCO,O+,127.8,"5' 7""",2021-05-09
+8657,Heckman,Maureen,T,1995-03-03,F,1126 Colony Street,Meriden,CT,6450,MaureenTHeckman@dummyemail.com,203-555-7997,Abston,Single,Aerospace engineering and operations technician,Bettendorf's,B+,102.7,"5' 7""",2021-05-09
+8670,Oliver,Gabriel,H,1953-05-14,M,543 Grand Avenue,Orlando,FL,32805,GabrielHOliver@dummyemail.com,407-555-7043,Bolton,Married,Computer-controlled machine tool operator,TheBottomHalf,O+,235.6,"5' 10""",2021-05-09
+8698,Corum,Wendy,P,1937-04-13,F,3302 Timberbrook Lane,Denver,CO,80203,WendyPCorum@dummyemail.com,970-555-4884,Back,Married,Tire builder,Veramons,O+,202.4,"5' 2""",2021-05-09
+8712,Strickland,Richard,S,1964-01-25,M,4838 Black Stallion Road,Burlington,KY,41005,RichardSStrickland@dummyemail.com,859-555-2820,Beatty,Divorced,Historian,Crown Auto Parts,A+,340.9,"5' 11""",2021-05-09
+8734,Rosenberg,Shirley,M,1945-02-02,F,2912 Cunningham Court,Detroit,MI,48226,ShirleyMRosenberg@dummyemail.com,248-555-0961,Bankston,Married,Hunter,JasmineSola,O+,144.3,"5' 7""",2021-05-09
+8735,Hoban,Duane,C,1950-08-17,M,199 Wilkinson Street,Nashville,TN,37214,DuaneCHoban@dummyemail.com,615-555-8647,Amin,Married,Placement counselor,Desert Garden Help,B+,230.1,"5' 7""",2021-05-09
+8738,Gomez,Michael,S,1950-07-28,M,683 Hinkle Deegan Lake Road,Lexington,KY,40507,MichaelSGomez@dummyemail.com,606-555-3310,Battle,Common-Law,Dancer,Nedick's,B-,161.9,"5' 10""",2021-05-09
+8747,Beach,Geraldine,J,1955-03-08,F,3397 Polk Street,Tucson,AZ,85710,GeraldineJBeach@dummyemail.com,520-555-5363,Beard,Married,Actuarie,Adaptabiz,O+,218.7,"5' 7""",2021-05-09
+8755,Snow,Mary,J,1988-06-14,F,4877 Badger Pond Lane,Pittsburgh,PA,15219,MaryJSnow@dummyemail.com,724-555-2484,Bohannon,Divorced,University dean,Home Centers,B+,196.5,"5' 1""",2021-05-09
+8780,Pennell,Christopher,I,1993-04-15,M,491 Counts Lane,Cincinnati,KY,45202,ChristopherIPennell@dummyemail.com,859-555-6786,Anaya,Single,Biological scientist,Solution Bridge,O+,218.9,"5' 9""",2021-05-09
+8800,Kennedy,Jerry,J,1963-08-16,M,3353 Buena Vista Avenue,Roseburg,OR,97470,JerryJKennedy@dummyemail.com,541-555-2288,Blanton,Single,Encoder,Multi-Systems Merchant Services,O+,197.1,"6' 1""",2021-05-09
+8818,Tengan,Kenneth,R,1945-06-09,M,2808 Thunder Road,San Jose,CA,95134,KennethRTengan@dummyemail.com,650-555-0851,Atkins,Single,Gemologist,HomeBase,A+,206.6,"5' 11""",2021-05-09
+8821,Luna,Edith,A,1942-05-06,F,3731 Rocky Road,Philadelphia,PA,19154,EdithALuna@dummyemail.com,215-555-0694,Archibald,Divorced,Rolling machine tender,Mikro Designs,A+,182.4,"5' 3""",2021-05-09
+8887,Charest,Dale,M,1942-05-29,M,867 Sycamore Street,San Jose,CA,95113,DaleMCharest@dummyemail.com,408-555-4232,Bojorquez,Single,Employment coordinator,Clemens Markets,O+,147.0,"6' 0""",2021-05-09
+8890,Blake,Williams,P,1975-06-30,M,1516 Hickory Heights Drive,Baltimore,MD,21202,WilliamsPBlake@dummyemail.com,443-555-5955,Blaser,Married,Electronic typesetting machine operator,Netcom Business Services,O+,223.3,"5' 9""",2021-05-09
+8903,Bissett,Roy,J,1958-04-18,M,2398 Simons Hollow Road,Glen Lyon,PA,18617,RoyJBissett@dummyemail.com,570-555-5947,Allison,Married,Electronic data processor,Spaceage Stereo,O+,236.9,"5' 6""",2021-05-09
+8907,Cook,Stephen,S,1972-08-14,M,1075 School House Road,Hattiesburg,MS,39402,StephenSCook@dummyemail.com,601-555-8310,Bess,Married,Compensation manager,AM/PM Camp,O+,211.4,"5' 11""",2021-05-09
+8913,McAtee,Keith,K,1975-12-14,M,99 Half and Half Drive,Fresno,CA,93706,KeithKMcAtee@dummyemail.com,559-555-1524,Augustine,Single,Network systems and data communications analyst,Ideal Garden Maintenance,A+,215.6,"6' 2""",2021-05-09
+8921,Nicholson,Sandy,R,1995-04-03,F,783 Union Street,Seattle,WA,98101,SandyRNicholson@dummyemail.com,206-555-5996,Baird,Single,Computer forensic investigator,E.J. Korvette,B+,143.0,"5' 9""",2021-05-09
+8927,Klein,Lawrence,B,1993-06-28,M,370 Harron Drive,Baltimore,MD,21201,LawrenceBKlein@dummyemail.com,443-555-2148,Banks,Single,Civil service clerk,Express Merchant Service,O-,180.8,"5' 10""",2021-05-09
+8951,Finch,Steven,P,1983-05-26,M,1594 Brooklyn Street,Lakeview,OR,97630,StevenPFinch@dummyemail.com,541-555-7939,Bainter,Single,Clerical assistant,Handy Dan,O+,180.8,"5' 11""",2021-05-09
+8954,Simmons,Penny,R,1995-02-04,F,43 Jessie Street,Quaker City,OH,43773,PennyRSimmons@dummyemail.com,740-555-3990,Blanchard,Single,Certified athletic trainer,Alladin's Lamp,O+,99.0,"5' 1""",2021-05-09
+8970,Higgins,Joseph,L,1990-11-04,M,484 Trainer Avenue,Chillicothe,IL,61523,JosephLHiggins@dummyemail.com,309-555-6574,Blum,Common-Law,Policeman,Capitalcorp,B+,150.3,"5' 10""",2021-05-09
+8974,Roan,Mark,K,1961-02-10,M,3341 Dogwood Lane,Saint David,AZ,85630,MarkKRoan@dummyemail.com,520-555-3826,Alexander,Single,Production assistant,Childrens Bargain Town,O+,165.7,"6' 0""",2021-05-09
+8989,Miller,Lynn,C,1984-11-01,M,1323 Norman Street,Los Angeles,CA,90063,LynnCMiller@dummyemail.com,323-555-8035,Blankenship,Common-Law,Commissioner,Terra,B+,155.8,"5' 10""",2021-05-09
+9007,Stewart,Christopher,M,1955-10-22,M,4603 Cambridge Drive,Phoenix,AZ,85033,ChristopherMStewart@dummyemail.com,623-555-1931,Ashby,Married,Medical laboratory technician,I. Magnin,A+,227.3,"5' 8""",2021-05-10
+9008,Lopez,Fabian,L,1986-03-05,M,3759 Daylene Drive,Detroit,MI,48226,FabianLLopez@dummyemail.com,734-555-4495,Bass,Single,Manufacturers,Strategy Planner,A+,149.8,"6' 1""",2021-05-10
+9027,Guinn,James,D,1933-12-02,M,1370 Coulter Lane,Richmond,VA,23224,JamesDGuinn@dummyemail.com,804-555-4738,Blevins,Married,Machinery maintenance mechanic,Weatherill's,O+,175.1,"6' 0""",2021-05-10
+9029,Wittrock,Robert,T,1959-04-22,M,3936 Barnes Street,Altamonte Springs,FL,32701,RobertTWittrock@dummyemail.com,407-555-2792,Adkins,Divorced,Mixing and blending machine operator,L' Fish,AB+,178.0,"6' 0""",2021-05-10
+9034,Rich,Gary,P,1950-05-13,M,3187 Pearcy Avenue,Menomonee Falls,WI,53051,GaryPRich@dummyemail.com,262-555-4345,Bellamy,Married,Gastroenterology nurse,Forum Cafeterias,O+,191.8,"6' 1""",2021-05-10
+9035,Rowe,Herman,V,1976-07-29,M,945 Mulberry Lane,Boynton Beach,FL,33435,HermanVRowe@dummyemail.com,561-555-9324,Barksdale,Divorced,Mixing and blending machine operator,Circuit Design,A+,173.8,"5' 7""",2021-05-10
+9050,Thompson,Jonathan,D,1964-02-24,M,3793 Jenna Lane,Cincinnati,OH,45217,JonathanDThompson@dummyemail.com,513-555-9187,Amore,Married,Encoder,Sportswest,A+,214.5,"6' 1""",2021-05-10
+9055,Kinard,Elizabeth,W,1929-03-12,F,2418 Walkers Ridge Way,Buffalo Grove,IL,60089,ElizabethWKinard@dummyemail.com,630-555-1586,Adkins,Common-Law,Food technologist,WWW Realty,A+,141.2,"5' 3""",2021-05-10
+9059,Luther,Forrest,S,1977-05-04,M,4333 Veltri Drive,Homer,AK,99603,ForrestSLuther@dummyemail.com,907-555-3947,Austin,Divorced,Water treatment plant and system operator,Price Club,B-,164.1,"5' 7""",2021-05-10
+9067,Oleary,Daniel,C,1929-03-31,M,318 Clement Street,Atlanta,GA,30303,DanielCOleary@dummyemail.com,404-555-6603,Albright,Common-Law,Airline steward,Big Apple,B+,144.8,"5' 8""",2021-05-10
+9076,Soares,Jennifer,T,1992-06-01,F,4176 Prospect Valley Road,Anaheim,CA,92801,JenniferTSoares@dummyemail.com,310-555-6808,Armstrong,Single,Plumber,Thalhimers,O+,204.6,"5' 4""",2021-05-10
+9115,Newton,Gilbert,W,1934-01-08,M,2768 Clifford Street,San Jose,CA,95131,GilbertWNewton@dummyemail.com,510-555-8490,Akins,Divorced,Cardiopulmonary technologist,Pantry Food Stores,A+,154.9,"5' 5""",2021-05-10
+9133,Smith,Nubia,R,1992-01-16,F,3307 Karen Lane,Louisville,KY,40207,NubiaRSmith@dummyemail.com,502-555-7950,Bean,Married,Public adjuster,Simply Appraisals,O+,149.2,"5' 8""",2021-05-10
+9136,French,Rafael,D,1933-08-10,M,4298 Bird Spring Lane,Sugar Land,TX,77487,RafaelDFrench@dummyemail.com,281-555-6281,Anderson,Divorced,Remote sensing specialist,Foreman & Clark,B+,137.7,"5' 9""",2021-05-10
+9145,Mohr,Charles,C,1978-05-16,M,4815 Hillside Drive,Lake Charles,LA,70629,CharlesCMohr@dummyemail.com,337-555-1605,Barney,Common-Law,Nuclear power reactor operator,Pro Yard Services,O+,224.2,"5' 10""",2021-05-10
+9162,Vasquez,Julio,H,1970-07-11,M,1403 Broadcast Drive,Charlotte,NC,28202,JulioHVasquez@dummyemail.com,704-555-7519,Andrews,Divorced,Video control engineer,Franklin Music,B+,240.9,"5' 9""",2021-05-10
+9168,Blain,Charles,S,1932-05-04,M,2549 Poplar Chase Lane,Sandpoint,ID,83864,CharlesSBlain@dummyemail.com,208-555-6149,Abbott,Single,Cellular technician,DGS HomeSource,A+,212.5,"5' 8""",2021-05-10
+9197,Pringle,Jean,N,1942-05-03,F,1620 Richland Avenue,Houston,TX,77063,JeanNPringle@dummyemail.com,281-555-7373,Beerman,Divorced,Glazier,Zany Brainy,A-,196.7,"5' 1""",2021-05-10
+9201,Fields,Frederick,G,1938-10-10,M,428 Robinson Court,Mount Pleasant,MI,48858,FrederickGFields@dummyemail.com,989-555-8597,Ballard,Common-Law,Pesticide vegetation,National Hardgoods Distributors,A+,193.6,"5' 5""",2021-05-10
+9237,Hall,Laura,J,1968-06-30,F,2268 Harron Drive,Baltimore,MD,21201,LauraJHall@dummyemail.com,443-555-9313,Barnett,Common-Law,Veterinary technologist,Nelson Brothers,O+,171.4,"5' 6""",2021-05-10
+9241,Edwards,Christine,J,1984-01-16,F,3206 Green Avenue,Oakland,CA,94612,ChristineJEdwards@dummyemail.com,510-555-2155,Berwick,Common-Law,Agricultural product grader,Sportswest,O+,214.1,"5' 6""",2021-05-10
+9255,Bowyer,Betty,T,1956-08-09,F,2864 Carriage Lane,Sugar Notch,PA,18706,BettyTBowyer@dummyemail.com,570-555-3847,Bailey,Common-Law,Immigration and Naturalization Service (INS) agent,Wealthy Ideas,B+,150.7,"5' 8""",2021-05-10
+9277,Davis,John,B,1989-11-16,M,2981 Browning Lane,Guilford,NY,13780,JohnBDavis@dummyemail.com,607-555-4720,Boling,Single,Disc jockey,Rich and Happy,B+,220.9,"5' 10""",2021-05-10
+9307,Devries,Vernell,R,1954-09-10,F,3111 Primrose Lane,Reedsburg,WI,53959,VernellRDevries@dummyemail.com,608-555-6196,Adamson,Single,Administrative support services director,Pearl Architectural Design,O+,167.6,"5' 8""",2021-05-10
+9314,Feaster,Billy,D,1970-02-15,M,2031 Hillcrest Drive,Seattle,WA,98161,BillyDFeaster@dummyemail.com,253-555-7619,Banks,Common-Law,Corporate accountant,Perisolution,O+,156.2,"5' 10""",2021-05-10
+9319,Tam,Gwenn,W,1965-04-26,F,620 Alpaca Way,Yorba Linda,CA,92686,GwennWTam@dummyemail.com,714-555-0142,Baker,Married,Auditing clerk,Cut Rite,O+,218.2,"5' 5""",2021-05-10
+9324,Boyd,Nada,C,1962-10-24,F,4703 Hide A Way Road,San Jose,CA,95118,NadaCBoyd@dummyemail.com,408-555-9885,Artis,Divorced,Ophthalmic medical assistant,Soft Warehouse,O+,207.2,"5' 4""",2021-05-10
+9333,Williams,Otto,O,1977-02-03,M,149 Stonecoal Road,Mansfield,OH,44907,OttoOWilliams@dummyemail.com,419-555-0371,Alexander,Common-Law,Line erector,Sportswest,B+,160.2,"5' 6""",2021-05-10
+9344,Ashe,Gary,W,1953-04-07,M,1750 Elk Creek Road,Powder Springs,GA,30373,GaryWAshe@dummyemail.com,770-555-0646,Barnes,Single,Bindery machine operator,Second Time Around,A+,230.6,"5' 7""",2021-05-10
+9345,Richardson,Gail,C,1975-09-09,F,2086 Haven Lane,Hillsdale,MI,49242,GailCRichardson@dummyemail.com,517-555-7171,Atkins,Married,Electronic home entertainment equipment repairer,Gas Depot,B+,130.0,"5' 5""",2021-05-10
+9380,Martin,James,M,1971-06-19,M,2099 Cinnamon Lane,San Antonio,TX,78212,JamesMMartin@dummyemail.com,210-555-7475,Bell,Divorced,Farmhand,Cuppy's Coffee,O+,215.8,"6' 0""",2021-05-10
+9388,Andrews,Joseph,B,1938-02-06,M,4710 Norma Lane,Shreveport,LA,71101,JosephBAndrews@dummyemail.com,318-555-6257,Allen,Married,Histology technician,Locost Accessories,O+,197.6,"5' 7""",2021-05-10
+9390,Johnson,James,N,1946-05-03,M,4366 Ashwood Drive,Sioux City,IA,51101,JamesNJohnson@dummyemail.com,712-555-5646,Berger,Married,Residential advisor,L' Fish,AB+,211.9,"5' 8""",2021-05-10
+9396,Lewis,Charles,C,1961-06-07,M,4524 Layman Avenue,Fayetteville,NC,28305,CharlesCLewis@dummyemail.com,910-555-6720,Bartlett,Married,Map editor,Eisner Food Stores,A+,253.7,"5' 5""",2021-05-10
+9400,Forbush,Jacqueline,N,1988-09-14,F,2128 Ward Road,El Paso,TX,79922,JacquelineNForbush@dummyemail.com,915-555-8245,Bergmann,Divorced,Food service worker,Franklin Simon,B+,122.3,"5' 11""",2021-05-10
+9403,Shutt,William,P,1991-02-14,M,4855 Wyatt Street,Boca Raton,FL,33432,WilliamPShutt@dummyemail.com,561-555-0514,Abbott,Single,Textile machine operator,Specialty Restaurant Group,O-,215.8,"5' 6""",2021-05-10
+9406,Fleetwood,Patricia,E,1975-10-10,F,2168 Tecumsah Lane,Collinston,LA,71229,PatriciaEFleetwood@dummyemail.com,318-555-0487,Bailey,Divorced,Internist,Reliable Guidance,B+,210.3,"5' 7""",2021-05-10
+9408,Wright,Clifford,T,1955-04-12,M,851 Saints Alley,Tampa,FL,33602,CliffordTWright@dummyemail.com,813-555-5837,Acton,Married,Labor economist,Eli Moore Inc,O+,202.2,"5' 10""",2021-05-10
+9419,Thompson,Silas,B,1975-10-10,M,1463 Elkview Drive,Doral,FL,33166,SilasBThompson@dummyemail.com,772-555-3924,Bennett,Common-Law,Legislator,Paul's Food Mart,B-,147.0,"5' 11""",2021-05-10
+9422,Blankenship,Josephine,R,1938-07-02,F,2195 Melody Lane,Richmond,VA,23220,JosephineRBlankenship@dummyemail.com,804-555-2160,Black,Divorced,Assembler,Tradewell,O+,142.8,"5' 1""",2021-05-10
+9430,Anderson,Richard,J,1950-05-27,M,558 Spruce Drive,Irwin,PA,15642,RichardJAnderson@dummyemail.com,724-555-8541,Anderson,Single,Bellhop,MegaSolutions,A+,164.6,"5' 6""",2021-05-10
+9432,Martin,Jeffrey,V,1947-09-16,M,681 Khale Street,Florence,SC,29501,JeffreyVMartin@dummyemail.com,843-555-6427,Alt,Divorced,Bicycle repairer,Knockout Kickboxing,O+,218.2,"5' 6""",2021-05-10
+9445,Morvant,Erik,M,1984-10-30,M,3880 Kerry Way,Pico Rivera,CA,90660,ErikMMorvant@dummyemail.com,562-555-0038,Bogan,Single,Astronomer,ABC Markets,A+,137.3,"5' 10""",2021-05-10
+9465,Maurer,Natalie,J,1980-04-14,F,4476 Charack Road,Rising Sun,IN,47040,NatalieJMaurer@dummyemail.com,812-555-4030,Bartley,Single,Oxy-gas cutter,Future Bright,O+,188.3,"5' 3""",2021-05-10
+9467,Campos,Ellen,P,1948-07-05,F,4912 Smith Street,Walpole,MA,2081,EllenPCampos@dummyemail.com,508-555-3002,Black,Married,Hunter,Mars Music,O-,161.0,"5' 6""",2021-05-10
+9483,Sanford,Todd,B,1982-05-03,M,4569 Christie Way,Bedford,MA,1730,ToddBSanford@dummyemail.com,978-555-3484,Barela,Divorced,Pesticide applicator,Simply Appraisals,O+,211.6,"6' 2""",2021-05-10
+9495,Isaac,Kimberly,K,1978-08-28,F,139 Michigan Avenue,New Castle,PA,16101,KimberlyKIsaac@dummyemail.com,724-555-0133,Bergeron,Married,Airframe mechanic,Handy Andy Home Improvement Center,B+,157.7,"5' 3""",2021-05-10
+9510,Cochran,Alice,B,1930-02-06,F,4322 Sycamore Fork Road,Ft Lauderdale,FL,33311,AliceBCochran@dummyemail.com,954-555-5447,Aponte,Common-Law,Fish and game warden,P. Samuels Men's Clothiers,A+,131.1,"5' 1""",2021-05-10
+9514,Cuevas,Marvin,L,1978-12-18,M,3758 Whiteman Street,Somers Point,NJ,8244,MarvinLCuevas@dummyemail.com,609-555-7187,Barfield,Single,Cosmetologist,Widdmann,AB+,166.3,"6' 0""",2021-05-10
+9553,Wideman,Mary,L,1984-11-25,F,551 Philadelphia Avenue,Salt Lake City,UT,84111,MaryLWideman@dummyemail.com,801-555-4765,Archie,Married,Dean,Big A Auto Parts,B+,198.9,"5' 1""",2021-05-10
+9568,Ross,Arnoldo,C,1951-11-11,M,2243 James Avenue,Syracuse,NY,13202,ArnoldoCRoss@dummyemail.com,315-555-3767,Balcom,Single,Technical sales manager,Aaronson Furniture,O+,219.8,"6' 1""",2021-05-10
+9571,Kaiser,Carlos,F,1962-11-28,M,3082 Mesa Drive,Las Vegas,NV,89119,CarlosFKaiser@dummyemail.com,702-555-1579,Beaton,Divorced,Unlicensed assistive personnel,Ejecta,A+,186.8,"6' 2""",2021-05-10
+9589,Hicks,Randy,A,1980-05-23,M,3069 Stratford Court,Goldsboro,NC,27530,RandyAHicks@dummyemail.com,919-555-7590,Baldwin,Married,Lathe and turning machine tool operator,The Pink Pig Tavern,O+,543.8,"6' 3""",2021-05-10
+9625,Harris,Bessie,B,1958-09-18,F,1184 Parrill Court,East Chicago,IN,46312,BessieBHarris@dummyemail.com,219-555-4281,Bell,Common-Law,College counselor,Quality Merchant Services,O+,222.6,"5' 3""",2021-05-10
+9646,Alexander,Mark,D,1971-10-30,M,2853 Bel Meadow Drive,Colton,CA,92324,MarkDAlexander@dummyemail.com,909-555-7315,Antonio,Divorced,Mobile heavy equipment mechanic,Mr. Clark's Appliances,B+,177.3,"5' 7""",2021-05-10
+9674,Caldwell,Brian,M,1957-10-27,M,3919 Brownton Road,Jackson,MS,39201,BrianMCaldwell@dummyemail.com,662-555-0929,Adams,Single,Metal-refining furnace operator,Handy Dan,A+,199.1,"6' 0""""",2021-05-10
+9690,Troiano,Ava,M,1956-11-08,F,1345 Powder House Road,Hialeah,FL,33012,AvaMTroiano@dummyemail.com,561-555-3879,Anderson,Single,Family therapist,Blockbuster Music,O+,119.7,"5' 5""",2021-05-10
+9698,Clary,Leon,S,1979-02-05,M,3279 Goldleaf Lane,Piscataway,NJ,8854,LeonSClary@dummyemail.com,201-555-0714,Blakeley,Common-Law,Administrative services director,Liberal,O+,192.1,"5' 7""",2021-05-10
+9705,Coil,Richard,S,1936-09-22,M,3515 Lochmere Lane,Willimantic,CT,6226,RichardSCoil@dummyemail.com,860-555-7002,Barbeau,Divorced,Information architect librarian,Gas Depot,A+,210.8,"5' 5""",2021-05-10
+9717,Lin,Betty,R,1992-06-30,F,206 Primrose Lane,Fitchburg,WI,53719,BettyRLin@dummyemail.com,608-555-1185,Ayala,Married,Instructional coach,Standard Food,O+,114.8,"5' 7""",2021-05-10
+9725,Wilcoxen,Beverly,C,1975-04-08,F,4874 Elk Avenue,Grass Lake,MI,49240,BeverlyCWilcoxen@dummyemail.com,517-555-6026,Beasley,Divorced,Longshoremen,Golden's Distributors,O+,133.1,"5' 6""",2021-05-10
+9732,Dubois,Donald,S,1986-08-24,M,1872 Feathers Hooves Drive,Huntington,NY,11743,DonaldSDubois@dummyemail.com,631-555-3988,Allen,Single,Knitting machine operator,Audio Visions,B+,218.5,"6' 0""",2021-05-10
+9761,Thompson,Eugene,A,1953-06-13,M,4783 Cantebury Drive,New York,NY,10011,EugeneAThompson@dummyemail.com,646-555-0899,Allison,Divorced,Semiconductor processor,Shoe Town,B+,183.3,"5' 11""",2021-05-10
+9796,Price,Robert,V,1943-01-05,M,4597 Lynn Avenue,Three Lakes,WI,54562,RobertVPrice@dummyemail.com,715-555-6876,Baran,Single,Registered nurse,De-Jaiz Mens Clothing,B+,204.2,"5' 10""",2021-05-10
+9802,Fifield,Francine,W,1980-09-18,F,4452 Myra Street,Providence,RI,2908,FrancineWFifield@dummyemail.com,401-555-4106,Berry,Married,Technical sales support worker,PriceRite Warehouse Club,A+,164.6,"5' 8""",2021-05-10
+9809,Meyers,Mose,J,1971-01-26,M,2784 Brooke Street,Houston,TX,77025,MoseJMeyers@dummyemail.com,713-555-4710,Bailey,Single,Paper goods machine setter,Adaptabiz,O+,143.9,"5' 11""",2021-05-10
+9812,Dumas,Jodi,S,1950-03-09,F,4248 Ridenour Street,Miami,FL,33131,JodiSDumas@dummyemail.com,786-555-6732,Arroyo,Divorced,Hand packer,Magna Consulting,B+,114.4,"5' 1""",2021-05-10
+9824,Reed,Darrin,D,1950-06-08,M,4137 Chandler Hollow Road,Sewickley,PA,15143,DarrinDReed@dummyemail.com,412-555-5439,Arledge,Single,Tool filer,Mission G,A+,196.0,"5' 10""",2021-05-10
+9832,Hastings,Carmen,C,1947-10-07,D,592 Walt Nuzum Farm Road,Rochester,NY,14611,CarmenCHastings@dummyemail.com,585-555-3232,Albin,Single,Software quality assurance analyst,Nan Duskin,O+,173.8,"5' 3""",2021-05-10
+9846,Ochoa,Richard,E,1990-03-19,M,4364 Sycamore Road,Portland,OR,97205,RichardEOchoa@dummyemail.com,541-555-6337,Alexander,Divorced,Nephrology nurse,Awthentikz,A+,164.1,"5' 10""",2021-05-10
+9847,Tran,Anna,A,1971-04-25,F,4667 Farland Street,Chicago,IL,60628,AnnaATran@dummyemail.com,773-555-4425,Allen,Single,Finance manager,Protean,A+,189.6,"5' 4""",2021-05-10
+9851,Wall,Karen,R,1976-09-25,F,4968 Rowes Lane,Paducah,KY,42003,KarenRWall@dummyemail.com,270-555-9658,Alfred,Married,Esthetician,Anderson-Little,A+,123.0,"5' 1""",2021-05-10
+9856,Thompson,Theresa,W,1975-05-07,F,3964 Nicholas Street,Salina,KS,67401,TheresaWThompson@dummyemail.com,785-555-6443,Blumenthal,Divorced,Nurse educator,Foxmoor,O-,122.3,"5' 7""",2021-05-10
+9871,McPherson,Amanda,S,1931-10-07,F,174 Black Oak Hollow Road,Santa Clara,CA,95054,AmandaSMcPherson@dummyemail.com,408-555-5259,Anderson,Divorced,Machinist,JasmineSola,A+,110.7,"5' 2""",2021-05-10
+9899,Vaughn,Ellen,M,1991-03-28,F,3338 Parkview Drive,Los Angeles,CA,90017,EllenMVaughn@dummyemail.com,714-555-8873,Applewhite,Married,Marine biologist,Future Plan,O-,156.0,"5' 5""",2021-05-10
+9904,Stephen,Casey,A,1981-02-01,M,4977 Poling Farm Road,Crete,NE,68333,CaseyAStephen@dummyemail.com,402-555-8570,Alexander,Single,Publicist,Grass Roots Yard Services,O+,224.8,"5' 7""",2021-05-10
+9940,McKoy,Eric,C,1954-09-28,M,3639 Court Street,Saint Charles,MO,63301,EricCMcKoy@dummyemail.com,636-555-0883,Allen,Single,Pediatrician,Titania,O+,160.8,"6' 0""",2021-05-10
+9957,Murray,Leonard,J,1978-08-02,M,4507 Freed Drive,Stockton,CA,95204,LeonardJMurray@dummyemail.com,209-555-4992,Bailey,Single,Shoe and leather worker,The Lawn Guru,O+,225.7,"5' 10""",2021-05-10
+9963,Lane,Tanya,A,1937-10-04,F,3753 Liberty Street,Dallas,TX,75248,TanyaALane@dummyemail.com,214-555-0827,Berry,Divorced,Commercial pilot,Mages,B+,234.1,"5' 3""",2021-05-10
