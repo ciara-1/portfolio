@@ -26,7 +26,8 @@ This two-part project demonstrates the use of PySpark for big data preprocessing
 - **MLlib (Random Forest, ROC evaluation)**
 
 ## 📁 Files Included
-- `Assignment3.ipynb`: Code and results  
-- `Assignment3.html`: Rendered notebook
+- `Assignment3.ipynb`: Jupyter Lab notebook containing data cleaning, analysis, and visualization   
+- `Assignment3.html`: html version of Juputer Lab notebook
+- `project_description.md` : This project overview
 
 *Note:Datasets and output files are not included in this repository due to size constraints and UMLS licensing.*
