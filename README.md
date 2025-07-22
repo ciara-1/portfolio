@@ -12,11 +12,11 @@ My full resume is available [here](./Resume/CiaraLee_Resume.pdf).
 ## Coursework Highlights
 As part of my M.S. program, I completed 39 credit hours covering core competencies in:
 
-- **Big Data**: PySpark, cloud-scale analytics
-- **Health Data Science**: EHR analysis, data wrangling, visualization
-- **Machine Learning & AI**: Predictive modeling, LLMs, decision support
-- **Workflow Engineering**: Process mapping, swimlane diagrams
-- **Data Visualization**: Power BI, Tableau, human factors in UI/UX
+- Big Data Analytics with PySpark & SQL
+- Health Information Visualization (Tableau, Power BI)
+- Workflow Modeling and Project Management in Clinical Environments
+- Applied Data Management and Quality Improvement in Healthcare
+- Scientific Writing and Biostatistics
 
 Detailed descriptions and technical skills used in each course can be found in [Courses](./Courses/course_catalog.md).
 
@@ -42,7 +42,40 @@ Detailed descriptions and technical skills used in each course can be found in [
 - Created a visual story on disparities in infection scores among hospitals.
 
 [Project Summary](./Projects/Multivariate_Infection_Rates/project_description.md)  
-[Dashboard Preview](./Projects/Multivariate_Infection_Rates/HW14_Heatmap_ParallelPlot.png)
+![Dashboard Screenshot](./Projects/Multivariate_Infection_Rates/HW14_Heatmap_ParallelPlot.png)
+
+---
+
+---
+
+### [Deviation Analysis of AHRQ Patient Safety Indicators](./Projects/Deviation_Analysis_Dashboard/project_description.md)
+**Tool:** Tableau  
+**Goal:** Evaluate monthly performance trends, target exceedance, and forecast year-end risks.  
+**Features:** Bullet graphs, independent axes, forecasting, and a CQO-focused dashboard.
+
+[Project Summary](./Projects/Deviation_Analysis_Dashboard/project_description.md)
+![Dashboard Screenshot](./Projects/Deviation_Analysis_Dashboard/Unit7.png)
+
+---
+
+### [Healthy People 2020 — LHI Progress Visualization](./Projects/HealthyPeople2020_LHI_Dashboard/project_description.md)
+**Tool:** Tableau  
+**Goal:** Visualize part-to-whole progress using pie charts, bar charts, and interactive dashboards.  
+**Features:** Accessible color palette, stacked bar, bullet graph with KPIs, and area-based filtering.
+
+[Project Summary](./Projects/HealthyPeople2020_LHI_Dashboard/project_description.md)
+![Dashboard Screenshot](./Projects/HealthyPeople2020_LHI_Dashboard/Unit9.png)
+
+---
+
+### [HCAHPS Hospital Comparison Dashboard](./Projects/HCAHPS_Hospital_Comparison_Tool/project_description.md)
+**Tool:** Tableau  
+**Goal:** Compare hospitals by region and satisfaction scores; support patient-centered hospital selection.  
+**Features:** Faceted filters (state → county → zip), question filters, ranking logic, and individual profile comparison.
+
+[Project Summary](./Projects/HCAHPS_Hospital_Comparison_Tool/project_description.md)
+![Dashboard Screenshot](./Projects/HCAHPS_Hospital_Comparison_Tool/TermProject.png)
+
 
 ---
 
