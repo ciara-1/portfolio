@@ -38,7 +38,7 @@ This dashboard visualizes the status of 26 Leading Health Indicators (LHIs) from
 
 ## Screenshot
 
-[Dashboard Preview](./Unit9.png)
+![Dashboard Preview](./Unit9.png)
 
 ---
 
