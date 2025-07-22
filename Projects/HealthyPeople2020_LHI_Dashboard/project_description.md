@@ -44,6 +44,6 @@ This dashboard visualizes the status of 26 Leading Health Indicators (LHIs) from
 
 ## Files Included
 
-- `LHI-ProgressReport-ExecSum.xls`
-- `Unit9.png` – Screenshot of Tableau dashboard
-- `project_description.md`
+- `Unit9.png` – Dashboard screenshot
+- `LHI-ProgressReport-ExecSum.xls`: Dataset used
+- `project_description.md`: This project overview
