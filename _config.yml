@@ -1,4 +1,4 @@
-title: Ciara-Lyn Lee
-logo: ./portfolio/headshot.png
+title: Ciara-Lyn Lee Portfolio
+logo: ./headshot.png
 show_downloads: false
-theme: minima
+theme: jekyll-theme-cayman
