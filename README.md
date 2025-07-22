@@ -1,6 +1,6 @@
-# Ciara-Lyn Lee — Biomedical Informatics Portfolio
+# Portfolio
 
-Welcome! This repository showcases my work as a Master's student in Biomedical Informatics at UTHealth focused on Health Data Science and Artificial Intelligence. Here you'll find curated coursework, project summaries, dashboard screenshots, and my professional resume.
+Welcome! This repository showcases my work as a Master's student in Biomedical Informatics at UTHealth Science Center at Houston focused on Health Data Science and Artificial Intelligence. Here you'll find curated coursework, project summaries, dashboard screenshots, and my professional resume.
 
 ---
 
