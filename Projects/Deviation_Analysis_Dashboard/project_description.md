@@ -49,6 +49,6 @@ This project analyzes AHRQ Patient Safety Indicators (PSIs) across 12 months usi
 
 ## Files Included
 
-- `Unit 7 Homework Deviation Analysis.xlsx`
-- `Unit7.png` – Screenshot of the final dashboard
-- `project_description.md`
+- `Unit7.png`: Dashboard screenshot
+- `Unit 7 Homework Deviation Analysis.xlsx`: Dataset used
+- `project_description.md`: This project overview
