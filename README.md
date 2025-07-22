@@ -24,7 +24,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ## Projects
 
-### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard
+### 1. UTHealth Houston School of Dentistry — Documentation Compliance Dashboard
 **Tools:** Power BI, DAX, EHR data  
 **Skills:** Data mapping, calculated fields, interactive filters  
 **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
@@ -33,7 +33,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
-### Multivariate Infection Analysis — Tableau Dashboard  
+### 2. Multivariate Infection Analysis — Tableau Dashboard  
 *Healthcare-Associated Infections in Harris County*
 
 - Used parallel coordinate plots and heatmaps to analyze infection scores across 6 metrics.
@@ -45,9 +45,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
----
-
-### [Deviation Analysis of AHRQ Patient Safety Indicators](./Projects/Deviation_Analysis_Dashboard/project_description.md)
+### 3. [Deviation Analysis of AHRQ Patient Safety Indicators](./Projects/Deviation_Analysis_Dashboard/project_description.md)
 **Tool:** Tableau  
 **Goal:** Evaluate monthly performance trends, target exceedance, and forecast year-end risks.  
 **Features:** Bullet graphs, independent axes, forecasting, and a CQO-focused dashboard.
@@ -57,7 +55,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
-### [Healthy People 2020 — LHI Progress Visualization](./Projects/HealthyPeople2020_LHI_Dashboard/project_description.md)
+### 4. [Healthy People 2020 — LHI Progress Visualization](./Projects/HealthyPeople2020_LHI_Dashboard/project_description.md)
 **Tool:** Tableau  
 **Goal:** Visualize part-to-whole progress using pie charts, bar charts, and interactive dashboards.  
 **Features:** Accessible color palette, stacked bar, bullet graph with KPIs, and area-based filtering.
@@ -67,7 +65,7 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
-### [HCAHPS Hospital Comparison Dashboard](./Projects/HCAHPS_Hospital_Comparison_Tool/project_description.md)
+### 5. [HCAHPS Hospital Comparison Dashboard](./Projects/HCAHPS_Hospital_Comparison_Tool/project_description.md)
 **Tool:** Tableau  
 **Goal:** Compare hospitals by region and satisfaction scores; support patient-centered hospital selection.  
 **Features:** Faceted filters (state → county → zip), question filters, ranking logic, and individual profile comparison.
@@ -78,7 +76,14 @@ Detailed descriptions and technical skills used in each course can be found in [
 
 ---
 
-### Houston Methodist — PT/OT Production Tracker
+### 6. SQL Patient & Diagnosis Relational Database  
+**Tool:** SQL (CREATE TABLE, SELECT, JOIN)  
+**Goal:** Design and query a normalized patient-diagnosis dataset using relational schema  
+[Project Summary](./Projects/SQL_Patient_Database/project_description.md)
+
+---
+
+### 7. Houston Methodist — PT/OT Production Tracker
 **Tools:** SQL, Excel, EHR  
 **Skills:** Data extraction, scheduling optimization, reporting  
 **Goal:** Support daily reporting and identify visit gaps to optimize patient throughput.
