@@ -53,6 +53,11 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 
 ---
 
+## Python/Pandas/PySpark Projects
+
+
+---
+
 ## Other Projects
 ### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard ###
 - **Tools:** Power BI, DAX, EHR data  
