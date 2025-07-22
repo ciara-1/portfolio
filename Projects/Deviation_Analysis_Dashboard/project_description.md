@@ -41,9 +41,9 @@ This project analyzes AHRQ Patient Safety Indicators (PSIs) across 12 months usi
 
 ---
 
-## 🖼Screenshot
+## Screenshot
 
-[Dashboard Preview](./Unit7.png)
+![Dashboard Preview](./Unit7.png)
 
 ---
 
