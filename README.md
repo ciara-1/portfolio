@@ -54,6 +54,11 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 ---
 
 ## Python/Pandas/PySpark Projects
+### Outpatient Data Analysis Using OOP (Python)  
+- **Tool:** Python  
+- **Goal:** Analyze outpatient visit data and identify the most common diagnosis using object-oriented methods  
+- [Project Summary](./Projects/OOP_Outpatient_Analysis/project_description.md)
+
 ### Quick Sort Pivot Comparison — Python Benchmarking  
 - **Tool:** Python  
 - **Goal:** Compare average runtimes of Quick Sort using fixed vs. randomized pivot strategies  
