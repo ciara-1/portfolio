@@ -46,6 +46,17 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 
 ---
 
+## Microsoft Power BI Projects
+### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard ###
+- **Tools:** Power BI, DAX, EHR data  
+- **Skills:** Data mapping, calculated fields, interactive filters  
+- **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
+- [Project Summary](./Projects/PowerBI_Dental_Dashboard/project_description.md)  
+- [Final Report](./Projects/PowerBI_Dental_Dashboard/Final_Report.md)  
+  ![Dashboard Screenshot](./Projects/PowerBI_Dental_Dashboard/Dashboard_Screenshot.md)  
+
+---
+
 ## SQL Projects
 ### SQL Patient Diagnosis ###
 - **Goal:** Designed relational schema, queried blood type and diagnosis stats
@@ -91,16 +102,6 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 
 ---
 
-## Microsoft Power BI Projects
-### UTHealth Houston School of Dentistry — Documentation Compliance Dashboard ###
-- **Tools:** Power BI, DAX, EHR data  
-- **Skills:** Data mapping, calculated fields, interactive filters  
-- **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
-- [Project Summary](./Projects/PowerBI_Dental_Dashboard/project_description.md)  
-- [Final Report](./Projects/PowerBI_Dental_Dashboard/Final_Report.md)  
-  ![Dashboard Screenshot](./Projects/PowerBI_Dental_Dashboard/Dashboard_Screenshot.md)  
-
----
 ## Project Mangement Projects
 ### IT Project Management — Telemedicine Implementation  
 - **Tools:** PMBOK, Gantt Chart, Risk Matrix, Cost Estimation  
