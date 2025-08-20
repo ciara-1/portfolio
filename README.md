@@ -52,8 +52,8 @@ View full course descriptions and technologies used in [Courses](./Courses/cours
 - **Skills:** Data mapping, calculated fields, interactive filters  
 - **Goal:** Visualize provider compliance with documentation standards to improve quality of care.
 - [Project Summary](./Projects/PowerBI_Dental_Dashboard/project_description.md)  
-- [Final Report](./Projects/PowerBI_Dental_Dashboard/Final_Report.md)  
-  ![Dashboard Screenshot](./Projects/PowerBI_Dental_Dashboard/Dashboard_Screenshot.md)  
+- [Final Report](./Projects/PowerBI_Dental_Dashboard/Final_Report.pdf)  
+  ![Dashboard Screenshot](./Projects/PowerBI_Dental_Dashboard/Dashboard_Screenshot.png)  
 
 ---
 
